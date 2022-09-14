@@ -1,5 +1,4 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.site/epg_lite.xml.gz,http://epg.auratv.fun/EPG/xmltv.xml.gz" refresh="86400" tvg-shift=0 cache=500
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.site/epg_lite.xml.gz,http://epg.auratv.fun/EPG/xmltv.xml.gz" refresh="86400" tvg-shift=0 cache=500
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.site/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-type="flussonic" group-title="Детские" tvg-logo="http://only4.tv/ch/821.png" logo="http://televizor.org/img/logopit/Boomerang.png" channelId="321" tvg-id="boomerang",Boomerang
 http://hls.stb.md/BOOMERANGTV_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjMxLjMxLjMxLjEwIiwibmJmIjoxNjYyMzE3ODY3LCJleHAiOjE2NjI0MDQyNjcsImlhdCI6MTY2MjMxNzg2NywiaXNzIjoic3RiLnN0YXJuZXQubWQifQ.SCo3cnoxC1A2cxRnSNCABeZtb-z5mt_la5AKFfXmuEE
 http://hls.stb.md/BOOMERANGTV_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjMxLjMxLjMxLjEwIiwibmJmIjoxNjYyNDg5MjExLCJleHAiOjE2NjI1NzU2MTEsImlhdCI6MTY2MjQ4OTIxMSwiaXNzIjoic3RiLnN0YXJuZXQubWQifQ.Smw_u-CuOJopbEzTn5EZKwoP-qjBUJ7bKjQ2eOobL9g
