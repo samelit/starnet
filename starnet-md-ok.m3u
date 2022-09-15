@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.site/epg_lite.xml.gz,http://epg.auratv.fun/EPG/xmltv.xml.gz" refresh="86400" tvg-shift=0 cache=500
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.site/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-type="flussonic" group-title="Детские" tvg-logo="http://only4.tv/ch/821.png" logo="http://televizor.org/img/logopit/Boomerang.png" channelId="321" tvg-id="boomerang",Boomerang
 http://hls.stb.md/BOOMERANGTV_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjIxNy4xOS4yMTEuNzciLCJuYmYiOjE2NjI5ODM2MTQsImV4cCI6MTY2MzA3MDAxNCwiaWF0IjoxNjYyOTgzNjE0LCJpc3MiOiJzdGIuc3Rhcm5ldC5tZCJ9.XwYMnfDjkXyq3qkyIwkKLUPe-W3aHn-_Mh4peUp6FGk
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-type="flussonic" group-title="Детские" tvg-logo="http://only4.tv/ch/802.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_322_8_70_168AFFC_0_0_0.png" channelId="-1",Cartoon Network RO
