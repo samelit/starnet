@@ -1,362 +1,233 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Сгенерировано: 05.03.2026 11:10 | live.viks.tv
-# Каналов: 119
+# Сгенерировано: 05.03.2026 15:24 | live.viks.tv
+# Каналов: 76
 
-#EXTINF:-1 tvg-name="ТЕТ",ТЕТ
-https://s.viks.tv/t0G1i0sygV9m2Yc2k0Q3ig/603/1772718700/index.m3u8
-
-#EXTINF:-1 tvg-name="Top Secret",Top Secret
-https://s.viks.tv/KgMXelfIVE8RypDcEfIzQA/546/1772718706/index.m3u8
-
-#EXTINF:-1 tvg-name="ID Xtra",ID Xtra
-https://s.viks.tv/Zmy_Z1TZjyC7K_BhYsta5w/570/1772718713/index.m3u8
-
-#EXTINF:-1 tvg-name="Интер",Интер
-https://s.viks.tv/xfuhE9i6l1jQXxUBbLOLPQ/514/1772718720/index.m3u8
-
-#EXTINF:-1 tvg-name="9 канал Израиль",9 канал Израиль
-https://s.viks.tv/T6-_kuK1Pch2f8YSqbdphw/185/1772718733/index.m3u8
-
-#EXTINF:-1 tvg-name="Остросюжетное HD",Остросюжетное HD
-https://s.viks.tv/mF_dliifrSjwnAs-gJy_HA/578/1772718739/index.m3u8
+#EXTINF:-1 tvg-name="24 Техно",24 Техно
+https://s.viks.tv/MlhoppIVSfs0sVeUrPwe-A/116/1772733861/index.m3u8
 
 #EXTINF:-1 tvg-name="Ля минор",Ля минор
-https://s.viks.tv/e7T7eX2zCmGKAG0Myh5kjg/199/1772718765/index.m3u8
-
-#EXTINF:-1 tvg-name="Discovery",Discovery
-https://s.viks.tv/N76sRUzAUFh1biWo1kNb8g/520/1772718772/index.m3u8
+https://s.viks.tv/eiT8tAkOHaeD6tcUSdpWyw/199/1772733869/index.m3u8
 
 #EXTINF:-1 tvg-name="Sony Sci-Fi",Sony Sci-Fi
-https://s.viks.tv/e-Sk2fa-DrNjjKYskGve7w/145/1772718791/index.m3u8
+https://s.viks.tv/lcSFANE6ARWsBJd4YiLi5w/145/1772733898/index.m3u8
 
 #EXTINF:-1 tvg-name="КИНО ТВ",КИНО ТВ
-https://s.viks.tv/hEjUEw8kwbbDLjzdfsZ-Gw/504/1772718797/index.m3u8
-
-#EXTINF:-1 tvg-name="Дождь",Дождь
-https://s.viks.tv/dtH0RTwYLH6t6zQGk6mdiw/178/1772718804/index.m3u8
-
-#EXTINF:-1 tvg-name="History 2",History 2
-https://s.viks.tv/q8Pnx54SCHBhup85MzLJjg/224/1772718810/index.m3u8
-
-#EXTINF:-1 tvg-name="Viasat Nature",Viasat Nature
-https://s.viks.tv/O5BwMm_4nkWVtvdcKF516Q/110/1772718822/index.m3u8
+https://s.viks.tv/WUEgK39jluqGcWW-zN_R8A/504/1772733905/index.m3u8
 
 #EXTINF:-1 tvg-name="СТБ",СТБ
-https://s.viks.tv/_8nlSnOs5ivWkco2cXU7NA/101/1772718836/index.m3u8
-
-#EXTINF:-1 tvg-name="М1",М1
-https://s.viks.tv/a-iExD_b4LnrUf4SyTH75Q/162/1772718842/index.m3u8
+https://s.viks.tv/5jzwrUIGvXS0w1DcQeUMJQ/101/1772733947/index.m3u8
 
 #EXTINF:-1 tvg-name="Новый канал",Новый канал
-https://s.viks.tv/vRsMsNJVoasbFkFtEhd7gw/573/1772718849/index.m3u8
-
-#EXTINF:-1 tvg-name="Оружие",Оружие
-https://s.viks.tv/NB6H9Dng-32943JUqXBCSQ/117/1772718862/index.m3u8
-
-#EXTINF:-1 tvg-name="Победа",Победа
-https://s.viks.tv/M_Ta8dahbvwbKYxHQ3yfeA/218/1772718868/index.m3u8
+https://s.viks.tv/7WRlearh_8LiqrOEoV8kzQ/573/1772733961/index.m3u8
 
 #EXTINF:-1 tvg-name="Муз ТВ",Муз ТВ
-https://s.viks.tv/dqOOSKla4amksJs98jiD6g/163/1772718875/index.m3u8
+https://s.viks.tv/cJHmYBD156ITX1uO9RL9Zw/163/1772733991/index.m3u8
 
-#EXTINF:-1 tvg-name="MTV 00s",MTV 00s
-https://s.viks.tv/JIba8QE-IB33rpY0_z2VEA/175/1772718888/index.m3u8
-
-#EXTINF:-1 tvg-name="DTX",DTX
-https://s.viks.tv/ggpBqo12pK8cuTNJnTmzGw/228/1772718894/index.m3u8
-
-#EXTINF:-1 tvg-name="2+2",2+2
-https://s.viks.tv/bm98UAcAoD-j5Iie-RYP9w/238/1772718919/index.m3u8
-
-#EXTINF:-1 tvg-name="Том и Джерри",Том и Джерри
-https://s.viks.tv/_8cdbkGglZW9PqRdEIIGHg/156/1772718926/index.m3u8
-
-#EXTINF:-1 tvg-name="Viasat Explorer",Viasat Explorer
-https://s.viks.tv/TOOQOYtcal_aFagNk3pY_g/109/1772718932/index.m3u8
-
-#EXTINF:-1 tvg-name="Animal Planet",Animal Planet
-https://s.viks.tv/SZ_Wc46GTydR3AJ-QUsIuQ/600/1772718939/index.m3u8
+#EXTINF:-1 tvg-name="MTV 80s",MTV 80s
+https://s.viks.tv/esmAAZIVhF2kF7cGrv5z9w/174/1772733998/index.m3u8
 
 #EXTINF:-1 tvg-name="Ю ТВ",Ю ТВ
-https://s.viks.tv/4QyyGHuBUtlRTE6tPBwDxA/107/1772718945/index.m3u8
+https://s.viks.tv/yiegUzmJ95dnHyF5aaDooQ/107/1772734065/index.m3u8
 
 #EXTINF:-1 tvg-name="Охота и рыбалка",Охота и рыбалка
-https://s.viks.tv/xTkw798Z2GCwUi2Vk0fLPA/538/1772718952/index.m3u8
-
-#EXTINF:-1 tvg-name="Ералаш",Ералаш
-https://s.viks.tv/Is4DC4wTJUdgPI1jaLtmwA/512/1772718959/index.m3u8
-
-#EXTINF:-1 tvg-name="Русский детектив",Русский детектив
-https://s.viks.tv/0Jo01IYM-s2WQhGIxAf1qQ/136/1772718965/index.m3u8
+https://s.viks.tv/8rI8F-L4P9G_fAwbda7dkQ/538/1772734073/index.m3u8
 
 #EXTINF:-1 tvg-name="National Geographic",National Geographic
-https://s.viks.tv/JTHynclMHqCKZRnz2F09kA/601/1772718971/index.m3u8
+https://s.viks.tv/sLEiWF7bXfZOly20bgG0oA/601/1772734093/index.m3u8
 
-#EXTINF:-1 tvg-name="Мульт",Мульт
-https://s.viks.tv/CpNLhwOPzKSSM2ZV65rk3Q/206/1772718978/index.m3u8
-
-#EXTINF:-1 tvg-name="2х2",2х2
-https://s.viks.tv/Mko54jDxrs2_kL_tzadM_w/153/1772718984/index.m3u8
-
-#EXTINF:-1 tvg-name="Кинохит",Кинохит
-https://s.viks.tv/3Uh8-KeumocIZ9Ra3ZNj9Q/200/1772718990/index.m3u8
-
-#EXTINF:-1 tvg-name="Звезда",Звезда
-https://s.viks.tv/J9kuTFwQwPgAZNaxjKBKwg/125/1772719004/index.m3u8
-
-#EXTINF:-1 tvg-name="Nickelodeon",Nickelodeon
-https://s.viks.tv/-MDZ3wO79giu8WJWzYLBSg/155/1772719010/index.m3u8
-
-#EXTINF:-1 tvg-name="Disney",Disney
-https://s.viks.tv/7otBuSDgWl28LEW6u7EOqQ/154/1772719018/index.m3u8
+#EXTINF:-1 tvg-name="Русский роман",Русский роман
+https://s.viks.tv/SuN6sqONKZ-Uvay7-YADPQ/556/1772734159/index.m3u8
 
 #EXTINF:-1 tvg-name="History",History
-https://s.viks.tv/sfAe6Tml9ZnKQrDkz18Yug/114/1772719044/index.m3u8
+https://s.viks.tv/m8A8aWy-zuwQfgT1LfxCiA/114/1772734167/index.m3u8
 
 #EXTINF:-1 tvg-name="Мужское кино",Мужское кино
-https://s.viks.tv/bDsWfPQiOyj8HACR96LEOA/593/1772719051/index.m3u8
+https://s.viks.tv/lljk_EVXVtZe7_PfqIcVQg/593/1772734175/index.m3u8
 
-#EXTINF:-1 tvg-name="Дом кино",Дом кино
-https://s.viks.tv/i0jgQzE_HDp09IJp_poAAg/186/1772719064/index.m3u8
+#EXTINF:-1 tvg-name="ICTV",ICTV
+https://s.viks.tv/VM8l1O4l0rLzUn0mt-XJhQ/103/1772734196/index.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ",ТНТ
-https://s.viks.tv/-5O8YxilSjv1i43A4yiDgw/547/1772719083/index.m3u8
+https://s.viks.tv/6H5BHMHPB-G_lBQ-WjoZxg/547/1772734212/index.m3u8
 
 #EXTINF:-1 tvg-name="Страшное HD",Страшное HD
-https://s.viks.tv/2bEN9txjlVL534-kLCnBGA/216/1772719090/index.m3u8
+https://s.viks.tv/Znq5wTgfVBaXCmgUwUSnkw/216/1772734220/index.m3u8
+
+#EXTINF:-1 tvg-name="КиноУжас",КиноУжас
+https://s.viks.tv/e-deWcxOSkFlKIv3VeOPpg/227/1772734228/index.m3u8
 
 #EXTINF:-1 tvg-name="Прямой (Украина)",Прямой (Украина)
-https://s.viks.tv/FupYkGrYTWw_iUvSiDgPxQ/599/1772719102/index.m3u8
+https://s.viks.tv/0awPG4qRI7UxIvbClRmzUw/599/1772734236/index.m3u8
+
+#EXTINF:-1 tvg-name="Шокирующее HD",Шокирующее HD
+https://s.viks.tv/tSecOThehdR3EZJCdUGgYQ/169/1772734244/index.m3u8
 
 #EXTINF:-1 tvg-name="1000",1000
-https://s.viks.tv/JYXXvivW2uT_O2vbCY8Vtw/137/1772719121/index.m3u8
+https://s.viks.tv/uIkrxwjvF5aozSPSr3rUug/137/1772734258/index.m3u8
 
 #EXTINF:-1 tvg-name="Мосфильм",Мосфильм
-https://s.viks.tv/lIGBP-FW_ruypGsPv70HHw/235/1772719128/index.m3u8
+https://s.viks.tv/G_AaFKcw9Np8ZdAtExLLdw/235/1772734266/index.m3u8
 
 #EXTINF:-1 tvg-name="Hollywood",Hollywood
-https://s.viks.tv/Xhr578CjctB1NXeNiQzzIA/586/1772719135/index.m3u8
+https://s.viks.tv/vwqmA1PJFbYEB_yK65PKoQ/586/1772734274/index.m3u8
+
+#EXTINF:-1 tvg-name="НТВ Хит",НТВ Хит
+https://s.viks.tv/bEuUZt-3HSXTByxZi03RXg/508/1772734281/index.m3u8
+
+#EXTINF:-1 tvg-name="Наш детектив",Наш детектив
+https://s.viks.tv/NbEb2laaS93wp5iKI8QUoA/171/1772734289/index.m3u8
+
+#EXTINF:-1 tvg-name=".red",.red
+https://s.viks.tv/5z9U001Gehv6ja5xyBEFpw/576/1772734297/index.m3u8
 
 #EXTINF:-1 tvg-name="Nick Jr",Nick Jr
-https://s.viks.tv/CSE5Au2SROyg5URzZwG9lQ/210/1772719160/index.m3u8
+https://s.viks.tv/hbL9Fj6obxZp2FmFeHROSw/210/1772734305/index.m3u8
 
 #EXTINF:-1 tvg-name="VIP Megahit",VIP Megahit
-https://s.viks.tv/0T59FvK-NGXGFNqxL8oqNw/141/1772719166/index.m3u8
+https://s.viks.tv/MabuIm7eg0wcLMwz8vZqfA/141/1772734313/index.m3u8
 
 #EXTINF:-1 tvg-name="1000 Action",1000 Action
-https://s.viks.tv/XxkiuIha9ATy8ssyFyKKXQ/138/1772719172/index.m3u8
+https://s.viks.tv/_Yq0bTl2m5_h6NiYjJT-mw/138/1772734321/index.m3u8
 
-#EXTINF:-1 tvg-name="Дом Кино Премиум",Дом Кино Премиум
-https://s.viks.tv/c-gpOVQ1j1NjJUByTR-07w/187/1772719185/index.m3u8
+#EXTINF:-1 tvg-name="Родное кино",Родное кино
+https://s.viks.tv/H4ACRQcfA8fE4sssfQfBzw/179/1772734341/index.m3u8
 
-#EXTINF:-1 tvg-name="Discovery science",Discovery science
-https://s.viks.tv/Z7BdR1Yt_Ni_azUR0eIbOA/571/1772719197/index.m3u8
-
-#EXTINF:-1 tvg-name="Пятый",Пятый
-https://s.viks.tv/_IqLnkeuynt5EVWqlZdiRA/524/1772719204/index.m3u8
-
-#EXTINF:-1 tvg-name="Zee TV",Zee TV
-https://s.viks.tv/6XRK_HIyW2Q7RUPKUhCrjA/552/1772719217/index.m3u8
-
-#EXTINF:-1 tvg-name="VIP Premiere",VIP Premiere
-https://s.viks.tv/4FcgGdRN_mcIly06F6XpbQ/140/1772719223/index.m3u8
-
-#EXTINF:-1 tvg-name="История",История
-https://s.viks.tv/r8lFn8wIGN-DOchV9vLdig/212/1772719230/index.m3u8
-
-#EXTINF:-1 tvg-name="VIP Comedy",VIP Comedy
-https://s.viks.tv/ubCDWMsePISFELZh5syJFQ/142/1772719236/index.m3u8
-
-#EXTINF:-1 tvg-name="Zoom",Zoom
-https://s.viks.tv/u3qCzeyZU9eDsp4mpbxYTg/231/1772719243/index.m3u8
+#EXTINF:-1 tvg-name=".black",.black
+https://s.viks.tv/zGbvhCxaN-vEUHifnDCusA/577/1772734400/index.m3u8
 
 #EXTINF:-1 tvg-name="DNK",DNK
-https://s.viks.tv/-at8ICcNx2x-fM_zqRw9qA/604/1772719274/index.m3u8
-
-#EXTINF:-1 tvg-name="Amedia Hit",Amedia Hit
-https://s.viks.tv/09LjwwykLdoosLCWXkPyMg/183/1772719280/index.m3u8
-
-#EXTINF:-1 tvg-name="Бигуди",Бигуди
-https://s.viks.tv/5e7tcUVFjLDrG2yL6fiViQ/605/1772719293/index.m3u8
-
-#EXTINF:-1 tvg-name="Мега",Мега
-https://s.viks.tv/vVWO6ilW_Fh2PFrjRhBu0A/536/1772719300/index.m3u8
+https://s.viks.tv/IxOwpHWDPAlDQdSS94MW_Q/604/1772734432/index.m3u8
 
 #EXTINF:-1 tvg-name="1000 Русское кино",1000 Русское кино
-https://s.viks.tv/ziJM58F-RPMB8a6gsJtBrw/139/1772719306/index.m3u8
+https://s.viks.tv/OU57EVymhcJyJnkSKq25dw/139/1772734466/index.m3u8
 
-#EXTINF:-1 tvg-name="Кинопремьера",Кинопремьера
-https://s.viks.tv/gKPMOwKNNsJjED6oTE0IdA/203/1772719313/index.m3u8
-
-#EXTINF:-1 tvg-name="СТС Love",СТС Love
-https://s.viks.tv/RtHUAg3qRD-uKCNa0sYw_A/123/1772719319/index.m3u8
-
-#EXTINF:-1 tvg-name="Мульт",Мульт
-https://s.viks.tv/5F4POTE6GulArJ5teQTLuA/206/1772719332/index.m3u8
+#EXTINF:-1 tvg-name="СТС",СТС
+https://s.viks.tv/d-CpvhWu3xpY3NoXuEtPTg/591/1772734487/index.m3u8
 
 #EXTINF:-1 tvg-name="Карусель",Карусель
-https://s.viks.tv/jxfNBZkmmvVjmf9QzhWJHg/157/1772719339/index.m3u8
-
-#EXTINF:-1 tvg-name="Первый Вегетарианский",Первый Вегетарианский
-https://s.viks.tv/1fsE8_Zyn3IPtgcnmn17PQ/143/1772719351/index.m3u8
+https://s.viks.tv/-WTv4mbW_nKr5NxZsLCHtg/157/1772734501/index.m3u8
 
 #EXTINF:-1 tvg-name="Приключения HD",Приключения HD
-https://s.viks.tv/7seLO3NSev0l39NlsrNGlQ/542/1772719358/index.m3u8
+https://s.viks.tv/VBivnrYzVjqEvaLlHijMJA/542/1772734522/index.m3u8
 
 #EXTINF:-1 tvg-name="Дорама",Дорама
-https://s.viks.tv/nscm5LiBMnb0fCkbJIrSzA/562/1772719364/index.m3u8
+https://s.viks.tv/Caw7yXWZaoBpp9o3MM5YmA/562/1772734530/index.m3u8
 
 #EXTINF:-1 tvg-name="Bridge TV",Bridge TV
-https://s.viks.tv/XJi9pJGmJJ5QjXXA-p2f4A/160/1772719371/index.m3u8
-
-#EXTINF:-1 tvg-name="Первый канал",Первый канал
-https://s.viks.tv/Lu5zWtDvoYZUhQDzUgzKkA/540/1772719377/index.m3u8
-
-#EXTINF:-1 tvg-name="Моя Стихия",Моя Стихия
-https://s.viks.tv/rELBiClS1lksdBlHqX9FPg/592/1772719384/index.m3u8
+https://s.viks.tv/1tRhUuUQ91yZQzFIUy5mcg/160/1772734538/index.m3u8
 
 #EXTINF:-1 tvg-name="Че ТВ",Че ТВ
-https://s.viks.tv/Dz8kraBqQHNbIeP2grABAg/526/1772719390/index.m3u8
+https://s.viks.tv/5MuveBh4GZRlWoyjhS7YMw/526/1772734558/index.m3u8
 
 #EXTINF:-1 tvg-name="Бобёр",Бобёр
-https://s.viks.tv/c2IA34aQeWVww9balix5bw/189/1772719397/index.m3u8
+https://s.viks.tv/L5DrcqVbGLnKIb0aLoChAw/189/1772734566/index.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ MUSIC",ТНТ MUSIC
-https://s.viks.tv/_uAEv7HQUYYCAJLT3QSCVg/159/1772719403/index.m3u8
+https://s.viks.tv/vWDSdMWeVaNb9AQn_90ukQ/159/1772734574/index.m3u8
 
 #EXTINF:-1 tvg-name="Еврокино",Еврокино
-https://s.viks.tv/ccJSBXfG1gF_MmEiNFOK1A/126/1772719410/index.m3u8
+https://s.viks.tv/lXtLNu4HMhzE0dEXQrCQOQ/126/1772734582/index.m3u8
 
 #EXTINF:-1 tvg-name="Еда ТВ",Еда ТВ
-https://s.viks.tv/Kz0fZEyvrO2qBauSE2QnMg/198/1772719416/index.m3u8
-
-#EXTINF:-1 tvg-name="Любимое Кино",Любимое Кино
-https://s.viks.tv/E3F9h4A-ZCSVo18SKew-ug/534/1772719423/index.m3u8
+https://s.viks.tv/-ZhRg0DJYwFdaZdG3EqUbQ/198/1772734590/index.m3u8
 
 #EXTINF:-1 tvg-name="Моя планета",Моя планета
-https://s.viks.tv/-y8H1PA0y52H3go-TfQcFw/118/1772719429/index.m3u8
+https://s.viks.tv/4ACE4GkCMpl01NxmOkjqKA/118/1772734604/index.m3u8
 
 #EXTINF:-1 tvg-name="ТВЦ",ТВЦ
-https://s.viks.tv/ZRvNdRjmLm9tOHHJGBr-jA/548/1772719436/index.m3u8
+https://s.viks.tv/TWqga9FAkmG21BXqKtnWyg/548/1772734613/index.m3u8
 
-#EXTINF:-1 tvg-name="РТР Планета",РТР Планета
-https://s.viks.tv/JhiHbkdVxcl3zcGjCZfzfg/580/1772719448/index.m3u8
-
-#EXTINF:-1 tvg-name="Galaxy TV",Galaxy TV
-https://s.viks.tv/itMRntjEvXiYzlAb7WGQtQ/205/1772719454/index.m3u8
-
-#EXTINF:-1 tvg-name="Россия 24",Россия 24
-https://s.viks.tv/kj0wcR4j5voiR-aBGFinTA/563/1772719461/index.m3u8
+#EXTINF:-1 tvg-name="Ностальгия",Ностальгия
+https://s.viks.tv/_RuLyUXSSGax4dGStxGHpw/584/1772734620/index.m3u8
 
 #EXTINF:-1 tvg-name="НТВ",НТВ
-https://s.viks.tv/_g8c1m_L1gyD4mCubIhceg/537/1772719467/index.m3u8
+https://s.viks.tv/G0PCIrojAl9mlx-0bCkNmw/537/1772734647/index.m3u8
 
 #EXTINF:-1 tvg-name="Романтичное HD",Романтичное HD
-https://s.viks.tv/k-T3et6gb_e1DPp194hW2Q/505/1772719492/index.m3u8
+https://s.viks.tv/rdfUvAdm0DVM1Lqw8JsiaA/505/1772734677/index.m3u8
 
 #EXTINF:-1 tvg-name="Киносерия",Киносерия
-https://s.viks.tv/7RbghWBsgAOgKq359jIKYQ/506/1772719498/index.m3u8
+https://s.viks.tv/iJVzIZZUl2K6IypXFlb2SA/506/1772734685/index.m3u8
 
 #EXTINF:-1 tvg-name="Душевное",Душевное
-https://s.viks.tv/dc_gL5CQWfIyhvFaC-i8SA/172/1772719505/index.m3u8
+https://s.viks.tv/gCapY8a2_Zn_ydp9p4FoHg/172/1772734693/index.m3u8
 
-#EXTINF:-1 tvg-name="Дикая Охота HD",Дикая Охота HD
-https://s.viks.tv/56pcOgqzjFt6EHtK0eUsRg/527/1772719543/index.m3u8
+#EXTINF:-1 tvg-name="НТВ Сериал",НТВ Сериал
+https://s.viks.tv/qbTMVs9e6Ta0a1z17vr6cg/509/1772734701/index.m3u8
 
 #EXTINF:-1 tvg-name="Квартал ТВ",Квартал ТВ
-https://s.viks.tv/JiIzjZiWD46hmjo0dmW7-A/602/1772719549/index.m3u8
+https://s.viks.tv/ME7Y03VMbVzRVyPFw2Y8-Q/602/1772734740/index.m3u8
+
+#EXTINF:-1 tvg-name="ЖАРА",ЖАРА
+https://s.viks.tv/paEpC-YhAGVA1HoPiwNAHw/144/1772734748/index.m3u8
 
 #EXTINF:-1 tvg-name="Киносвидание",Киносвидание
-https://s.viks.tv/RuHeOxb41pUcvq8FYCiCGw/532/1772719568/index.m3u8
+https://s.viks.tv/ZMy9P6o-20UHipdc5SVyZA/532/1772734762/index.m3u8
+
+#EXTINF:-1 tvg-name="Дикий",Дикий
+https://s.viks.tv/FgdOYv8VrwdzS2ppDjZcBw/528/1772734770/index.m3u8
 
 #EXTINF:-1 tvg-name="Bollywood",Bollywood
-https://s.viks.tv/pozglGtM8WbcO2Cz7dRObQ/184/1772719594/index.m3u8
-
-#EXTINF:-1 tvg-name="Мир сериала",Мир сериала
-https://s.viks.tv/kjwhES75I7R9KIbaI2ZYOQ/589/1772719600/index.m3u8
-
-#EXTINF:-1 tvg-name="Доктор",Доктор
-https://s.viks.tv/TwOgnW8xJ1MP5WQKb1dwtA/120/1772719606/index.m3u8
-
-#EXTINF:-1 tvg-name="Русский иллюзион",Русский иллюзион
-https://s.viks.tv/y3bYZb7s5Wr7YmaVFid7yA/131/1772719613/index.m3u8
+https://s.viks.tv/VFh1kJiF9yRW9rkmZUcyNw/184/1772734791/index.m3u8
 
 #EXTINF:-1 tvg-name="Gulli",Gulli
-https://s.viks.tv/t4ufCqKahXPnW48ilT2ZgA/180/1772719621/index.m3u8
+https://s.viks.tv/-0Jv0od9UtpwpcQTNE9MuA/180/1772734819/index.m3u8
 
 #EXTINF:-1 tvg-name="Авто Плюс",Авто Плюс
-https://s.viks.tv/rE1EOdEXpVh-U4gW9v2_Dw/147/1772719627/index.m3u8
+https://s.viks.tv/cEogJqe-aXku0zfGKQQm1g/147/1772734826/index.m3u8
 
 #EXTINF:-1 tvg-name="Киномикс",Киномикс
-https://s.viks.tv/f49bYJjVJgufuM-LPIm5Gg/181/1772719634/index.m3u8
+https://s.viks.tv/qNwGkQyetyEG8h4kUHWHLA/181/1772734834/index.m3u8
 
 #EXTINF:-1 tvg-name="Русский экстрим",Русский экстрим
-https://s.viks.tv/ueNdc2tv2I2Bep_j9tWjOA/522/1772719640/index.m3u8
+https://s.viks.tv/t_mFarOasFiW49SZUSeISQ/522/1772734842/index.m3u8
 
 #EXTINF:-1 tvg-name="М2",М2
-https://s.viks.tv/D9Ui-BbMCrQ9AZqJmNx5zw/176/1772719646/index.m3u8
+https://s.viks.tv/6YoTXTHQKfxqbWq4SgpISg/176/1772734850/index.m3u8
 
 #EXTINF:-1 tvg-name="Мужской",Мужской
-https://s.viks.tv/ULtRbcuVo9dugwni67Ze-g/188/1772719653/index.m3u8
+https://s.viks.tv/_ithE8b2_2ILcYS94Q60Vg/188/1772734858/index.m3u8
 
 #EXTINF:-1 tvg-name="Paramount Channel",Paramount Channel
-https://s.viks.tv/PA9ZQfgWxgJwvslUMijfnA/182/1772719660/index.m3u8
+https://s.viks.tv/SZlMGjzPjTmRe_56EzrWJw/182/1772734866/index.m3u8
 
-#EXTINF:-1 tvg-name="A1",A1
-https://s.viks.tv/lHXqQF68976nXMZtbZj0kA/132/1772719678/index.m3u8
+#EXTINF:-1 tvg-name="Ani",Ani
+https://s.viks.tv/Mm50gmJRPnEjRWVupLrw7Q/190/1772734874/index.m3u8
 
-#EXTINF:-1 tvg-name="Amedia Premium HD",Amedia Premium HD
-https://s.viks.tv/DV57q9exo35QIj2r6x9Abw/193/1772719685/index.m3u8
-
-#EXTINF:-1 tvg-name="Иллюзион Плюс",Иллюзион Плюс
-https://s.viks.tv/djobr55fmmxehGg22TU5Vw/130/1772719703/index.m3u8
-
-#EXTINF:-1 tvg-name="Nat Geo Wild",Nat Geo Wild
-https://s.viks.tv/nWpsl_4kORfpqNv_MDV2Vw/564/1772719710/index.m3u8
-
-#EXTINF:-1 tvg-name="Кухня ТВ",Кухня ТВ
-https://s.viks.tv/zuW7dKfQtCV0Ekcm9u_0dA/196/1772719722/index.m3u8
+#EXTINF:-1 tvg-name="Travel Channel",Travel Channel
+https://s.viks.tv/aURghBZvzzwADIHRrPk5fg/113/1772734925/index.m3u8
 
 #EXTINF:-1 tvg-name="Fox Life",Fox Life
-https://s.viks.tv/0s9u56CeiKoGIpZsQM4cJA/568/1772719729/index.m3u8
+https://s.viks.tv/rNgDbnmLHOQxgVvb33POtA/568/1772734940/index.m3u8
 
-#EXTINF:-1 tvg-name="Travel and Adventure",Travel and Adventure
-https://s.viks.tv/eezgiRTyQpHQBmVcMsqJUw/112/1772719735/index.m3u8
-
-#EXTINF:-1 tvg-name="BBC World News",BBC World News
-https://s.viks.tv/oZF0UZQwvJ7Dm3DANEymeQ/201/1772719742/index.m3u8
+#EXTINF:-1 tvg-name="Tiji",Tiji
+https://s.viks.tv/T9MPgU1-4obcBZSXmLI8VA/202/1772734967/index.m3u8
 
 #EXTINF:-1 tvg-name="MTV Hits",MTV Hits
-https://s.viks.tv/_1wXh7mTo42P_dIBvQHM7Q/204/1772719760/index.m3u8
+https://s.viks.tv/of13vY7GZKeisim6KBwAsA/204/1772734975/index.m3u8
 
 #EXTINF:-1 tvg-name="Europa Plus TV",Europa Plus TV
-https://s.viks.tv/eWSPWtDYYMgC-dVlEH7dAQ/574/1772719766/index.m3u8
+https://s.viks.tv/rx6uctVBraTxH1LDIov9dA/574/1772734983/index.m3u8
 
 #EXTINF:-1 tvg-name="Кинокомедия",Кинокомедия
-https://s.viks.tv/6NjmuPUGSYcNTEileT0FEw/129/1772719773/index.m3u8
+https://s.viks.tv/lIxhUgsC6GrThlCF4O0-nQ/129/1772734991/index.m3u8
 
 #EXTINF:-1 tvg-name="Русский бестселлер",Русский бестселлер
-https://s.viks.tv/E_eOsLHOHFoCjvUObrAQmw/135/1772719780/index.m3u8
-
-#EXTINF:-1 tvg-name="365",365
-https://s.viks.tv/mIAns9QyKpItCz7ivaWeKQ/108/1772719786/index.m3u8
-
-#EXTINF:-1 tvg-name="Сарафан",Сарафан
-https://s.viks.tv/ro84OYUo5yanWtwM6vMziQ/209/1772719799/index.m3u8
+https://s.viks.tv/LJcLxwV2XYpfjDCP0nY62A/135/1772734999/index.m3u8
 
 #EXTINF:-1 tvg-name="Россия РТР",Россия РТР
-https://s.viks.tv/QC3yJAP-SP7Q6HYovOTDHg/580/1772719806/index.m3u8
+https://s.viks.tv/es40N0WOg4JQwM69W26F0w/580/1772735026/index.m3u8
 
 #EXTINF:-1 tvg-name="ОЦЕ",ОЦЕ
-https://s.viks.tv/6G-EWmMW1JuG_EvrEFjhMg/554/1772719812/index.m3u8
+https://s.viks.tv/_yoVN2wZn-eoIj77OkQ-Ig/554/1772735034/index.m3u8
 
 #EXTINF:-1 tvg-name="РБК",РБК
-https://s.viks.tv/iRaGnhu67BEdNtbQDJjFYg/588/1772719819/index.m3u8
+https://s.viks.tv/C1P8pxg9ZPPGdS5bhHDoow/588/1772735042/index.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 1",Беларусь 1
-https://s.viks.tv/gF0mWWbDoZsKA-HkE6zgkQ/557/1772719826/index.m3u8
+https://s.viks.tv/cepxw3p70RcmDEKbWQauqQ/557/1772735050/index.m3u8
 
 #EXTINF:-1 tvg-name="RU TV",RU TV
-https://s.viks.tv/8B_Xd_xMJEyivSLyConYLw/596/1772719832/index.m3u8
+https://s.viks.tv/1jPAd80Xb5s1yyPIHskwcw/596/1772735057/index.m3u8
 
