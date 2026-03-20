@@ -1,735 +1,735 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/1.gif" group-title="Общий",Россия 1
-http://iptv-live.idc.md/hls/1/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/1/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/2.gif" group-title="Общий",ТСВ
-http://iptv-live.idc.md/hls/2/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/2/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/3.gif" group-title="Общий",Первый
-http://iptv-live.idc.md/hls/3/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/3/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/4.gif" group-title="Общий",Перший
-http://iptv-live.idc.md/hls/4/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/4/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/5.gif" group-title="Общий",Discovery
-http://iptv-live.idc.md/hls/5/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/5/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/6.gif" group-title="Общий",Пятница
-http://iptv-live.idc.md/hls/6/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/6/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/7.gif" group-title="Общий",Animal Planet
-http://iptv-live.idc.md/hls/7/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/7/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/8.gif" group-title="Общий",МАТЧ! ФУТБОЛ 1
-http://iptv-live.idc.md/hls/8/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/8/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/9.gif" group-title="HDTV",ТСВ HD
-http://iptv-live.idc.md/hls/9/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/9/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/10.gif" group-title="Общий",ТВЦ
-http://iptv-live.idc.md/hls/10/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/10/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/11.gif" group-title="Общий",НТВ
-http://iptv-live.idc.md/hls/11/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/11/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/12.gif" group-title="Общий",РЕН ТВ
-http://iptv-live.idc.md/hls/12/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/12/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/13.gif" group-title="Кино",КИНОСВИДАНИЕ
-http://iptv-live.idc.md/hls/13/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/13/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/14.gif" group-title="Общий",РОДНОЕ КИНО
-http://iptv-live.idc.md/hls/14/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/14/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/15.gif" group-title="Общий",Детский Мир
-http://iptv-live.idc.md/hls/15/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/15/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/16.gif" group-title="Общий",ТНТ
-http://iptv-live.idc.md/hls/16/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/16/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/17.gif" group-title="Новости",Euronews
-http://iptv-live.idc.md/hls/17/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/17/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/18.gif" group-title="Развлекательный",Анекдот ТВ
-http://iptv-live.idc.md/hls/18/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/18/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/19.gif" group-title="HDTV",SETANTA SPORTS 1
-http://iptv-live.idc.md/hls/19/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/19/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/20.gif" group-title="Общий",СТС
-http://iptv-live.idc.md/hls/20/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/20/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/21.gif" group-title="Развлекательный",Домашний
-http://iptv-live.idc.md/hls/21/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/21/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/2.gif" group-title="HDTV",SETANTA SPORTS 2
-http://iptv-live.idc.md/hls/22/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/22/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/23.gif" group-title="Музыка",FON MUSIC
-http://iptv-live.idc.md/hls/23/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/23/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/24.gif" group-title="HDTV",SETANTA SPORTS
-http://iptv-live.idc.md/hls/24/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/24/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/25.gif" group-title="HDTV",Мульт HD
-http://iptv-live.idc.md/hls/25/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/25/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/26.gif" group-title="Детский",Мультимузыка
-http://iptv-live.idc.md/hls/26/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/26/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/27.gif" group-title="Музыка",BRiDGE TV
-http://iptv-live.idc.md/hls/27/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/27/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/28.gif" group-title="Общий",Союз
-http://iptv-live.idc.md/hls/28/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/28/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/29.gif" group-title="Музыка",RU TV
-http://iptv-live.idc.md/hls/29/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/29/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/30.gif" group-title="Детский",Ani
-http://iptv-live.idc.md/hls/30/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/30/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/31.gif" group-title="Развлекательный",Сарафан
-http://iptv-live.idc.md/hls/31/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/31/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/32.gif" group-title="Развлекательный",Суббота!
-http://iptv-live.idc.md/hls/32/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/32/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/34.gif" group-title="ТВ Украина",5 Канал Украина
-http://iptv-live.idc.md/hls/34/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/34/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/35.gif" group-title="HDTV",WeSport
-http://iptv-live.idc.md/hls/35/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/35/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/36.gif" group-title="ТВ Украина",INTER+
-http://iptv-live.idc.md/hls/36/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/36/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/37.gif" group-title="Кино",КИНОМАН
-http://iptv-live.idc.md/hls/37/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/37/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/38.gif" group-title="HDTV",КОНГРЕСС ТВ HD
-http://iptv-live.idc.md/hls/38/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/38/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/39.gif" group-title="HDTV",1HD Music Television
-http://iptv-live.idc.md/hls/39/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/39/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/40.gif" group-title="Радио",LoveRadio
-http://iptv-live.idc.md/hls/40/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/40/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/41.gif" group-title="Радио",City-FM
-http://iptv-live.idc.md/hls/41/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/41/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/42.gif" group-title="HDTV",SUSPENSE HD
-http://iptv-live.idc.md/hls/42/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/42/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/43.gif" group-title="HDTV",ROMANCE HD
-http://iptv-live.idc.md/hls/43/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/43/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/44.gif" group-title="Радио",Радио 1
-http://iptv-live.idc.md/hls/44/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/44/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/45.gif" group-title="Радио",Детское
-http://iptv-live.idc.md/hls/45/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/45/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/47.gif" group-title="Радио",107.8
-http://iptv-live.idc.md/hls/47/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/47/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/48.gif" group-title="Радио",Энергия
-http://iptv-live.idc.md/hls/48/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/48/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/49.gif" group-title="HDTV",RU TV HD
-http://iptv-live.idc.md/hls/49/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/49/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/50.gif" group-title="Радио",Романтика
-http://iptv-live.idc.md/hls/50/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/50/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/51.gif" group-title="Радио",Relax-FM
-http://iptv-live.idc.md/hls/51/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/51/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/52.gif" group-title="Радио",АвтоРадио
-http://iptv-live.idc.md/hls/52/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/52/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/53.gif" group-title="Радио",Дорожное
-http://iptv-live.idc.md/hls/53/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/53/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/54.gif" group-title="Радио",Радио Ваня
-http://iptv-live.idc.md/hls/54/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/54/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/55.gif" group-title="Радио",Рекорд
-http://iptv-live.idc.md/hls/55/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/55/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/56.gif" group-title="Спорт",MMA-TV
-http://iptv-live.idc.md/hls/56/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/56/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/57.gif" group-title="Радио",Шансон
-http://iptv-live.idc.md/hls/57/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/57/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/58.gif" group-title="Кино",Индия
-http://iptv-live.idc.md/hls/58/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/58/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/59.gif" group-title="Радио",Ретро FM
-http://iptv-live.idc.md/hls/59/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/59/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/60.gif" group-title="Кино",SAGA
-http://iptv-live.idc.md/hls/60/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/60/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/61.gif" group-title="Радио",Melodia FM Украина
-http://iptv-live.idc.md/hls/61/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/61/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/62.gif" group-title="Хобби",Оружие
-http://iptv-live.idc.md/hls/62/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/62/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/63.gif" group-title="Хобби",Диалоги о рыбалке
-http://iptv-live.idc.md/hls/63/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/63/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/64.gif" group-title="Панорамы городов",Тирасполь - ул.Юности
-http://iptv-live.idc.md/hls/64/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/64/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/65.gif" group-title="Панорамы городов",Бендеры - Центр
-http://iptv-live.idc.md/hls/65/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/65/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/66.gif" group-title="Общий",Победа
-http://iptv-live.idc.md/hls/66/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/66/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/67.gif" group-title="Панорамы городов",Тирасполь - Площадь Суворова
-http://iptv-live.idc.md/hls/67/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/67/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/68.gif" group-title="Хобби",ТРОФЕЙ
-http://iptv-live.idc.md/hls/68/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/68/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/69.gif" group-title="Спорт",БОКС ТВ
-http://iptv-live.idc.md/hls/69/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/69/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/70.gif" group-title="Кино",ДОРАМА
-http://iptv-live.idc.md/hls/70/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/70/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/71.gif" group-title="Спорт",XSPORT
-http://iptv-live.idc.md/hls/71/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/71/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/72.gif" group-title="Детский",СУПЕР ГЕРОИ
-http://iptv-live.idc.md/hls/72/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/72/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/73.gif" group-title="HDTV",SETANTA SPORTS 2 HD
-http://iptv-live.idc.md/hls/73/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/73/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/74.gif" group-title="Развлекательный",ТВ-3
-http://iptv-live.idc.md/hls/74/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/74/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/75.gif" group-title="Познавательный",СПАС
-http://iptv-live.idc.md/hls/75/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/75/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/76.gif" group-title="IDC Кинозал HD",IDC 4K UHD
-http://iptv-live.idc.md/hls/76/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/76/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/77.gif" group-title="Новые каналы",Lions Arena 1
-http://iptv-live.idc.md/hls/77/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/77/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/78.gif" group-title="Новые каналы",Lions Arena 2
-http://iptv-live.idc.md/hls/78/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/78/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/79.gif" group-title="Общий",Москва Доверие
-http://iptv-live.idc.md/hls/79/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/79/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/81.gif" group-title="HDTV",МИР HD
-http://iptv-live.idc.md/hls/81/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/81/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/82.gif" group-title="Радио",Серебряный Дождь
-http://iptv-live.idc.md/hls/82/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/82/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/83.gif" group-title="Развлекательный",Че!
-http://iptv-live.idc.md/hls/83/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/83/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/84.gif" group-title="Новости",Россия-24
-http://iptv-live.idc.md/hls/84/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/84/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/85.gif" group-title="Новости",РБК-ТВ
-http://iptv-live.idc.md/hls/85/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/85/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/86.gif" group-title="Кино",KINO LIVING
-http://iptv-live.idc.md/hls/86/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/86/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/87.gif" group-title="HDTV",HD REX
-http://iptv-live.idc.md/hls/87/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/87/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/88.gif" group-title="HDTV",.red
-http://iptv-live.idc.md/hls/88/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/88/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/89.gif" group-title="Познавательный",Техно 24
-http://iptv-live.idc.md/hls/89/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/89/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/90.gif" group-title="HDTV",Премиальное HD
-http://iptv-live.idc.md/hls/90/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/90/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/91.gif" group-title="Кино",Русский Иллюзион
-http://iptv-live.idc.md/hls/91/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/91/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/92.gif" group-title="Кино",Иллюзион +
-http://iptv-live.idc.md/hls/92/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/92/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/93.gif" group-title="Познавательный",Zooпарк
-http://iptv-live.idc.md/hls/93/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/93/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/94.gif" group-title="HDTV",Приключения HD
-http://iptv-live.idc.md/hls/94/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/94/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/95.gif" group-title="HDTV",Первый Космический HD
-http://iptv-live.idc.md/hls/95/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/95/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/96.gif" group-title="HDTV",Охотник и рыболов HD
-http://iptv-live.idc.md/hls/96/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/96/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/97.gif" group-title="HDTV",Остросюжетное HD
-http://iptv-live.idc.md/hls/97/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/97/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/98.gif" group-title="HDTV",Наше  HD
-http://iptv-live.idc.md/hls/98/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/98/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/99.gif" group-title="HDTV",Душевное HD
-http://iptv-live.idc.md/hls/99/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/99/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/100.gif" group-title="Общий",Первый ПМР
-http://iptv-live.idc.md/hls/100/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/100/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/101.gif" group-title="Общий",BIG PLANET
-http://iptv-live.idc.md/hls/101/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/101/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/102.gif" group-title="HDTV",SETANTA SPORTS 1 HD
-http://iptv-live.idc.md/hls/102/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/102/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/103.gif" group-title="Общий",Звезда
-http://iptv-live.idc.md/hls/103/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/103/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/104.gif" group-title="Музыка",Russian Music Box
-http://iptv-live.idc.md/hls/104/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/104/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/105.gif" group-title="Познавательный",ЖЕНСКИЙ ЖУРНАЛ
-http://iptv-live.idc.md/hls/105/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/105/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/png/106.png" group-title="Взрослые",Blue Hustler HD
-http://iptv-live.idc.md/hls/106/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/106/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/107.gif" group-title="Хобби",FashionTV
-http://iptv-live.idc.md/hls/107/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/107/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/108.gif" group-title="Кино",КИНОСЕМЬЯ
-http://iptv-live.idc.md/hls/108/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/108/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/109.gif" group-title="Панорамы городов",Тирасполь - Зеленый рынок
-http://iptv-live.idc.md/hls/109/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/109/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/png/110.png" group-title="Взрослые",Barely Legal HD
-http://iptv-live.idc.md/hls/110/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/110/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/111.gif" group-title="HDTV",Наука HD
-http://iptv-live.idc.md/hls/111/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/111/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/112.gif" group-title="Кино",КИНОПРЕМЬЕРА
-http://iptv-live.idc.md/hls/112/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/112/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/133.gif" group-title="HDTV",В ГОСТЯХ У СКАЗКИ HD
-http://iptv-live.idc.md/hls/113/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/113/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/114.gif" group-title="Общий",ТОЧКА РФ
-http://iptv-live.idc.md/hls/114/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/114/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/115.gif" group-title="HDTV",РЕН ТВ HD
-http://iptv-live.idc.md/hls/115/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/115/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/116.gif" group-title="IDC Кинозал HD",IDC Кино HD3
-http://iptv-live.idc.md/hls/116/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/116/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/117.gif" group-title="HDTV",CTC Kids HD
-http://iptv-live.idc.md/hls/117/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/117/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/118.gif" group-title="Радио",INTER-FM 107.7
-http://iptv-live.idc.md/hls/118/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/118/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/119.gif" group-title="Радио",Шансон Тирасполь
-http://iptv-live.idc.md/hls/119/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/119/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/120.gif" group-title="Развлекательный",Телеканал ТЕАТР
-http://iptv-live.idc.md/hls/120/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/120/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/204.gif" group-title="IDC Кинозал",IDC ULTRA HD 1
-http://iptv-live.idc.md/hls/121/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/121/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/122.gif" group-title="Кино",КИНОПРЕМЬЕРА
-http://iptv-live.idc.md/hls/122/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/122/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/123.gif" group-title="HDTV",ТВЦ HD
-http://iptv-live.idc.md/hls/123/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/123/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/124.gif" group-title="HDTV",Тайны Галактики HD
-http://iptv-live.idc.md/hls/124/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/124/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/125.gif" group-title="Кино",КИНОУЖАС
-http://iptv-live.idc.md/hls/125/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/125/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/126.gif" group-title="HDTV",КИНОУЖАС HD
-http://iptv-live.idc.md/hls/126/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/126/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/127.gif" group-title="HDTV",Победа HD
-http://iptv-live.idc.md/hls/127/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/127/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/128.gif" group-title="Этническое ТВ",БелРос
-http://iptv-live.idc.md/hls/128/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/128/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/129.gif" group-title="Новости",Москва 24
-http://iptv-live.idc.md/hls/129/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/129/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/130.gif" group-title="Новости",360 новости
-http://iptv-live.idc.md/hls/130/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/130/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/131.gif" group-title="Радио",Дорожное радио Тирасполь
-http://iptv-live.idc.md/hls/131/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/131/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/132.gif" group-title="Развлекательный",CTC Love
-http://iptv-live.idc.md/hls/132/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/132/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/133.gif" group-title="Общий",МИР
-http://iptv-live.idc.md/hls/133/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/133/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/134.gif" group-title="Спорт",EUROSPORT 1
-http://iptv-live.idc.md/hls/134/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/134/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/135.gif" group-title="Хобби",АВТО Плюс
-http://iptv-live.idc.md/hls/135/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/135/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/136.gif" group-title="Спорт",Матч ТВ
-http://iptv-live.idc.md/hls/136/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/136/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/137.gif" group-title="ТВ Украина",Еспресо TV
-http://iptv-live.idc.md/hls/137/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/137/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/138.gif" group-title="Новости",CNN International
-http://iptv-live.idc.md/hls/138/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/138/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/139.gif" group-title="HDTV",МУЖСКОЕ КИНО HD
-http://iptv-live.idc.md/hls/139/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/139/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/141.gif" group-title="Общий",ПЕРВЫЙ КОСМИЧЕСКИЙ
-http://iptv-live.idc.md/hls/141/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/141/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/142.gif" group-title="HDTV",КИНОСЕРИЯ HD
-http://iptv-live.idc.md/hls/142/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/142/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/143.gif" group-title="Спорт",Extreme
-http://iptv-live.idc.md/hls/143/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/143/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/144.gif" group-title="Музыка",DELUXE MUSIC
-http://iptv-live.idc.md/hls/144/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/144/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/145.gif" group-title="Детский",СОЛНЦЕ
-http://iptv-live.idc.md/hls/145/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/145/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/146.gif" group-title="Познавательный",TLC
-http://iptv-live.idc.md/hls/146/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/146/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/147.gif" group-title="HDTV",КИНОКОМЕДИЯ HD
-http://iptv-live.idc.md/hls/147/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/147/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/148.gif" group-title="Детский",ЧИЖИК
-http://iptv-live.idc.md/hls/148/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/148/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/149.gif" group-title="Познавательный",TOP SECRET
-http://iptv-live.idc.md/hls/149/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/149/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/150.gif" group-title="Этническое ТВ",9 канал (Израиль)
-http://iptv-live.idc.md/hls/150/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/150/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/151.gif" group-title="HDTV",КИНОХИТ HD
-http://iptv-live.idc.md/hls/151/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/151/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/152.gif" group-title="HDTV",КИНОСВИДАНИЕ HD
-http://iptv-live.idc.md/hls/152/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/152/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/153.gif" group-title="Новости",Russia Today
-http://iptv-live.idc.md/hls/153/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/153/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/154.gif" group-title="HDTV",SETANTA  SPORTS QAZAQSTAN HD
-http://iptv-live.idc.md/hls/154/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/154/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/155.gif" group-title="Новости",BBC News
-http://iptv-live.idc.md/hls/155/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/155/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/156.gif" group-title="Кино",Мосфильм. Золотая коллекция
-http://iptv-live.idc.md/hls/156/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/156/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/157.gif" group-title="HDTV",НАШЕ НОВОЕ КИНО HD
-http://iptv-live.idc.md/hls/157/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/157/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/158.gif" group-title="Общий",Петербург — 5 канал
-http://iptv-live.idc.md/hls/158/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/158/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/159.gif" group-title="Развлекательный",Поехали!
-http://iptv-live.idc.md/hls/159/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/159/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/160.gif" group-title="Познавательный",TERRA
-http://iptv-live.idc.md/hls/160/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/160/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/161.gif" group-title="HDTV",КИНОСЕМЬЯ HD
-http://iptv-live.idc.md/hls/161/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/161/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/162.gif" group-title="Общий",ВКУС
-http://iptv-live.idc.md/hls/162/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/162/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/163.gif" group-title="Кино",КИНОХИТ
-http://iptv-live.idc.md/hls/163/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/163/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/164.gif" group-title="HDTV",ОККО СПОРТ HD
-http://iptv-live.idc.md/hls/164/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/164/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/165.gif" group-title="Кино",НАШЕ НОВОЕ КИНО
-http://iptv-live.idc.md/hls/165/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/165/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/166.gif" group-title="Кино",КИНОСЕРИЯ
-http://iptv-live.idc.md/hls/166/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/166/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/167.gif" group-title="Детский",Da Vinci
-http://iptv-live.idc.md/hls/167/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/167/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/168.gif" group-title="HDTV",SAGA HD
-http://iptv-live.idc.md/hls/168/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/168/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/169.gif" group-title="Спорт",МАТЧ! БОЕЦ
-http://iptv-live.idc.md/hls/169/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/169/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/170.gif" group-title="Музыка",МУЗЫКА LIVE
-http://iptv-live.idc.md/hls/170/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/170/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/171.gif" group-title="Спорт",HD REX
-http://iptv-live.idc.md/hls/171/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/171/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/172.gif" group-title="Кино",КИНОКОМЕДИЯ
-http://iptv-live.idc.md/hls/172/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/172/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/173.gif" group-title="Кино",Hollywood
-http://iptv-live.idc.md/hls/173/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/173/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/174.gif" group-title="Кино",KINO LIVING
-http://iptv-live.idc.md/hls/174/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/174/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/175.gif" group-title="Кино",ИНДИЙСКОЕ КИНО
-http://iptv-live.idc.md/hls/175/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/175/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/176.gif" group-title="HDTV",BRiDGE TV Deluxe HD
-http://iptv-live.idc.md/hls/176/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/176/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/177.gif" group-title="HDTV",В МИРЕ ЖИВОТНЫХ HD
-http://iptv-live.idc.md/hls/177/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/177/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/178.gif" group-title="Спорт",МАТЧ! ФУТБОЛ 2
-http://iptv-live.idc.md/hls/178/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/178/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/179.gif" group-title="Спорт",МАТЧ ПРЕМЬЕР
-http://iptv-live.idc.md/hls/179/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/179/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/180.gif" group-title="Познавательный",Ностальгия
-http://iptv-live.idc.md/hls/180/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/180/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/181.gif" group-title="Хобби",Усадьба
-http://iptv-live.idc.md/hls/181/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/181/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/182.gif" group-title="Познавательный",ВРЕМЯ
-http://iptv-live.idc.md/hls/182/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/182/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/183.gif" group-title="Кино",ДОМ КИНО
-http://iptv-live.idc.md/hls/183/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/183/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/184.gif" group-title="Общий",Музыка Первого
-http://iptv-live.idc.md/hls/184/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/184/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/185.gif" group-title="Спорт",EUROSPORT 2
-http://iptv-live.idc.md/hls/185/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/185/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/186.gif" group-title="Детский",Карусель
-http://iptv-live.idc.md/hls/186/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/186/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/187.gif" group-title="Познавательный",365 дней ТВ
-http://iptv-live.idc.md/hls/187/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/187/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/188.gif" group-title="HDTV",ДОРАМА HD
-http://iptv-live.idc.md/hls/188/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/188/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/189.gif" group-title="Спорт",МАТЧ! ПЛАНЕТА
-http://iptv-live.idc.md/hls/189/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/189/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/190.gif" group-title="Развлекательный",.black
-http://iptv-live.idc.md/hls/190/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/190/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/191.gif" group-title="Познавательный",Доктор
-http://iptv-live.idc.md/hls/191/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/191/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/192.gif" group-title="Развлекательный",Travel+Adventure
-http://iptv-live.idc.md/hls/192/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/192/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/193.gif" group-title="Развлекательный",ДИКИЙ
-http://iptv-live.idc.md/hls/193/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/193/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/194.gif" group-title="Спорт",Точка отрыва
-http://iptv-live.idc.md/hls/194/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/194/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/195.gif" group-title="Развлекательный",2x2
-http://iptv-live.idc.md/hls/195/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/195/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/196.gif" group-title="HDTV",ЖЕНСКИЙ ЖУРНАЛ HD
-http://iptv-live.idc.md/hls/196/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/196/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/197.gif" group-title="Познавательный",Мама
-http://iptv-live.idc.md/hls/197/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/197/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/198.gif" group-title="Кино",AMEDIA Hit
-http://iptv-live.idc.md/hls/198/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/198/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/199.gif" group-title="Хобби",Кухня
-http://iptv-live.idc.md/hls/199/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/199/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/200.gif" group-title="Музыка",ЖАРА
-http://iptv-live.idc.md/hls/200/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/200/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/201.gif" group-title="Кино",МУЖСКОЕ КИНО
-http://iptv-live.idc.md/hls/201/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/201/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/202.gif" group-title="Познавательный",ОКЕАН
-http://iptv-live.idc.md/hls/202/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/202/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/203.gif" group-title="IDC Кинозал",IDC Детский
-http://iptv-live.idc.md/hls/203/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/203/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/204.gif" group-title="IDC Кинозал",IDC Кино HD
-http://iptv-live.idc.md/hls/204/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/204/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/205.gif" group-title="IDC Кинозал",IDC Кино 2
-http://iptv-live.idc.md/hls/205/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/205/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/206.gif" group-title="IDC Кинозал",IDC Кино 3
-http://iptv-live.idc.md/hls/206/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/206/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/207.gif" group-title="IDC Кинозал",IDC Наше кино
-http://iptv-live.idc.md/hls/207/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/207/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/208.gif" group-title="IDC Кинозал",IDC Сериал
-http://iptv-live.idc.md/hls/208/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/208/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/209.gif" group-title="Познавательный",Viasat Explore
-http://iptv-live.idc.md/hls/209/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/209/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/210.gif" group-title="Познавательный",Viasat History
-http://iptv-live.idc.md/hls/210/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/210/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/211.gif" group-title="Познавательный",Viasat Nature
-http://iptv-live.idc.md/hls/211/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/211/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/212.gif" group-title="Общий",Калейдоскоп ТВ
-http://iptv-live.idc.md/hls/212/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/212/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/213.gif" group-title="ТВ Украина",СТБ
-http://iptv-live.idc.md/hls/213/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/213/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/215.gif" group-title="HDTV",Amedia Premium HD
-http://iptv-live.idc.md/hls/215/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/215/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/216.gif" group-title="ТВ Украина",ICTV
-http://iptv-live.idc.md/hls/216/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/216/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/218.gif" group-title="HDTV",BIG PLANET HD
-http://iptv-live.idc.md/hls/218/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/218/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/219.gif" group-title="Общий",КУХНЯ
-http://iptv-live.idc.md/hls/219/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/219/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/220.gif" group-title="ТВ Украина",Новий Канал
-http://iptv-live.idc.md/hls/220/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/220/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/221.gif" group-title="HDTV",Телеканал 360 HD
-http://iptv-live.idc.md/hls/221/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/221/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/164.gif" group-title="HDTV",ОККО Прайм Спорт FHD FHD
-http://iptv-live.idc.md/hls/222/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/222/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/223.gif" group-title="ТВ Украина",1+1
-http://iptv-live.idc.md/hls/223/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/223/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/224.gif" group-title="ТВ Украина",2+2
-http://iptv-live.idc.md/hls/224/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/224/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/225.gif" group-title="Общий",РОССИЯ К
-http://iptv-live.idc.md/hls/225/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/225/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/226.gif" group-title="Радио",Радио России
-http://iptv-live.idc.md/hls/226/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/226/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/227.gif" group-title="Детский",Мультиландия
-http://iptv-live.idc.md/hls/227/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/227/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/228.gif" group-title="Кино",TV XXI
-http://iptv-live.idc.md/hls/228/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/228/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/230.gif" group-title="HDTV",plan_B HD
-http://iptv-live.idc.md/hls/230/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/230/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/231.gif" group-title="Кино",.sci-fi
-http://iptv-live.idc.md/hls/231/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/231/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/232.gif" group-title="HDTV",АВТО ПЛЮС HD
-http://iptv-live.idc.md/hls/232/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/232/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/233.gif" group-title="Хобби",Рыбалка и охота
-http://iptv-live.idc.md/hls/233/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/233/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/235.gif" group-title="HDTV",ЖИВИ! HD
-http://iptv-live.idc.md/hls/235/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/235/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="" group-title="IDC",IDC Channel 237
-http://iptv-live.idc.md/hls/237/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/237/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/238.gif" group-title="HDTV",ID HD
-http://iptv-live.idc.md/hls/238/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/238/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/239.gif" group-title="Хобби",ТелеКафе
-http://iptv-live.idc.md/hls/239/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/239/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/240.gif" group-title="Новости",PLANETA-RTR
-http://iptv-live.idc.md/hls/240/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/240/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/241.gif" group-title="HDTV",ULTRA 4K EXTREME
-http://iptv-live.idc.md/hls/241/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/241/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/242.gif" group-title="HDTV",КИНО UHD
-http://iptv-live.idc.md/hls/242/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/242/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/243.gif" group-title="Новости",Первый канал зарубежное вещание
-http://iptv-live.idc.md/hls/243/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/243/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/245.gif" group-title="Познавательный",КТО ЕСТЬ КТО
-http://iptv-live.idc.md/hls/245/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/245/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/246.gif" group-title="Панорамы городов",Тирасполь - Бородинская площадь
-http://iptv-live.idc.md/hls/246/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/246/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/247.gif" group-title="Панорамы городов",Рыбница - Храм
-http://iptv-live.idc.md/hls/247/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/247/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/249.gif" group-title="Кино",КИНЕКО
-http://iptv-live.idc.md/hls/249/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/249/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/250.gif" group-title="Радио",Юмор-FM
-http://iptv-live.idc.md/hls/250/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/250/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/252.gif" group-title="HDTV",Мосфильм. Золотая коллекция HD
-http://iptv-live.idc.md/hls/252/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/252/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/253.gif" group-title="Познавательный",Тайна
-http://iptv-live.idc.md/hls/253/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/253/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/254.gif" group-title="Общий",Звезда ПЛЮС
-http://iptv-live.idc.md/hls/254/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/254/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/257.gif" group-title="Кино",САПФИР
-http://iptv-live.idc.md/hls/257/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/257/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/260.gif" group-title="HDTV",Lions Arena 1 HD
-http://iptv-live.idc.md/hls/260/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/260/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/164.gif" group-title="HDTV",Lions Arena 2 HD
-http://iptv-live.idc.md/hls/261/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/261/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/264.gif" group-title="Радио",Радио Дача Тирасполь
-http://iptv-live.idc.md/hls/264/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/264/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/265.gif" group-title="Новые каналы",IDC-Реклама
-http://iptv-live.idc.md/hls/265/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/265/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/266.gif" group-title="HDTV",AIVA HD
-http://iptv-live.idc.md/hls/266/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/266/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/267.gif" group-title="HDTV",TLC HD
-http://iptv-live.idc.md/hls/267/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/267/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/268.gif" group-title="Радио",Радио Маяк
-http://iptv-live.idc.md/hls/268/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/268/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/269.gif" group-title="Музыка",Radio Capital
-http://iptv-live.idc.md/hls/269/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/269/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/270.gif" group-title="Музыка",DELUXE DANCE
-http://iptv-live.idc.md/hls/270/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/270/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/272.gif" group-title="Музыка",BRiDGE TV русский хит
-http://iptv-live.idc.md/hls/272/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/272/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/273.gif" group-title="Панорамы городов",Первомайск
-http://iptv-live.idc.md/hls/273/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/273/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/274.gif" group-title="Развлекательный",ТНТ 4
-http://iptv-live.idc.md/hls/274/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/274/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/276.gif" group-title="Музыка",Rock TV
-http://iptv-live.idc.md/hls/276/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/276/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/277.gif" group-title="Музыка",Шансон ТВ
-http://iptv-live.idc.md/hls/277/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/277/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/278.gif" group-title="Музыка",BRiDGE ROCK
-http://iptv-live.idc.md/hls/278/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/278/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/279.gif" group-title="HDTV",EUROSPORT 1 HD
-http://iptv-live.idc.md/hls/279/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/279/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/284.gif" group-title="HDTV",Любимое Кино HD
-http://iptv-live.idc.md/hls/284/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/284/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/286.gif" group-title="HDTV",WeSport HD
-http://iptv-live.idc.md/hls/286/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/286/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/291.gif" group-title="HDTV",СТС HD
-http://iptv-live.idc.md/hls/291/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/291/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/292.gif" group-title="HDTV",SETANTA SPORTS HD
-http://iptv-live.idc.md/hls/292/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/292/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/295.gif" group-title="Детский",CTC Kids
-http://iptv-live.idc.md/hls/295/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/295/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/298.gif" group-title="Этническое ТВ",Moldova 1
-http://iptv-live.idc.md/hls/298/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/298/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/300.gif" group-title="Этническое ТВ",Jurnal TV
-http://iptv-live.idc.md/hls/300/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/300/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/375.gif" group-title="Детский",Уникум
-http://iptv-live.idc.md/hls/375/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/375/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/376.gif" group-title="Кино",ЕвроКино
-http://iptv-live.idc.md/hls/376/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/376/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/379.gif" group-title="Кино",НСТ
-http://iptv-live.idc.md/hls/379/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/379/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/394.gif" group-title="Хобби",Живи
-http://iptv-live.idc.md/hls/394/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/394/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/401.gif" group-title="Этническое ТВ",Грозный ТВ
-http://iptv-live.idc.md/hls/401/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/401/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/404.gif" group-title="Этническое ТВ",БЕЛАРУСЬ 24
-http://iptv-live.idc.md/hls/404/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/404/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/407.gif" group-title="Общий",МАТЧ! АРЕНА
-http://iptv-live.idc.md/hls/407/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/407/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/408.gif" group-title="Этническое ТВ",Армения 1
-http://iptv-live.idc.md/hls/408/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/408/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/410.gif" group-title="Кино",.red
-http://iptv-live.idc.md/hls/410/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/410/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/411.gif" group-title="Радио",Радио Дача
-http://iptv-live.idc.md/hls/411/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/411/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/414.gif" group-title="Радио",Радио Спутник
-http://iptv-live.idc.md/hls/414/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/414/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/432.gif" group-title="HDTV",КИНОПРЕМЬЕРА HD
-http://iptv-live.idc.md/hls/432/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/432/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/436.gif" group-title="HDTV",МАТЧ! Футбол 1 HD
-http://iptv-live.idc.md/hls/436/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/436/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/437.gif" group-title="Детский",TiJi
-http://iptv-live.idc.md/hls/437/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/437/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/438.gif" group-title="Детский",Gulli
-http://iptv-live.idc.md/hls/438/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/438/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/442.gif" group-title="IDC Кинозал HD",IDC Кино HD1
-http://iptv-live.idc.md/hls/442/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/442/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/443.gif" group-title="Спорт",МАТЧ! СТРАНА
-http://iptv-live.idc.md/hls/443/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/443/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/445.gif" group-title="Хобби",Домашние животные
-http://iptv-live.idc.md/hls/445/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/445/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/449.gif" group-title="Спорт",KHL
-http://iptv-live.idc.md/hls/449/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/449/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/450.gif" group-title="Общий",КИНОМИКС
-http://iptv-live.idc.md/hls/450/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/450/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/451.gif" group-title="Познавательный",Моя Планета
-http://iptv-live.idc.md/hls/451/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/451/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/452.gif" group-title="Развлекательный",Домашний international
-http://iptv-live.idc.md/hls/452/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/452/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/453.gif" group-title="Новости",RTVi
-http://iptv-live.idc.md/hls/453/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/453/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/457.gif" group-title="Этническое ТВ",БТВ
-http://iptv-live.idc.md/hls/457/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/457/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/458.gif" group-title="HDTV",EUROSPORT 2 HD
-http://iptv-live.idc.md/hls/458/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/458/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/626.gif" group-title="Радио",Наше радио
-http://iptv-live.idc.md/hls/626/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/626/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/635.gif" group-title="Познавательный",ТБН
-http://iptv-live.idc.md/hls/635/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/635/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/658.gif" group-title="IDC Кинозал HD",IDC Сериал HD
-http://iptv-live.idc.md/hls/658/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/658/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/659.gif" group-title="IDC Кинозал HD",IDC Детский HD
-http://iptv-live.idc.md/hls/659/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/659/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/660.gif" group-title="IDC Кинозал HD",IDC Кино HD2
-http://iptv-live.idc.md/hls/660/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/660/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/685.gif" group-title="HDTV",МАТЧ! АРЕНА HD
-http://iptv-live.idc.md/hls/685/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/685/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/714.gif" group-title="IDC Кинозал HD",IDC Миллениум HD
-http://iptv-live.idc.md/hls/714/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/714/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/715.gif" group-title="IDC Кинозал HD",IDC Наше Кино HD
-http://iptv-live.idc.md/hls/715/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/715/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/738.gif" group-title="Познавательный",Russian Travel Guide
-http://iptv-live.idc.md/hls/738/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/738/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/745.gif" group-title="HDTV",ТОЧКА.РФ
-http://iptv-live.idc.md/hls/745/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/745/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/750.gif" group-title="Познавательный",ID
-http://iptv-live.idc.md/hls/750/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/750/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/754.gif" group-title="Музыка",Europa PLUS
-http://iptv-live.idc.md/hls/754/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/754/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/757.gif" group-title="Этническое ТВ",ТНВ - Татарстан
-http://iptv-live.idc.md/hls/757/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/757/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/758.gif" group-title="Музыка",BRiDGE TV CLASSIC
-http://iptv-live.idc.md/hls/758/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/758/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/766.gif" group-title="Спорт",МАТЧ! ИГРА
-http://iptv-live.idc.md/hls/766/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/766/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/767.gif" group-title="Познавательный",Наука
-http://iptv-live.idc.md/hls/767/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/767/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/768.gif" group-title="Новости",Известия
-http://iptv-live.idc.md/hls/768/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/768/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/813.gif" group-title="HDTV",Discovery HD
-http://iptv-live.idc.md/hls/813/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/813/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/815.gif" group-title="HDTV",ЧИЖИК HD
-http://iptv-live.idc.md/hls/815/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/815/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/817.gif" group-title="HDTV",МАТЧ! ИГРА HD
-http://iptv-live.idc.md/hls/817/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/817/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/818.gif" group-title="HDTV",Animal Planet HD
-http://iptv-live.idc.md/hls/818/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/818/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/png/825.png" group-title="Взрослые",Русская ночь
-http://iptv-live.idc.md/hls/825/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/825/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/833.gif" group-title="HDTV",МАТЧ! Футбол 2 HD
-http://iptv-live.idc.md/hls/833/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/833/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/834.gif" group-title="ТВ Украина",INTER
-http://iptv-live.idc.md/hls/834/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/834/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/836.gif" group-title="ТВ Украина",TET
-http://iptv-live.idc.md/hls/836/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/836/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/837.gif" group-title="Радио",Swiss Jazz
-http://iptv-live.idc.md/hls/837/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/837/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/838.gif" group-title="Радио",Swiss Classic
-http://iptv-live.idc.md/hls/838/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/838/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/850.gif" group-title="Хобби",Загородная жизнь
-http://iptv-live.idc.md/hls/850/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/850/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/854.gif" group-title="Хобби",Рыболов
-http://iptv-live.idc.md/hls/854/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/854/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/856.gif" group-title="HDTV",Jurnal TV HD
-http://iptv-live.idc.md/hls/856/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/856/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/863.gif" group-title="Развлекательный",Ю
-http://iptv-live.idc.md/hls/863/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/863/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/865.gif" group-title="HDTV",IDC Реклама HD
-http://iptv-live.idc.md/hls/865/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/865/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/866.gif" group-title="Радио",HitFM
-http://iptv-live.idc.md/hls/866/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/866/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/868.gif" group-title="HDTV",Первый HD
-http://iptv-live.idc.md/hls/868/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/868/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/869.gif" group-title="HDTV",Россия HD
-http://iptv-live.idc.md/hls/869/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/869/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/870.gif" group-title="Музыка",Первый музыкальный
-http://iptv-live.idc.md/hls/870/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/870/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/876.gif" group-title="Познавательный",Телепутешествия
-http://iptv-live.idc.md/hls/876/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/876/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/877.gif" group-title="Хобби",Еда
-http://iptv-live.idc.md/hls/877/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/877/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/878.gif" group-title="HDTV",Hollywood HD
-http://iptv-live.idc.md/hls/878/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/878/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/886.gif" group-title="HDTV",МАТЧ ПРЕМЬЕР HD
-http://iptv-live.idc.md/hls/886/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/886/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/887.gif" group-title="Радио",Frequence3
-http://iptv-live.idc.md/hls/887/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/887/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/888.gif" group-title="HDTV",WeSport HD
-http://iptv-live.idc.md/hls/888/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/888/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/889.gif" group-title="Музыка",МУЗ
-http://iptv-live.idc.md/hls/889/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/889/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/891.gif" group-title="HDTV",Арсенал HD
-http://iptv-live.idc.md/hls/891/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/891/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/892.gif" group-title="Музыка",BRiDGE HITS
-http://iptv-live.idc.md/hls/892/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/892/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/893.gif" group-title="Спорт",МАТЧ! ФУТБОЛ 3
-http://iptv-live.idc.md/hls/893/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/893/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/png/937.png" group-title="Взрослые",Private HD
-http://iptv-live.idc.md/hls/937/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/937/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/png/938.png" group-title="Взрослые",HUSTLER HD
-http://iptv-live.idc.md/hls/938/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/938/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/png/939.png" group-title="Взрослые",REDLIGHT HD
-http://iptv-live.idc.md/hls/939/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/939/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/940.gif" group-title="HDTV",Моя Планета HD
-http://iptv-live.idc.md/hls/940/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/940/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/942.gif" group-title="Познавательный",История
-http://iptv-live.idc.md/hls/942/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/942/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/943.gif" group-title="HDTV",Первый ПМР HD
-http://iptv-live.idc.md/hls/943/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/943/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/945.gif" group-title="HDTV",МАТЧ! Футбол 3 HD
-http://iptv-live.idc.md/hls/945/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/945/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/947.gif" group-title="Кино",Мир сериала
-http://iptv-live.idc.md/hls/947/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/947/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/949.gif" group-title="Общий",Любимое Кино
-http://iptv-live.idc.md/hls/949/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/949/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/953.gif" group-title="Познавательный",Живая планета
-http://iptv-live.idc.md/hls/953/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/953/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/954.gif" group-title="Кино",Русский Бестселлер
-http://iptv-live.idc.md/hls/954/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/954/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/955.gif" group-title="Хобби",English Class
-http://iptv-live.idc.md/hls/955/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/955/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/957.gif" group-title="Детский",Мульт
-http://iptv-live.idc.md/hls/957/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/957/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/963.gif" group-title="HDTV",Матч ТВ HD
-http://iptv-live.idc.md/hls/963/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/963/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/966.gif" group-title="HDTV",НТВ HD
-http://iptv-live.idc.md/hls/966/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/966/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/968.gif" group-title="Познавательный",БОБЕР
-http://iptv-live.idc.md/hls/968/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/968/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/969.gif" group-title="HDTV",KHL PRIME
-http://iptv-live.idc.md/hls/969/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/969/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/png/974.png" group-title="Взрослые",VIVID TV EUROPE
-http://iptv-live.idc.md/hls/974/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/974/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/png/975.png" group-title="Взрослые",DORCEL TV HD
-http://iptv-live.idc.md/hls/975/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/975/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/png/976.png" group-title="Взрослые",BRAZZERS TV EUROPE HD
-http://iptv-live.idc.md/hls/976/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/976/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/204.gif" group-title="IDC Кинозал",IDC TEST HD
-http://iptv-live.idc.md/hls/979/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/979/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/984.gif" group-title="Кино",НТВ Сериал
-http://iptv-live.idc.md/hls/984/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/984/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/985.gif" group-title="Хобби",НТВ Стиль
-http://iptv-live.idc.md/hls/985/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/985/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/986.gif" group-title="Познавательный",НТВ Право
-http://iptv-live.idc.md/hls/986/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/986/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/988.gif" group-title="Радио",Радио 1 плюс (ПМР)
-http://iptv-live.idc.md/hls/988/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/988/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/990.gif" group-title="Развлекательный",КВН ТВ
-http://iptv-live.idc.md/hls/990/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/990/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/991.gif" group-title="HDTV",ТНТ HD
-http://iptv-live.idc.md/hls/991/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/991/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/993.gif" group-title="Общий",В гостях у сказки
-http://iptv-live.idc.md/hls/993/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/993/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/994.gif" group-title="Детский",O!
-http://iptv-live.idc.md/hls/994/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/994/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
 #EXTINF:-1 tvg-logo="https://iptvn.idc.md/img/ico/999.gif" group-title="Развлекательный",Перец international
-http://iptv-live.idc.md/hls/999/live1.m3u8?ss=17afff317d39319de8b1885308d048ec
+http://iptv-live4.idc.md/hls/999/live1.m3u8?ss=7ab9e3233107ae3a1695a77632a956b0
