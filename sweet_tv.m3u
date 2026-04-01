@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH/epg_noarch.xml.gz"
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",ТСВ
+http://tsv.md/stream/hls/tsv-online/0_1/index.m3u8
+
