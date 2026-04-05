@@ -1,125 +1,137 @@
 #EXTM3U
-####PLAYLISTNAME: telik-live | Created: 2026-04-02 18:19:52 | Channels: 318
+####PLAYLISTNAME: telik-live | Created: 2026-04-05 11:47:30 | Channels: 319
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Da Vinci
+https://tv.tvcdnpotok.com/oTYqIhpNkpQUE1kh8aMrZQ/2008/1775396854/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Cartoon Network
+https://tv.tvcdnpotok.com/FTBzvluW8v76T6QVffPzHg/2042/1775396855/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",ZooПарк
+https://tv.tvcdnpotok.com/ADSd_Hp99he_seY2AqSIrw/2022/1775396855/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Телекафе
+https://tv.tvcdnpotok.com/0OnRbQg0qHgfubc4TBZlsQ/2018/1775396855/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Телепутешествия
 https://cdntelehub.com/3/livetv.php?key=teleputeshestviya.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Animal Planet
-https://tv.tvcdnpotok.com/uMGfX_fMb26PtkZdQCWm9Q/600/1775161196/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Da Vinci
-https://tv.tvcdnpotok.com/HZbi-RHsHP8MuIjJmM3HuQ/2008/1775161196/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Телекафе
-https://tv.tvcdnpotok.com/j1BB0PcHawJGZAknsVsYTg/2018/1775161197/index.m3u8
+https://tv.tvcdnpotok.com/-IpSsXMpMIDTGJkwOHB3_A/600/1775396856/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Discovery Channel
-https://tv.tvcdnpotok.com/8ImgWMwnJ_m6AqTeYl3uXg/520/1775161197/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Cartoon Network
-https://tv.tvcdnpotok.com/Kmr6qSAopbqXVZMY3naNEw/2042/1775161197/index.m3u8
+https://tv.tvcdnpotok.com/qRuP2xdzqxJrmYkE0wJr9A/520/1775396856/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Русский роман
-https://tv.tvcdnpotok.com/lfcYgQWZycRhcL4Kng_g2Q/556/1775161198/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",ZooПарк
-https://tv.tvcdnpotok.com/jc5XuaSbPczQklns8z8m5g/2022/1775161198/index.m3u8
+https://tv.tvcdnpotok.com/TkgUnDXkfd8x6U4hVpoJ3A/556/1775396856/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",TLC
-https://tv.tvcdnpotok.com/G8ClvOLwfYayx8XlSXkeSw/229/1775161197/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",СТС Love
-https://tv.tvcdnpotok.com/U7ue7NuJNR0s1QWyMPX-PQ/123/1775161198/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Viasat Explore
-https://tv.tvcdnpotok.com/TWf-obUL8XUJWv0lCba9vA/109/1775161198/index.m3u8
+https://tv.tvcdnpotok.com/HHxaIGkYax7pu2hhivyRAw/229/1775396855/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Viasat Nature
-https://tv.tvcdnpotok.com/C69fU8pfDHPzaU0xhT1GPw/110/1775161198/index.m3u8
+https://tv.tvcdnpotok.com/BRypfBICwGIyjyIDYyHdZA/110/1775396857/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Россия 1
-https://tv.tvcdnpotok.com/zyhE8dOPpimal5Xzokc13g/544/1775161197/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Россия 1 +2
-https://tv.tvcdnpotok.com/h130nudS4-HOIuKT994b-A/2093/1775161197/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Россия 1 +4
-https://tv.tvcdnpotok.com/9kobzEgOx92m8lumrvpyoQ/2094/1775161198/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Россия 1 +6
-https://tv.tvcdnpotok.com/IpqjLb56twf2sQK2VZHpcA/2095/1775161199/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Viasat Explore
+https://tv.tvcdnpotok.com/EyRN7Io2QQGNjA6rXgchXQ/109/1775396857/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Eurosport 1 Поток 2
 https://stream8.cinerama.uz/1439/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="telik-live",Россия 1
+https://tv.tvcdnpotok.com/fzpXm8RrHf7aY8IqBg6AmA/544/1775396855/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Россия 1 +2
+https://tv.tvcdnpotok.com/u1IaXbN4Itnbu8TZ3A1iFQ/2093/1775396856/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Россия 1 +4
+https://tv.tvcdnpotok.com/jNwl8lidYIvoE3RWwCgC5g/2094/1775396856/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Россия 1 +6
+https://tv.tvcdnpotok.com/uZlJgj9BpFBmNILT5lr5fg/2095/1775396857/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="telik-live",Viasat History
-https://tv.tvcdnpotok.com/PzOegvW0KiDqlJJKQYZriA/111/1775161199/index.m3u8
+https://tv.tvcdnpotok.com/JaTFPOFElbV0nZp1tjpUaw/111/1775396859/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",СТС Love
+https://tv.tvcdnpotok.com/HZpG4Wbz4nTiWiOOZ-2S2A/123/1775396859/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Крик-ТВ
 https://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Bridge TV Hits
-https://tv.tvcdnpotok.com/Vh-1HejY9nObuLI1RLxUyA/217/1775161200/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Первый канал +2
-https://tv.tvcdnpotok.com/LZbw973LlqKFl4U5nLGp1w/2099/1775161198/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Первый канал +4
-https://tv.tvcdnpotok.com/S2f6JOIyW6oV2rakSsvE_A/2100/1775161199/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Первый канал +6
-https://tv.tvcdnpotok.com/U2lX6UQf9a1aIGvz4s0TRQ/2101/1775161200/index.m3u8
+https://tv.tvcdnpotok.com/i4C41pOoewVsWpCKl7-NMA/217/1775396860/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Дом кино
-https://tv.tvcdnpotok.com/gIKWERe6JjKWQmHrAHgy1A/186/1775161200/index.m3u8
+https://tv.tvcdnpotok.com/WpVcfpnGRBFOPQKdkOXnlQ/186/1775396861/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",1HD
-https://tv.tvcdnpotok.com/Sh4-RcYEE5PQklEpPQbtZA/2091/1775161200/index.m3u8
+https://tv.tvcdnpotok.com/sBUQv8ODMSuYAyGWwKo3rg/2091/1775396861/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Первый канал +2
+https://tv.tvcdnpotok.com/OwHPK0YIo5vAmC4FFoJCaw/2099/1775396858/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Первый канал +4
+https://tv.tvcdnpotok.com/k5_PbFfitFCUU2tRlgxtNg/2100/1775396860/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Первый канал +6
+https://tv.tvcdnpotok.com/fd_TJNtFMeK8vYGnCZohRg/2101/1775396861/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",360 градусов
+https://tv.tvcdnpotok.com/3xmGMqqNnPiuoKeXQfccVw/523/1775396861/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Тайны Галактики
+https://tv.tvcdnpotok.com/E-2KdI7UK2muU4BX-BvfPw/205/1775396862/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Bridge TV Bridge TV
+https://tv.tvcdnpotok.com/eRoCny_805Tp2B6xhal5VA/160/1775396862/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Bridge TV Classic
+https://tv.tvcdnpotok.com/LklwzPx6MRweY8KPCLGkqg/245/1775396863/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Кино ТВ
+https://tv.tvcdnpotok.com/1Nx0rHDCpan4TKLtzGoxxw/504/1775396861/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Восьмой канал
 https://v4.proofix.ru/8tv-russia/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",360 градусов
-https://tv.tvcdnpotok.com/1H6BLNfdL77nsza-gqHreA/523/1775161201/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Bridge TV Bridge TV
-https://tv.tvcdnpotok.com/S7Vv0ihpeKgh3VgNd9o-dA/160/1775161201/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Bridge TV Classic
-https://tv.tvcdnpotok.com/tIyTPXpc7yVzALrrmogZRg/245/1775161202/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Hollywood
-https://tv.tvcdnpotok.com/0ANmUqctzW5WyOFjIjtijQ/507/1775161202/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Music Box Russia
-https://tv.tvcdnpotok.com/_FBAZB9LaQAezJDrbktOzQ/168/1775161202/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Тайны Галактики
-https://tv.tvcdnpotok.com/8blGvXhDQrds4k01USvDyw/205/1775161202/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Кино ТВ
-https://tv.tvcdnpotok.com/YlU-d-Mv3_4XgyJlvJGeBg/504/1775161201/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="telik-live",НТВ
-https://tv.tvcdnpotok.com/z36FIPcoebKv707LEV9JZA/537/1775161200/index.m3u8
+https://tv.tvcdnpotok.com/hwNAlTUi6Rj_wo6XM2l0ag/537/1775396861/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",НТВ +2
-https://tv.tvcdnpotok.com/Nkie9tvAotG3E-po9YBKrg/2096/1775161201/index.m3u8
+https://tv.tvcdnpotok.com/KR_2PoFV0ME57pSLrpVJXA/2096/1775396861/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",НТВ +4
-https://tv.tvcdnpotok.com/dNqBQgN30ONk-D_X8BllPA/2097/1775161202/index.m3u8
+https://tv.tvcdnpotok.com/rAFr9xUHsnP03jbUQO9M9Q/2097/1775396863/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",НТВ +7
-https://tv.tvcdnpotok.com/SoZ3JgTcO09OxX89jZfUjg/2098/1775161203/index.m3u8
+https://tv.tvcdnpotok.com/Sg-7ZXfsZB5VTzO0Qld_zg/2098/1775396864/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Travel+Adventure
-https://tv.tvcdnpotok.com/7SGM3Yf9EjG6p780hGCWWw/112/1775161203/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Music Box Russia
+https://tv.tvcdnpotok.com/EtlVUz2I6vCjNwCalp3i5A/168/1775396865/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Hollywood
+https://tv.tvcdnpotok.com/fj5CloWx-QbieK7hL-C8Sw/507/1775396866/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",RTG
-https://tv.tvcdnpotok.com/ap0rwcnrmHH3IDbg6KqnvA/545/1775161203/index.m3u8
+https://tv.tvcdnpotok.com/-uxkSmXgibk0sbLwVXe_8A/545/1775396867/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Авто24
-https://tv.tvcdnpotok.com/jJjnGmdNYPiChtTFiBJs4A/146/1775161204/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Comedy Central
+http://v.cdntv.online/video_error/money.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Comedy Central
+http://v.cdntv.online/video_error/money.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Comedy Central
+http://v.cdntv.online/video_error/money.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Travel+Adventure
+https://tv.tvcdnpotok.com/RGONlc04GL0gUugfTZgxQw/112/1775396867/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Бобер
+https://tv.tvcdnpotok.com/FqYNQ3iyPfVvuGAE0h12UA/189/1775396869/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",В мире животных
+https://tv.tvcdnpotok.com/q7VWeprx7Q6e6h5z7WbeSw/221/1775396869/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Нано ТВ
 https://s1.tv-nano.com/Nano_rec/tracks-v1/index.fmp4.m3u8
@@ -127,74 +139,50 @@ https://s1.tv-nano.com/Nano_rec/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" group-title="telik-live",Нано ТВ
 https://s1.tv-nano.com/Nano_rec/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Comedy Central
-http://v.cdntv.online/video_error/money.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Comedy Central
-http://v.cdntv.online/video_error/money.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Comedy Central
-http://v.cdntv.online/video_error/money.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",В мире животных
-https://tv.tvcdnpotok.com/yalBRoTksmz-QDKwivaYbw/221/1775161204/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Бобер
-https://tv.tvcdnpotok.com/YBLSZPAskWobMZ85miAHgA/189/1775161204/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="telik-live",Драйв ТВ
-https://tv.tvcdnpotok.com/oCtrHKJ4GZyFVEdnx0lKRg/242/1775161205/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Дом кино Премиум
-https://tv.tvcdnpotok.com/4RrUnB1WoYsyW6S4QQe0Kg/187/1775161205/index.m3u8
+https://tv.tvcdnpotok.com/snqkItPCnh50B2fKvEQs0g/242/1775396869/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Дорама
-https://tv.tvcdnpotok.com/JcrLEWBeAMHJFB-F5YsOaA/562/1775161205/index.m3u8
+https://tv.tvcdnpotok.com/R4sUWXik9UoqmnJEN25OXA/562/1775396869/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Авто24
+https://tv.tvcdnpotok.com/zlvUiYAnlPYrFctwECT7eg/146/1775396869/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Дом кино Премиум
+https://tv.tvcdnpotok.com/3A4lzDoxqii5o8MOARAImw/187/1775396869/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Загородная жизнь
-https://tv.tvcdnpotok.com/Uam-K4I9KD5K3Oe_XSMv1Q/195/1775161206/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Еврокино
-https://tv.tvcdnpotok.com/upTDYLO2VHF4N8i70eij0Q/126/1775161206/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Капитан Фантастика
-https://tv.tvcdnpotok.com/PQUkoHlV6M25V0DGBLqJyA/2044/1775161206/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Карусель
-https://tv.tvcdnpotok.com/JNuNkzJejN-bLg74sausdA/157/1775161206/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Иллюзион+
-https://tv.tvcdnpotok.com/lPgie64egJk87pufjv_5Iw/130/1775161207/index.m3u8
+https://tv.tvcdnpotok.com/_g2OkL79dFizRDnFJx5Raw/195/1775396870/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",MTV Live MTV Hits
-https://tv.tvcdnpotok.com/3P-h8-glqZm3T2TK64MZuw/204/1775161205/index.m3u8
+https://tv.tvcdnpotok.com/L9irFbyuEm2ZD52ZbwS_cg/204/1775396867/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",MTV Live MTV 00s
-https://tv.tvcdnpotok.com/x_01DjiHeGQxbiUv3zzyVA/175/1775161205/index.m3u8
+https://tv.tvcdnpotok.com/l1_r2ZiBBLjpNOkhJ_jjIw/175/1775396869/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",MTV Live MTV 80s
-https://tv.tvcdnpotok.com/jd4hOdArNoAspBj2lWffsw/174/1775161207/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Кинопоказ
-https://tv.tvcdnpotok.com/zteO0BJ5yEn6HjUcQzsjAQ/161/1775161208/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Красная линия
-https://tv.tvcdnpotok.com/p_0jyDTNLgUh2qtydkf5CA/239/1775161207/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Комедийное
-https://tv.tvcdnpotok.com/r2Jnb2MjiMPPC2hLDBquCw/170/1775161208/index.m3u8
+https://tv.tvcdnpotok.com/Z5WszQ2XIDFXPwjwoFkykA/174/1775396870/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Disney Поток 2 (DE)
-https://cachehsi1b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MTcyMDAyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9kaXNuZXljaGFubmVsZGUvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYjU4MmM5OWVkMGE3MWY0YiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjExIiwic291cmNlcyI6WzEwMF19.gT5COa8R1dfylN_maE3myoZiS8nApy_lDP-fzc-AMPVTk_Lnp94pPzaKEIpP-rxG-SwLqMnu7r6g53jTk8s8cA==/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+https://cachehsi1b.netplus.ch:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1NDA3NjYzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9kaXNuZXljaGFubmVsZGUvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNTA3NmI4YjczNjBmZGQzYiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjExIiwic291cmNlcyI6WzEwMF19._96IkkX4aeWnEzeryBYETD7vScNdRWkCMPy9BYzAOABDYnxsQVdXzP0ruRF5vZrYUF9--iU9XNXxVcJxomP0Nw==/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",КиноСат
-https://tv.tvcdnpotok.com/goRBH_z_gmCqI53ZBs4ugQ/124/1775161208/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Еврокино
+https://tv.tvcdnpotok.com/GfcNdsa8bENIz6cqOqvYnQ/126/1775396870/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Морской
-https://tv.tvcdnpotok.com/B6K21L0Zh__zVEDVkkISag/592/1775161209/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Карусель
+https://tv.tvcdnpotok.com/f-xBkgLKufNtrYcJaI-2Dw/157/1775396871/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Мужской
-https://tv.tvcdnpotok.com/fhkGPXGS-I0FNP7gRjmAWQ/2024/1775161209/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Иллюзион+
+https://tv.tvcdnpotok.com/ngsq5F9JZerOknjtN57H1w/130/1775396871/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Капитан Фантастика
+https://tv.tvcdnpotok.com/Xa2IJBz18_va-7H_AbR1DQ/2044/1775396871/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Кинопоказ
+https://tv.tvcdnpotok.com/I5JZeBlOdCbSSWzmFz4aHg/161/1775396872/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Красная линия
+https://tv.tvcdnpotok.com/gMI6ozuVBC7eHdjn86Ro9g/239/1775396872/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Мир
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
@@ -202,149 +190,23 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-id="" group-title="telik-live",Мир
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/int/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="telik-live",КиноСат
+https://tv.tvcdnpotok.com/cfOZbCbxMWOOY3VazbWQ4A/124/1775396873/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Комедийное
+https://tv.tvcdnpotok.com/rhW8buJ33cQDi12VNRKqjw/170/1775396873/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Морской
+https://tv.tvcdnpotok.com/wuA2eVJf6LYA8D-TDh455Q/592/1775396873/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="telik-live",Музыка Первого
-https://tv.tvcdnpotok.com/AjqX5HyRlCnyWwfWXM68Bw/225/1775161209/index.m3u8
+https://tv.tvcdnpotok.com/MtfDQEm4yqhJLewEFQw2QQ/225/1775396873/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",НТВ Сериал
-https://tv.tvcdnpotok.com/fw8WeLPURttkHMzw_4FiYQ/509/1775161211/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Наше крутое
-https://tv.tvcdnpotok.com/aWUh4sPBwvGMitVcHouXgg/171/1775161211/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Оружие
-https://tv.tvcdnpotok.com/oMnI4h6nMjIlhMYy7vBdpQ/117/1775161211/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Любимое кино
-https://tv.tvcdnpotok.com/pi1LG8fKdtykl7VZ4MVg5g/534/1775161211/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Мужской
+https://tv.tvcdnpotok.com/V4sghPmc_lZHRIJ_cnB88Q/2024/1775396874/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Наш Кинороман
-https://tv.tvcdnpotok.com/a9Hi1qrcKV9RqWd4HkeMSw/172/1775161211/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",НТВ-Хит
-https://tv.tvcdnpotok.com/TA16q1o0TDUEgCZESo8xOA/508/1775161212/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Охота и рыбалка
-https://tv.tvcdnpotok.com/z7_6Odhaeou3LLF4uhVl8w/538/1775161212/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Премиальное HD
-https://tv.tvcdnpotok.com/w9aPe5ja-wTSrTcYFRt6KA/134/1775161213/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Остросюжетное HD
-https://tv.tvcdnpotok.com/xbA0i1SYYhPvnMmKJjM51g/578/1775161212/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Охотник и рыболов
-https://tv.tvcdnpotok.com/d9CXCZ1BH1xmJ0RDEsQfUw/121/1775161212/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Приключения HD
-https://tv.tvcdnpotok.com/ACqv7RTnwjZxcvQlU7bXlQ/542/1775161213/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Радость моя
-https://tv.tvcdnpotok.com/mCZTHUl-u5C5PhQjdbypjw/158/1775161213/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Русский иллюзион
-https://tv.tvcdnpotok.com/O8w322YZXB-jwya8hB89XA/131/1775161214/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",РБК
-https://online-video.rbc.ru/online/rbctvhd.m3u8?e=gcore&t=00cLiS
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",НТВ Мир
-https://streaming.thestream.cyou/live/213.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",ТВ Центр
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Совершенно секретно
-https://tv.tvcdnpotok.com/KXU8UAjKLFS9Fo-JDSd0Nw/546/1775161215/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Страшное HD
-https://tv.tvcdnpotok.com/RKAx0V8heJ-lFWIYvjwyHw/216/1775161214/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Точка отрыва
-https://tv.tvcdnpotok.com/bINlUSJgd1N3ZdPTbggrEQ/517/1775161215/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Уникум
-https://tv.tvcdnpotok.com/98rL0hXg7o16jpQWN1JvRA/102/1775161215/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Bollywood HD
-https://tv.tvcdnpotok.com/UxT2Ya4ffxhe2tuvyz-tpQ/184/1775161215/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Шокирующее HD
-https://tv.tvcdnpotok.com/4bW8Mn4sP71GqqfGKwg25A/169/1775161216/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Шансон ТВ
-https://tv.tvcdnpotok.com/cJKVkSsB0pOOFJ3Sg6ZH3Q/165/1775161216/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Extreme sports
-https://tv.tvcdnpotok.com/_ME_SoFyn6--Sxi6_pYCHg/2032/1775161216/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",FOX
-https://tv.tvcdnpotok.com/HtGTjz5MDp9wg21ILsOhVg/569/1775161217/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/hls/russia24_int/playlist.m3u8?md5=BI4f6hiAjT-WYSk2IeWDLw&e=1775164994
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Fox Life
-https://tv.tvcdnpotok.com/M8jNq36eUjsexLRVwLoQbQ/568/1775161217/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",History
-https://tv.tvcdnpotok.com/_dPQ6GnjrxEk6cr0IDarAg/114/1775161217/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Gulli Girl
-https://tv.tvcdnpotok.com/ngBuSYIO94kfw1Igfy8fPQ/180/1775161217/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",FilmBox
-https://tv.tvcdnpotok.com/H0tBGBNAyw8Z00QwomuPug/214/1775161217/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Mezzo
-https://tv.tvcdnpotok.com/MwDmYvyfHrv4eBkvpcoQ4w/553/1775161217/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Nat Geo Wild
-https://tv.tvcdnpotok.com/ld5R_hhtBbZUwuq2W7uPsQ/564/1775161218/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Mezzo Live HD
-https://tv.tvcdnpotok.com/UAy8inFRNdkDO6sfxKGgSQ/2092/1775161218/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",National Geographic
-https://tv.tvcdnpotok.com/_24aVHnHAayAO-_sM9h9Kg/601/1775161218/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Nick Jr
-https://tv.tvcdnpotok.com/jYBRd0ArXZX-PIoLpbdaUA/210/1775161218/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Nickelodeon
-https://tv.tvcdnpotok.com/Owq9Q2JaroMEvflI8hwtpQ/155/1775161218/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Red
-https://tv.tvcdnpotok.com/VYNs9eoK1glV8bMlaUAh7w/576/1775161218/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",TiJi
-https://tv.tvcdnpotok.com/P1Hf_tVbDmt4JXyBD67jjQ/202/1775161218/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Детский мир
-https://tv.tvcdnpotok.com/E2Y_65aU0ErnvgRrmNsvKA/241/1775161218/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Sci-Fi
-https://tv.tvcdnpotok.com/QZPq5vKKg25q_f0ZS60T7A/145/1775161219/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Мультиландия
-https://tv.tvcdnpotok.com/ALj6RpxX3jQ6olsOenn-Hw/2045/1775161220/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Мир сериала
-https://tv.tvcdnpotok.com/rAs6iEIXBWbV5HmMUL5LAg/589/1775161221/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Первый Крымский
-https://tv.tvcdnpotok.com/NAv6tXc8anVXMr3KxxFgwA/533/1775161221/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Travel Channel
-https://tv.tvcdnpotok.com/gt2_lYZwlEOIwHwZ_H7mQQ/113/1775161221/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Black
-https://tv.tvcdnpotok.com/yK71eO7V47Wh4tH3JihOQw/577/1775161221/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",TV 21
-https://tv.tvcdnpotok.com/i0eYxBa0oo7YlyZC0ZmJUg/133/1775161222/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Романтичное HD
-https://tv.tvcdnpotok.com/qNzlTTJTXBVSi0vT8z17DA/505/1775161222/index.m3u8
+https://tv.tvcdnpotok.com/Ub4XeSJm8H8fF_xiSBXhAQ/172/1775396875/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Конный мир
 https://cdn.telecloud.tv/authnoaccess/index.m3u8
@@ -352,20 +214,170 @@ https://cdn.telecloud.tv/authnoaccess/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="telik-live",Конный мир
 https://hnc-free-viewlift.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Второй канал
-https://tv.tvcdnpotok.com/H94DZKWCWXMnEMXkfx_OGg/544/1775161222/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",НТВ Сериал
+https://tv.tvcdnpotok.com/M8I2Tju83xPKnhyzPdPLhQ/509/1775396875/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Setanta Sports 2
-https://stream8.cinerama.uz/1264/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Любимое кино
+https://tv.tvcdnpotok.com/5Hpg3F6t5_LZqeG05ndjSg/534/1775396876/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",НТВ-Хит
+https://tv.tvcdnpotok.com/BuaPybb09rGbFlMvRmRNSg/508/1775396876/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Наше крутое
+https://tv.tvcdnpotok.com/b9zgeJhIekdpJrrYiulYlw/171/1775396876/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Оружие
+https://tv.tvcdnpotok.com/nGPXVFXz1Vj3oq64R7_p1w/117/1775396876/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Остросюжетное HD
+https://tv.tvcdnpotok.com/CjRKFIHPLH6BwrUti6mkLQ/578/1775396876/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Охотник и рыболов
+https://tv.tvcdnpotok.com/VQyuyV-te71HL3UnllKUjQ/121/1775396878/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Приключения HD
+https://tv.tvcdnpotok.com/qC5f5rCwnxtcPa3BPU52Jw/542/1775396878/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Охота и рыбалка
+https://tv.tvcdnpotok.com/s0Pi0F_HspvOqCxMhygwxg/538/1775396878/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Радость моя
+https://tv.tvcdnpotok.com/zJPle_8g0RM1rW7lRPspdw/158/1775396878/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Премиальное HD
+https://tv.tvcdnpotok.com/j_S1mGCSJVBT62Ei3qD9hA/134/1775396879/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",РБК
+https://online-video.rbc.ru/online/rbctvhd.m3u8?e=e4&t=iAKhwk
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Страшное HD
+https://tv.tvcdnpotok.com/KzsIoicWHJWN64PFER5AQQ/216/1775396879/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Русский иллюзион
+https://tv.tvcdnpotok.com/WzyBf1pTMLD6d1f2Qit5Kw/131/1775396879/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",НТВ Мир
+https://streaming.thestream.cyou/live/213.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Совершенно секретно
+https://tv.tvcdnpotok.com/878sizEvyxlvt6juF2l97w/546/1775396879/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Уникум
+https://tv.tvcdnpotok.com/FVhp5leb6giX0Z4Quqy9Ng/102/1775396880/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Шансон ТВ
+https://tv.tvcdnpotok.com/MDhRX1GukvdD5R5YzPrDIg/165/1775396880/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Точка отрыва
+https://tv.tvcdnpotok.com/YsyYlgx9luAd9joH7Nmo2A/517/1775396881/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Extreme sports
+https://tv.tvcdnpotok.com/8cXkWGxRdjJXWfmG3y_7Ow/2032/1775396881/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Fox Life
+https://tv.tvcdnpotok.com/7Y4bjuqpVY8EkpGULhM4ug/568/1775396881/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Шокирующее HD
+https://tv.tvcdnpotok.com/QlDq97IB94-KYWdoz1E8cQ/169/1775396881/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/hls/russia24_int/playlist.m3u8?md5=mEsuRUo15_dg3j7mHNZzuA&e=1775400634
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",FOX
+https://tv.tvcdnpotok.com/G6Vyr5F7xyqfxysTQN4b1Q/569/1775396883/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Gulli Girl
+https://tv.tvcdnpotok.com/BS1fR2-AsAjuhWg-lqx6MA/180/1775396884/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Mezzo
+https://tv.tvcdnpotok.com/AqXZzMmvYQHHTqttrFFiHg/553/1775396885/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",FilmBox
+https://tv.tvcdnpotok.com/u8ZukLsqU1hKc1TQVpN7CA/214/1775396885/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Bollywood HD
+https://tv.tvcdnpotok.com/kHu_w5aJnvza2hTdDcIdMg/184/1775396885/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",History
+https://tv.tvcdnpotok.com/4kN9Ns9kgNYq3D5Vp6HCQA/114/1775396886/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Mezzo Live HD
+https://tv.tvcdnpotok.com/17WS4_j2NE02IKr0m9MElw/2092/1775396886/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Nick Jr
+https://tv.tvcdnpotok.com/I72FzgA8F0z9ycXWkMy4Nw/210/1775396887/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Nickelodeon
+https://tv.tvcdnpotok.com/BWIzY99fGVAJjfrGY3BAIw/155/1775396887/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Nat Geo Wild
+https://tv.tvcdnpotok.com/VvIgnf0pE6hvSrO063pl7A/564/1775396888/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",National Geographic
+https://tv.tvcdnpotok.com/JOA0_lZb2bkL5YM46Y1sWw/601/1775396887/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",TiJi
+https://tv.tvcdnpotok.com/wHAmbhbsWb35uygp7LrDKA/202/1775396890/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Sci-Fi
+https://tv.tvcdnpotok.com/p3bT8vZeFsKA4IIfUMFiFg/145/1775396890/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Детский мир
+https://tv.tvcdnpotok.com/H-FGplG1YOEflCkbD6LmHA/241/1775396890/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Red
+https://tv.tvcdnpotok.com/Z1wrzI-NZ0rJZz_DrRH_Tw/576/1775396891/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Black
+https://tv.tvcdnpotok.com/uOERpQD0SNDCcuPnAwGZfQ/577/1775396891/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Мультиландия
+https://tv.tvcdnpotok.com/P8GRjXHvdO8EYoyU12xIHw/2045/1775396891/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Travel Channel
+https://tv.tvcdnpotok.com/_GCo5EFQH3LZpRdBSkQ2yw/113/1775396891/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Мир сериала
+https://tv.tvcdnpotok.com/MPS3vtoFEFmyctncxDVJYg/589/1775396892/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Первый Крымский
+https://tv.tvcdnpotok.com/-C_EEJD7DvVvU8KV6jBzyg/533/1775396892/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",TV 21
+https://tv.tvcdnpotok.com/G7Pr5iLv9e8aNvGzfe6pCQ/133/1775396893/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Романтичное HD
+https://tv.tvcdnpotok.com/cmAW2ylVlqYAZjkYdm3-gg/505/1775396893/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Звезда
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Setanta Sports 1
 https://stream8.cinerama.uz/1263/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",РТР-Планета
-https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist.m3u8?md5=CYP30I1nsKMLLXXCChXb-Q&e=1775165002
+#EXTINF:-1 tvg-id="" group-title="telik-live",Setanta Sports 2
+https://stream8.cinerama.uz/1264/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Второй канал
+https://tv.tvcdnpotok.com/UXScfjZtET6V5MBdRapWEA/544/1775396897/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Блокбастер HD
+https://tv.tvcdnpotok.com/tcmhIBHZdsd1tYDGPtiiCA/249/1775396898/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Соловьев Live
+https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist.m3u8?md5=QvQYmMbvDmhZndmhxcTP-g&e=1775400677
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",РТР-Планета
-https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_sng/playlist.m3u8?md5=aX35MeSE4PG0LyNTOVw6rA&e=1775165002
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist.m3u8?md5=n5dCPVnWwtvknZ3wQWDhdQ&e=1775400673
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",РТР-Планета
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_sng/playlist.m3u8?md5=jXIGQLbaCY2VNH_7Kehbsw&e=1775400676
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",РТР-Планета
 https://streaming.thestream.cyou/live/211.m3u8
@@ -373,23 +385,14 @@ https://streaming.thestream.cyou/live/211.m3u8
 #EXTINF:-1 tvg-id="" group-title="telik-live",Спас
 https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Соловьев Live
-https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist.m3u8?md5=y9CA63qR01v59AvnItAw2w&e=1775164948
-
 #EXTINF:-1 tvg-id="" group-title="telik-live",Страх HD #2
-https://tv.tvcdnpotok.com/nciZcAbdBn76073P1T4bIg/2056/1775161225/index.m3u8
+https://tv.tvcdnpotok.com/3OJLZqEYHdCNh09bPhAOfQ/2056/1775396898/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Страх HD #3
-https://tv.tvcdnpotok.com/nJoBUPDdrLrfcPvOCHQylA/2067/1775161225/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Блокбастер HD
-https://tv.tvcdnpotok.com/X8MQSz4diD5yivuYUL2fHQ/249/1775161225/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Известия
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+https://tv.tvcdnpotok.com/wFIxZQTP7V6OJW6QdF8-mw/2067/1775396899/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Том и Джерри
-https://tv.tvcdnpotok.com/nXZx4THq1OoErvQSyYkxrQ/156/1775161225/index.m3u8
+https://tv.tvcdnpotok.com/2tWMltrcLFLxNiWX96gdJA/156/1775396898/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",BackusTV Music
 https://fl1003.bozztv.com:443/ushba-mafia/tracks-v1a1/mono.m3u8
@@ -400,29 +403,26 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id="" group-title="telik-live",Fight TV
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Cartoonito
-https://tv.tvcdnpotok.com/MTJ3mEXTx7oQrGzzGde2ag/2043/1775161228/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Вести ФМ
-https://vgtrksmotrim.cdnvideo.ru/hls/vesti_fm/playlist.m3u8?md5=L-o4A4kYdAZAQEqyYWdN2g&e=1775165008
+https://vgtrksmotrim.cdnvideo.ru/hls/vesti_fm/playlist.m3u8?md5=xtJJLvuObxockL0zGxja2g&e=1775400682
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Epic Drama
-https://tv.tvcdnpotok.com/NzPN8R9F6dkRFtInW_jZFA/183/1775161228/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Cartoonito
+https://tv.tvcdnpotok.com/KZW0LuMuHjAfGlKgDFKtLQ/2043/1775396902/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Реал Мадрид
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="telik-live",Epic Drama
+https://tv.tvcdnpotok.com/AgnX8D3gehsbk0dbLeH-_Q/183/1775396904/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="telik-live",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Звезда
-https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="telik-live",Фантастика HD #1
-https://tv.tvcdnpotok.com/iQxy7lW5OAAOI-wSNorWeQ/2066/1775161226/index.m3u8
+https://tv.tvcdnpotok.com/v2oNl6nlij-gyOjHkKjTFQ/2066/1775396900/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Фантастика HD #2
 https://cdntelehub.com/4/livetv.php?key=mm-fantastika.m3u8
@@ -436,6 +436,12 @@ https://cdnstreamhub.com/2/livetv.php?key=oasis-fantastika.m3u8
 #EXTINF:-1 tvg-id="" group-title="telik-live",Союз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="telik-live",History 2
+https://tv.tvcdnpotok.com/BP6pXGO9za911PmvvV3jlw/224/1775396908/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Пес и Ко
+https://tv.tvcdnpotok.com/2QwXUrYHlVSdEH0nqa5ojg/2076/1775396908/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="telik-live",KroneHit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
 
@@ -445,125 +451,128 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="telik-live",KroneHit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Пес и Ко
-https://tv.tvcdnpotok.com/4XykTSwWePOjFG77mBL-NQ/2076/1775161231/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Kinozal 1
-https://tv.tvcdnpotok.com/RvNw72seuG-KoJp67_R66w/141/1775161231/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",History 2
-https://tv.tvcdnpotok.com/rSGUxxFbAJAp3QOMr1IODg/224/1775161231/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Kinozal 2
-https://tv.tvcdnpotok.com/CgmyCS1MTmTUWXKTEvkfKA/142/1775161232/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Kinozal 6
+https://tv.tvcdnpotok.com/py9EibWRchoqzddOKT-EGw/2033/1775396910/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Kinozal 4
-https://tv.tvcdnpotok.com/8jy2a4l1YC6eDoAnSafkOg/138/1775161232/index.m3u8
+https://tv.tvcdnpotok.com/hfivEnFe8EV_fP9UjyewRA/138/1775396910/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Kinozal 6
-https://tv.tvcdnpotok.com/a4uqY9RdazQDoXwXfyc_Xw/2033/1775161232/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Kinozal 7
-https://tv.tvcdnpotok.com/FKJ9cLG49tROkif7JrujBw/139/1775161233/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Kinozal 5
-https://tv.tvcdnpotok.com/yFmFLgXZNtWbKhbNIhWF_A/137/1775161233/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Kinozal 2
+https://tv.tvcdnpotok.com/jSN_QQrsXUIIDTcweP-Sxg/142/1775396910/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Kinozal 3
-https://tv.tvcdnpotok.com/ybEc78JRN3ucUV9kDKZGPQ/140/1775161233/index.m3u8
+https://tv.tvcdnpotok.com/S16Nr6bVUz02EFYwSBHSFg/140/1775396910/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Диалоги о рыбалке
-https://tv.tvcdnpotok.com/2aJXCshv1cL3jKjqgG572A/2012/1775161234/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Kinozal 1
+https://tv.tvcdnpotok.com/zgGYp2s9L1jDrJTAPz-0Gw/141/1775396910/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Kinozal 5
+https://tv.tvcdnpotok.com/AdX6OzgVfIWJ8jd8UmNL6w/137/1775396911/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Kinozal 7
+https://tv.tvcdnpotok.com/4KWOrseJAmZ6_0zLbEWO0g/139/1775396911/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Радио Sputnik
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="telik-live",Первый Космический
+https://tv.tvcdnpotok.com/AEdA_l1kxoKmOcjqxOEx3A/2006/1775396915/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="telik-live",Продвижение
 https://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Москва Доверие
-https://tv.tvcdnpotok.com/tA0vQi0gfMkLo0WPoLgNUA/2004/1775161234/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Океан ТВ
-https://tv.tvcdnpotok.com/Mrc0ma3vDerkEQJQzsrZlg/2020/1775161234/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Первый Космический
-https://tv.tvcdnpotok.com/5Ugzmq26lPkAXadX2KJLDw/2006/1775161235/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",ОСН
-https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Здоровое ТВ
+https://tv.tvcdnpotok.com/b9BIXRVKCHSusnMeuhDTvA/2015/1775396915/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Крым 24
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="telik-live",Океан ТВ
+https://tv.tvcdnpotok.com/-adioCJ_7xg8i3Y-DIMNfg/2020/1775396915/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Диалоги о рыбалке
+https://tv.tvcdnpotok.com/6Jcmfkzo5_60-ZrwsrTqFg/2012/1775396915/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Москва Доверие
+https://tv.tvcdnpotok.com/qAryfgUMyBmcU68Oks8Vpg/2004/1775396915/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",ОСН
+https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="telik-live",360 Новости
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Terra
-https://tv.tvcdnpotok.com/Vps_QjIDP-EyyEgGR1sBkw/2009/1775161237/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Здоровое ТВ
-https://tv.tvcdnpotok.com/erMaah_lpI8cF_WkWTnrUA/2015/1775161237/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Поехали
-https://tv.tvcdnpotok.com/HwKvjNfR5lkrPHU-IfoDAg/2001/1775161237/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Глазами туриста
-https://tv.tvcdnpotok.com/OnsFffJ7sSMbPXloLma29Q/2026/1775161237/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Дикая охота
+https://tv.tvcdnpotok.com/XZDhckm3NhnFEF0rG7JM-g/2014/1775396918/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",НТВ Право
-https://tv.tvcdnpotok.com/t94qHFATFSMOoNiIoLijFw/2028/1775161237/index.m3u8
+https://tv.tvcdnpotok.com/KZEsr6xJ3YnTlo1JkVtxqg/2028/1775396918/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Живая природа
-https://tv.tvcdnpotok.com/3cCZNL8kgQYz5jCFsiOypQ/2025/1775161237/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Глазами туриста
+https://tv.tvcdnpotok.com/rrQHVFB3OJv_Ux07_VV5mg/2026/1775396918/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Дикая охота
-https://tv.tvcdnpotok.com/93fdsDTd_U0wzZBIgPFQIQ/2014/1775161237/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Terra
+https://tv.tvcdnpotok.com/5bEvu1C5NdMH6J1CNG8Mlg/2009/1775396918/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",English Club TV
-https://tv.tvcdnpotok.com/ZBkOl416dhzaBKgDZLY62g/2021/1775161239/index.m3u8
+https://tv.tvcdnpotok.com/wOpBBTTGAVistsZIn9miZQ/2021/1775396919/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Дикая рыбалка
-https://tv.tvcdnpotok.com/uK1zYDjVY8kEogDnRSKQ3w/2013/1775161240/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Первый Вегетарианский
-https://tv.tvcdnpotok.com/xKkBIlLUuYKvzCIE4Iq5mg/2019/1775161241/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Вопросы и ответы
-https://tv.tvcdnpotok.com/OKEj8tsUBhRDQCvKUqCDIw/2017/1775161240/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Успех
-https://tv.tvcdnpotok.com/l4NuTatA_YI8MdK31OyYpw/2003/1775161241/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Наша Тема
-https://tv.tvcdnpotok.com/lkQ69kY1rIa5Q36K56HRQQ/2030/1775161241/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Психология 21
-https://tv.tvcdnpotok.com/yAB-VIpb9tpU3rXWpqMVEg/2016/1775161241/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Big Planet
-https://tv.tvcdnpotok.com/Pmeb8b1PGKWEwHF_OOJ7zw/2010/1775161242/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",КтоКуда
-https://tv.tvcdnpotok.com/ouqcPOln4rpmSN1NWo_Pwg/2005/1775161242/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Живая природа
+https://tv.tvcdnpotok.com/6yCcoUDYWWDLhhhJ7Z1NQg/2025/1775396920/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Домашние животные
-https://tv.tvcdnpotok.com/gqzDlKW1tRJoqxSpJF5LYg/2007/1775161242/index.m3u8
+https://tv.tvcdnpotok.com/F6HSyXOeqHPu9GQC8pHGlQ/2007/1775396920/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Дикая рыбалка
+https://tv.tvcdnpotok.com/8R_6ipMemc-NgFl0SeKIwA/2013/1775396920/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Психология 21
+https://tv.tvcdnpotok.com/zJvLBbcIUCyWcsl7iWQE8w/2016/1775396920/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Вопросы и ответы
+https://tv.tvcdnpotok.com/Fp9CoF-d2-MZFuAk0KOq_Q/2017/1775396920/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Поехали
+https://tv.tvcdnpotok.com/kh837mCFLTOMIOrDcEkw2g/2001/1775396920/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Univer TV
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="telik-live",Успех
+https://tv.tvcdnpotok.com/S-ZFgMoxXrcXa_l1b8bwyw/2003/1775396921/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="telik-live",ID: Investigation Discovery
-https://tv.tvcdnpotok.com/rv5aVW7cWBnG4DbHGpqh_w/570/1775161242/index.m3u8
+https://tv.tvcdnpotok.com/-t9ZD96MkdsUNv8ZxdNfWQ/570/1775396926/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Первый Вегетарианский
+https://tv.tvcdnpotok.com/wrsLmMUWNZexzixTTyRY6Q/2019/1775396925/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Наша Тема
+https://tv.tvcdnpotok.com/TvpedjAwuYj_BNfCTOk0cQ/2030/1775396926/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Big Planet
+https://tv.tvcdnpotok.com/sadSQ9fFHC7eBqRQesOi1g/2010/1775396926/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",КтоКуда
+https://tv.tvcdnpotok.com/kfc6U1xnwfycq9FfrDzQkA/2005/1775396927/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",A21 Vital Autosport
-https://tv.a21network.ru/stream/37909/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",QazSport
+https://block.qazcdn.com/block/geoblock.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",World Poker Tour
-https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",MCM Top
+https://tv.tvcdnpotok.com/evmw7ocGklSX2s6MY7M9MA/535/1775396929/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Retro Music TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -574,11 +583,17 @@ https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/playli
 #EXTINF:-1 tvg-id="" group-title="telik-live",XFC TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2351
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",QazSport
-https://block.qazcdn.com/block/geoblock.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",World Poker Tour
+https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",MCM Top
-https://tv.tvcdnpotok.com/WPQFFhhXBANW2iuCv_U00Q/535/1775161250/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",A21 Vital Autosport
+https://tv.a21network.ru/stream/37909/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",FreshTV
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",NickToons
+https://tv.tvcdnpotok.com/iuvTJn4gVnZzd46tx5ZuPw/2048/1775396933/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
@@ -586,20 +601,11 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-id="" group-title="telik-live",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Retro Music TV
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Trace Sports Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="telik-live",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",FreshTV
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",NickToons
-https://tv.tvcdnpotok.com/2-v5VuGKnRlaNRSG5lVDiA/2048/1775161251/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Е ТВ
+https://tv.tvcdnpotok.com/r_tZYeePT0ZWF1e2TyEj8Q/2000/1775396933/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",V2Beat
 https://abr.de1se01.v2beat.live/playlist.m3u8
@@ -607,32 +613,23 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="telik-live",V2Beat
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",НТВ Стиль
-https://tv.tvcdnpotok.com/Ft2pYhLrUAjCwMIqHmexvg/2029/1775161253/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Е ТВ
-https://tv.tvcdnpotok.com/WQXTiLLF5SuF02oUUjaHiQ/2000/1775161254/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Luxury
-https://s1.tv-nano.com/Luxury_rec/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="telik-live",Калейдоскоп ТВ
 https://serv25.vintera.tv/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Ювелирочка
-https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Trace Sports Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Твоё ТВ
-https://tvoetv.space/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",НТВ Стиль
+https://tv.tvcdnpotok.com/fwXexNPq4KaRTpUmXHnOVw/2029/1775396934/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Витрина ТВ
-https://v4.proofix.ru/vitrina-live/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Анекдот ТВ
+http://v.cdntv.online/video_error/money.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Анекдот ТВ
+http://v.cdntv.online/video_error/money.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Анекдот ТВ
+http://v.cdntv.online/video_error/money.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Твоё ТВ Юмор
 https://tvoetv.space/tvoetv_humor/index.m3u8
@@ -640,65 +637,68 @@ https://tvoetv.space/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="telik-live",Твоё ТВ Юмор
 https://tvoetv.space/tvoetv_humor/video.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="telik-live",Твоё ТВ
+https://tvoetv.space/tvoetv/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Ювелирочка
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Luxury
+https://s1.tv-nano.com/Luxury_rec/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Витрина ТВ
+https://v4.proofix.ru/vitrina-live/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="telik-live",Shopping Live
 https://shoppinglive.mediacdn.ru/cdn/shopping/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Shopping Live
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Анекдот ТВ
-http://v.cdntv.online/video_error/money.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Анекдот ТВ
-http://v.cdntv.online/video_error/money.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Анекдот ТВ
-http://v.cdntv.online/video_error/money.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Fashion TV
+https://live-3.otcnet.ru/wfcrus/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",7tv
 https://v4.proofix.ru/7tv-live/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Fashion TV
-https://live-3.otcnet.ru/wfcrus/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Советское кино
-https://tv.tvcdnpotok.com/W72H1jhs2EpI9lBCEBx2WQ/243/1775161258/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Победа
+https://tv.tvcdnpotok.com/HfQDvraMrypZWuJN1qmtsA/218/1775396942/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Хит HD
-https://tv.tvcdnpotok.com/Tt-j1JIvAw_LwITH4rYChQ/219/1775161259/index.m3u8
+https://tv.tvcdnpotok.com/HsF7Qfv1T7vqmBfcdn17eA/219/1775396942/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Феникс плюс Кино
-https://tv.tvcdnpotok.com/0_b01EqVleAZ_mK0Mh_UhQ/2038/1775161259/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Советское кино
+https://tv.tvcdnpotok.com/4QENxGmo0U6jAcEAu44OkQ/243/1775396941/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Любимое HD
+https://tv.tvcdnpotok.com/aH6jBTz1lyRkP1LAzXVbHA/236/1775396942/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Кинеко
+https://tv.tvcdnpotok.com/_MeqPB7jrUGGiceMn_7dtA/2037/1775396944/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Кино 1
 https://cdntvmedia.com/11frbKJh65VNmj.php?url=http://kino-1.catcast.tv/content/38617/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Любимое HD
-https://tv.tvcdnpotok.com/0eCa7dGE0AOJD51iEU10HQ/236/1775161259/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Кинеко
-https://tv.tvcdnpotok.com/NeQAfcvNJGUuKcGhgY8uQQ/2037/1775161260/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="telik-live",В гостях у сказки
-https://tv.tvcdnpotok.com/W4iFtgnl8XRfbvSWvLA7Hw/550/1775161262/index.m3u8
+https://tv.tvcdnpotok.com/eylJlnHd6MrRcPA2hvX40g/550/1775396946/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Феникс плюс Кино
+https://tv.tvcdnpotok.com/IRcZS7BQkrUK-KHO-4wt8A/2038/1775396946/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",СоюзМультфильм
+https://tv.tvcdnpotok.com/mCCKwfSFBAVZweLQCgV03A/511/1775396946/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Рыжий
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",СоюзМультфильм
-https://tv.tvcdnpotok.com/ma6hzSolRoIME0Ax3s4Kzg/511/1775161263/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Победа
-https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Три Ангела
+https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Детское кино
 https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",МузСоюз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Три Ангела
-https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",БогБлагТВ
 https://glorystarplus.tv/BogBlagTV/index.m3u8
@@ -709,65 +709,32 @@ https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" group-title="telik-live",GNC
 https://live-gnctv.cdnvideo.ru/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Фитнес ТВ
-https://tv.tvcdnpotok.com/ccoLIFQhl4x5cucpdMPqIA/2059/1775161268/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Мировое Кино
+https://tv.tvcdnpotok.com/AOZHGP_OurJ-luo2PT1Jeg/1017/1775396955/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",КиноБоевик
-https://tv.tvcdnpotok.com/VI2tShlj8UakyKzcLhR0Fg/1015/1775161268/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Plan B
-https://tv.tvcdnpotok.com/EDpOY9kKAR0CJ9cbB6rB6w/2041/1775161268/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Мировое Кино
-https://tv.tvcdnpotok.com/nGXtkZxGA4hSNAlnbG057w/1017/1775161268/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Премиум Кино
-https://tv.tvcdnpotok.com/vYia2zQdjdyQJb0agFBAQA/1018/1775161269/index.m3u8
+https://tv.tvcdnpotok.com/1xVXmgPetoWtWAnRD6mCNQ/1015/1775396957/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Семейное Кино
-https://tv.tvcdnpotok.com/JREsEXlaZ7X8lVV0JBEiNg/1016/1775161269/index.m3u8
+https://tv.tvcdnpotok.com/0oexBRw4YoF27mGAociv4g/1016/1775396958/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Фитнес ТВ
+https://tv.tvcdnpotok.com/i_9aK4RnRZWqsXPyJ9WaSA/2059/1775396959/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Премиум Кино
+https://tv.tvcdnpotok.com/97UdIKSiuwTt1hMA1UFMtg/1018/1775396959/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Plan B
+https://tv.tvcdnpotok.com/qN3YCVeCt9syuy77lml1LA/2041/1775396960/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Scream
-https://tv.tvcdnpotok.com/-RcgRz97TBZPKqzhsjCP5A/247/1775161270/index.m3u8
+https://tv.tvcdnpotok.com/o9R5m_PEf2lZ4tGJ2FLHXg/247/1775396960/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Старт
-https://tv.tvcdnpotok.com/iPAKoo83qF_ycOpXTE8OnQ/2031/1775161271/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Старт Триумф
-https://tv.tvcdnpotok.com/pfin9-_930VGZ-T82p8QGg/2084/1775161271/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",HGTV
-https://tv.tvcdnpotok.com/g_s_kmsfdaPA80LaNQWKyA/2011/1775161271/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Хоккей ТВ
-https://tv.tvcdnpotok.com/DTlE9aQoYv38DrpZ6HXm8g/2081/1775161271/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",ТВ Спорт
-https://tv.tvcdnpotok.com/TBCKvYML5wB8D1qg0VOR2A/2082/1775161272/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",RTVi
-https://tv.tvcdnpotok.com/2p7zVk1eDhmmK7ZaTh6HOg/2073/1775161272/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",FoodTime
-https://tv.tvcdnpotok.com/hdFvvqXgoRflcH_ZkKeF5Q/2027/1775161272/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Большая Азия
-https://tv.tvcdnpotok.com/BCmhdaiJ7QMvgs6xqzYYIg/2002/1775161273/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Мяч
-https://tv.tvcdnpotok.com/RwY9qzwTEXYRt7KHWv1kow/2083/1775161273/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Время
-https://tv.tvcdnpotok.com/FDVp7Ri1KlRUQPTQrmacOQ/2072/1775161273/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",The Explorers
-https://tv.tvcdnpotok.com/DC054kew7n1UWsebDt-wYA/2075/1775161273/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Арсенал
-https://tv.tvcdnpotok.com/dz7M_wPqfK2TKbovDhQqNA/2074/1775161274/index.m3u8
+https://tv.tvcdnpotok.com/bKLDj_piOCaeKPjoaW99lA/2031/1775396961/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Marvel TV #1
-https://tv.tvcdnpotok.com/mtdqMmTaVeGil41WHaLaBw/2050/1775161268/index.m3u8
+https://tv.tvcdnpotok.com/KQCmVIjyL0aRBu5kgW7zBA/2050/1775396954/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Marvel TV #2
 https://cdntelehub.com/3/livetv.php?key=magic-galaxy.m3u8
@@ -775,131 +742,161 @@ https://cdntelehub.com/3/livetv.php?key=magic-galaxy.m3u8
 #EXTINF:-1 tvg-id="" group-title="telik-live",Marvel TV #4
 https://cdnstreamhub.com/2/livetv.php?key=oasis-marvel.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Усадьба
-https://tv.tvcdnpotok.com/Zp0buZj4V8ZYZMzhLMh1-A/2077/1775161274/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",HGTV
+https://tv.tvcdnpotok.com/_j_C9nE1BY-yFr8M4SUK1A/2011/1775396961/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",KinoJam 1
-https://tv.tvcdnpotok.com/A5TbK_Us9nT-wJyMdvqJmA/2039/1775161274/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Хоккей ТВ
+https://tv.tvcdnpotok.com/IbhdSfP4-M_el4gzF64z5A/2081/1775396963/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Дикий
-https://tv.tvcdnpotok.com/OeefTjZ55s_htohTw3xPtg/2079/1775161275/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",ТВ Спорт
+https://tv.tvcdnpotok.com/xsK2czo9XfOqYdtiD4dZAw/2082/1775396963/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",KinoJam 2
-https://tv.tvcdnpotok.com/j75Fmo_IDcH9yoF4R_M-9Q/2040/1775161275/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",RTVi
+https://tv.tvcdnpotok.com/cb-Bl__y_XRml4GqDYicnA/2073/1775396965/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Старт Триумф
+https://tv.tvcdnpotok.com/2zNvI9Z0OGkvbn8uLj_VNw/2084/1775396964/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Мяч
+https://tv.tvcdnpotok.com/YXWqb_VCmrV-mM4USbjRxw/2083/1775396964/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Большая Азия
+https://tv.tvcdnpotok.com/J64C2KagtzQ-PuAGnawApQ/2002/1775396966/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Арсенал
+https://tv.tvcdnpotok.com/Y_rz05e3RwOsb4xZ_5n9Hw/2074/1775396966/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Время
+https://tv.tvcdnpotok.com/4YOCxQbmpZtlOnzW_b_Ufw/2072/1775396966/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",The Explorers
+https://tv.tvcdnpotok.com/IeT7bUShdDQkYFqveveT1Q/2075/1775396966/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",FoodTime
+https://tv.tvcdnpotok.com/UvWIgsVCdyzF4k-jKdUlIQ/2027/1775396966/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Живи Активно
-https://tv.tvcdnpotok.com/xeypWNoHNStJRqfZ28I95Q/2080/1775161275/index.m3u8
+https://tv.tvcdnpotok.com/s4mj8bk0WYyQ8wJpAM6E6A/2080/1775396966/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Усадьба
+https://tv.tvcdnpotok.com/TAwz8stdBqCibfJ2ms58VQ/2077/1775396967/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Дикий
+https://tv.tvcdnpotok.com/kyN3UX70pYmMzEiNH_Y4MA/2079/1775396967/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",KinoJam 2
+https://tv.tvcdnpotok.com/yyGQf9Hi9breINuqObRjuA/2040/1775396970/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Криминальное HD
-https://tv.tvcdnpotok.com/Sxx618hRuRVLxhiopjU3ig/2034/1775161277/index.m3u8
+https://tv.tvcdnpotok.com/4396y34-47330oRcjEramQ/2034/1775396970/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Ужасы HD
-https://tv.tvcdnpotok.com/Kk_P-ts4TXF3rShGdp_REQ/2036/1775161277/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",DetectiveJam
-https://tv.tvcdnpotok.com/utCDIlBXfENlPBjMrgBIGA/2089/1775161277/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Боевики HD
-https://tv.tvcdnpotok.com/1fvs1AZ_p7kTBG1BCte5zQ/2035/1775161277/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Про Любовь
-https://tv.tvcdnpotok.com/pLHGUe41t-x59-Nx8631wQ/2086/1775161278/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Romance
-https://tv.tvcdnpotok.com/My7djj362eyvwYwa3N2BDg/2088/1775161278/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Ретро ТВ
-https://tv.tvcdnpotok.com/0jgAXyKCX1UfHvC29aFmdA/2078/1775161278/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Лавстори
-https://tv.tvcdnpotok.com/6JxCZWnPdsHgNTx0p6_H2A/2087/1775161278/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",KinoJam 1
+https://tv.tvcdnpotok.com/ebb-vave0Id20xUfog4OHg/2039/1775396969/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",FamilyJam
-https://tv.tvcdnpotok.com/5PzgmMpqu8FuI-hTfJfc1w/2090/1775161278/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",CineMan Action
-https://tv.tvcdnpotok.com/1CjB4dsPWM39Kwbf9PI7Eg/2051/1775161278/index.m3u8
+https://tv.tvcdnpotok.com/idwM4l18wT4JrAmC5in_ww/2090/1775396970/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",CineMan
-https://tv.tvcdnpotok.com/BxWcGeTTV6mvWdKh_bB4hg/2049/1775161278/index.m3u8
+https://tv.tvcdnpotok.com/rPc_q3PfOvI7B9-LKXIMLg/2049/1775396971/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Исторический HD
-https://tv.tvcdnpotok.com/8tz4xRG-lV4yesaqWxvQiw/2085/1775161278/index.m3u8
+https://tv.tvcdnpotok.com/IyeI8LMmoq47c-kR-lHCuQ/2085/1775396970/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Ужасы HD
+https://tv.tvcdnpotok.com/xeWwD3_E-7xm0s2UGgtxRQ/2036/1775396971/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Romance
+https://tv.tvcdnpotok.com/T9N2J79LlTznYw_OYoMTWQ/2088/1775396972/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",DetectiveJam
+https://tv.tvcdnpotok.com/Og77E3x8lJxs0HPl9vYGBw/2089/1775396972/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Ретро ТВ
+https://tv.tvcdnpotok.com/-jZnV2Bzv21LSY7gxSHvYw/2078/1775396973/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Боевики HD
+https://tv.tvcdnpotok.com/O0ZXnv1p_SYtDGzsJA6B9Q/2035/1775396973/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Про Любовь
+https://tv.tvcdnpotok.com/Kqn6gWVrGYbwpn_3waJO_Q/2086/1775396973/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Лавстори
+https://tv.tvcdnpotok.com/y28u4nMOp_3yFkTA0jHstw/2087/1775396973/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",CineMan Комедия
-https://tv.tvcdnpotok.com/sfI6jJS1odM5zUsgSOqEgQ/2057/1775161279/index.m3u8
+https://tv.tvcdnpotok.com/sdWcQHgICRtw8fYNqpb4rw/2057/1775396974/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",CineMan Триллер
-https://tv.tvcdnpotok.com/AzvM03PLtnvOPmtviqun4g/2052/1775161281/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",CineMan Топ
-https://tv.tvcdnpotok.com/Z0PWyed-H2dXZrSltnmjkA/2054/1775161281/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",CineMan Катастрофы
-https://tv.tvcdnpotok.com/7MuuaHbvLF67fz2vFFGI-g/2055/1775161281/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",CineMan Action
+https://tv.tvcdnpotok.com/aZvuL5mVMNk4Cx40lDJSGQ/2051/1775396974/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",CineMan Marvel
-https://tv.tvcdnpotok.com/PFesq6NP7bh9hBjZCamwpw/2050/1775161281/index.m3u8
+https://tv.tvcdnpotok.com/36bNoHoPvglJ0rui0FmHqw/2050/1775396974/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",CineMan Мелодрама
-https://tv.tvcdnpotok.com/o0GK5_HfGLxIWT7fKWeSzg/2053/1775161281/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Adventure
-https://tv.tvcdnpotok.com/A1s9qGJEc9wCHl0w5hHVKg/2068/1775161282/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",CineMan Топ
+https://tv.tvcdnpotok.com/xQCh056t7S_3e9j3riwofQ/2054/1775396975/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Cinema
-https://tv.tvcdnpotok.com/Ev9tiiic-_Nz-HEJTsPMPA/2060/1775161283/index.m3u8
+https://tv.tvcdnpotok.com/AcjP5EClZ26dD2qumaccOQ/2060/1775396975/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Family
-https://tv.tvcdnpotok.com/kTZk4TFKjVDZlyAJPWmJOA/2063/1775161282/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",CineMan Мелодрама
+https://tv.tvcdnpotok.com/bC-obu1nPFWM-eDbfHQAnQ/2053/1775396975/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",CineMan VHS
-https://tv.tvcdnpotok.com/ZjYQP-hbsbY6JQB-FdGI0Q/2058/1775161283/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",CineMan Катастрофы
+https://tv.tvcdnpotok.com/xCvNBz1h8B13Je88cFf3Ug/2055/1775396975/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",CineMan Ужасы
-https://tv.tvcdnpotok.com/zeJuXKb63DX2RuW-Zv47Jg/2056/1775161283/index.m3u8
+https://tv.tvcdnpotok.com/V7rZNkOH6yfwP8v5dHipsQ/2056/1775396975/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Premiere
-https://tv.tvcdnpotok.com/sY_4v9cFFrslXZjdGKsaww/2062/1775161283/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",CineMan Триллер
+https://tv.tvcdnpotok.com/mo9I920LpOddvU4Ee5yTWQ/2052/1775396976/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Comedy
-https://tv.tvcdnpotok.com/FJ2enpz7gNyGmTagtsF0ew/2061/1775161282/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Rating
-https://tv.tvcdnpotok.com/00WUJ4VgSoVeAyxWsyINZw/2064/1775161283/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Adventure
+https://tv.tvcdnpotok.com/Ptk48nRh8S5xZd2UfJmEfA/2068/1775396977/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Horror
-https://tv.tvcdnpotok.com/_533hl4hibdpOolW0NWUbA/2067/1775161283/index.m3u8
+https://tv.tvcdnpotok.com/NarKiJ_8L-PEJl8hSvZhDg/2067/1775396976/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",CineMan VHS
+https://tv.tvcdnpotok.com/FTNwBMJn3FeRqvyU5WMtlw/2058/1775396977/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Premiere
+https://tv.tvcdnpotok.com/9k3XfxBb9LFM2mcdi95_yA/2062/1775396979/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Family
+https://tv.tvcdnpotok.com/X-W1bnjNmrZtbUFy8gDkhg/2063/1775396980/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Fantastic
-https://tv.tvcdnpotok.com/LmYYJu69VwuW2E8tyqEyKA/2066/1775161283/index.m3u8
+https://tv.tvcdnpotok.com/Q_Dmk1FdzBZNjlJO6f4HZQ/2066/1775396979/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Soviet
-https://tv.tvcdnpotok.com/GY_U9yKkaZRPNw82LXmAVA/2071/1775161284/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Comedy
+https://tv.tvcdnpotok.com/EgdiJMa4bQRxDYhvPy9Oyg/2061/1775396980/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Romantic
-https://tv.tvcdnpotok.com/91-L-iQyY0yDp63az2ti1w/2069/1775161285/index.m3u8
+https://tv.tvcdnpotok.com/oYwXFCKCA6Ej-PmygcFCrQ/2069/1775396981/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Rating
+https://tv.tvcdnpotok.com/4qyFpeTKHDH3s8_AFP1qUA/2064/1775396981/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Soviet
+https://tv.tvcdnpotok.com/wHNb0h8aPnKFsEe6bJag9Q/2071/1775396981/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Fresh VHS
-https://tv.tvcdnpotok.com/Jue28NBqyAShJniLXduk8A/2065/1775161285/index.m3u8
+https://tv.tvcdnpotok.com/bLevIL8XS4jTvBqTsDYDug/2065/1775396982/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Fresh Thriller
-https://tv.tvcdnpotok.com/88PVV-TBLhuJUIgeC00kpw/2070/1775161285/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",MM Фантастика
-https://cdntelehub.com/4/livetv.php?key=mm-fantastika.m3u8
+https://tv.tvcdnpotok.com/yBjYXc8Nuuu_ohjEVfEfbg/2070/1775396982/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",MM Скорость
 https://cdntelehub.com/4/livetv.php?key=mm-skorost.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Magic Thriller
-https://cdntelehub.com/3/livetv.php?key=magic-thriller.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",MM Фантастика
+https://cdntelehub.com/4/livetv.php?key=mm-fantastika.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Magic Galaxy
 https://cdntelehub.com/3/livetv.php?key=magic-galaxy.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",YOSSO TV Adrenaline
-https://cdntelehub.com/4/livetv.php?key=ys-adrenaline.m3u8
+#EXTINF:-1 tvg-id="" group-title="telik-live",Magic Thriller
+https://cdntelehub.com/3/livetv.php?key=magic-thriller.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Magic Premiere
 https://cdntelehub.com/3/livetv.php?key=magic-premiere.m3u8
@@ -907,17 +904,17 @@ https://cdntelehub.com/3/livetv.php?key=magic-premiere.m3u8
 #EXTINF:-1 tvg-id="" group-title="telik-live",Magic Horror
 https://cdntelehub.com/3/livetv.php?key=magic-horror.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="telik-live",YOSSO TV Adrenaline
+https://cdntelehub.com/4/livetv.php?key=ys-adrenaline.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="telik-live",KBC-Fantastic
 https://cdntelehub.com/4/livetv.php?key=kbc-fantastic.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="telik-live",Oasis Detective
-https://cdnstreamhub.com/2/livetv.php?key=oasis-detective.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",VeleS Гоблин
-https://tv.tvcdnpotok.com/h7JWt0o8P55ELiJt6hncag/1029/1775161294/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="telik-live",Oasis Action
 https://cdnstreamhub.com/2/livetv.php?key=oasis-action.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",VeleS Гоблин
+https://tv.tvcdnpotok.com/3QmcD6WAQspL5G80SPO6pQ/1029/1775396994/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Oasis Best of Marvel
 https://cdnstreamhub.com/2/livetv.php?key=oasis-marvel.m3u8
@@ -925,32 +922,38 @@ https://cdnstreamhub.com/2/livetv.php?key=oasis-marvel.m3u8
 #EXTINF:-1 tvg-id="" group-title="telik-live",Oasis Horror
 https://cdnstreamhub.com/2/livetv.php?key=oasis-horror.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="telik-live",Oasis Detective
+https://cdnstreamhub.com/2/livetv.php?key=oasis-detective.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="telik-live",Oasis Фантастика
 https://cdnstreamhub.com/2/livetv.php?key=oasis-fantastika.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",VeleS Movie Hits
-https://cdnstreamhub.com/2/livetv.php?key=vs-moviehits.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",VeleS Страшное
-https://cdnstreamhub.com/2/livetv.php?key=vs-strashnoe.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",VeleS Premiere
-https://cdnstreamhub.com/2/livetv.php?key=vs-premiere.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Oasis Comedy
 https://cdnstreamhub.com/2/livetv.php?key=oasis-comedy.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",VeleS Комедия
-https://tv.tvcdnpotok.com/dIootO0sauYFYqwtdDaTRw/1027/1775161295/index.m3u8
+https://tv.tvcdnpotok.com/g05QXS0WZ36lGsnucIckVw/1027/1775396996/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",VeleS Premiere
+https://cdnstreamhub.com/2/livetv.php?key=vs-premiere.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Театр
-https://tv.tvcdnpotok.com/MCR88RGQ81-Dxtq5-5jNaw/521/1775161296/index.m3u8
+https://tv.tvcdnpotok.com/XmJPV1YsVVbwBpj6qQDJHg/521/1775396997/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",VeleS Movie Hits
+https://cdnstreamhub.com/2/livetv.php?key=vs-moviehits.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",VeleS Триллер
+https://cdnstreamhub.com/2/livetv.php?key=vs-triller.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",VeleS Страшное
+https://cdnstreamhub.com/2/livetv.php?key=vs-strashnoe.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",Hollywood HD
-https://tv.tvcdnpotok.com/Q_7T4rj9Cw_qdc1-Pza79w/586/1775161296/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="telik-live",Horror TV
-https://tv.tvcdnpotok.com/Cs54XiZkezLfvDYW53b_qg/251/1775161297/index.m3u8
+https://tv.tvcdnpotok.com/70iXZQK7sGRBc-524mM2Hw/586/1775396999/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="telik-live",КиноСезон
-https://tv.tvcdnpotok.com/_lA2pYF4AgmLegedwMZuPA/250/1775161297/index.m3u8
+https://tv.tvcdnpotok.com/HdNboqnuUFelJmO3XBVnIw/250/1775396999/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="telik-live",Horror TV
+https://tv.tvcdnpotok.com/9wMa_Iziph1tKu6D5mlCQg/251/1775396999/index.m3u8
