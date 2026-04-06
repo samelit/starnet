@@ -1,5 +1,263 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH/epg_noarch.xml.gz"
+#EXTM3U url-tvg=""
 
 #EXTINF:-1 tvg-id="" group-title="Sweet-TV",ТСВ
 http://tsv.md/stream/hls/tsv-online/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",История
+https://tv.tvcdnpotok.com/PI0w8hkuquE-5PfgZpUTOg/212/1775507310/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",ТНТ4
+https://tv.tvcdnpotok.com/2viZXHdaQYNBR2AeWj0e6g/105/1775507310/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Первый канал
+http://5.troya.info:34000/new_stub/subex.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Рен ТВ
+https://tv.tvcdnpotok.com/MUDgYE5bDuv-mwUtdMy8gg/543/1775507310/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Остросюжетное HD
+https://tv.tvcdnpotok.com/D7sEGKRy8D_T0d5ReHu6Cg/578/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Paramount Comedy
+http://11.troya.info:34000/new_stub/subex.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Совершенно секретно
+https://tv.tvcdnpotok.com/7yYdTDpyKWnIgXEgw-gvZQ/546/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Звезда
+https://tv.tvcdnpotok.com/cS1ewJRYy8oNBrti7jzDQA/125/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Россия 1
+https://tv.tvcdnpotok.com/sdDOy-IDY3WVggtjtKdn2Q/544/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Пятый канал
+https://tv.tvcdnpotok.com/x0c-wPZP5fwXMkBHt7MnUw/524/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Домашний
+https://tv.tvcdnpotok.com/1EOlzIj0NvBnv9kHMC7gGQ/561/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Дом Кино
+https://tv.tvcdnpotok.com/uCE8EdbkIq_pJX4tW8fiJQ/186/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Наука 2
+https://tv.tvcdnpotok.com/6Y-DAtvaz8jifoYO5_usAg/115/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Nat Geo Wild
+https://tv.tvcdnpotok.com/Pua8wO3UAvbh3RoEt1hDaA/564/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Русская комедия
+https://tv.tvcdnpotok.com/UdKi-luRUVNfzhw7z0vyGA/510/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",National Geographic
+https://tv.tvcdnpotok.com/ZkSFEqxOw9ZSobTJIGCnug/601/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Galaxy TV
+https://tv.tvcdnpotok.com/L8IXBZ1kloOxe318DnowWA/205/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Мир 24
+https://tv.tvcdnpotok.com/cBZ8HhPjGnSHckdtY05Htw/607/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",ЧЕ ТВ
+https://tv.tvcdnpotok.com/mJZLBhp4bXGGr6pJeqxZQw/526/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Кино ТВ
+https://tv.tvcdnpotok.com/Wc09CN0uLJiTFWp_hGpTxQ/504/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",360 градусов
+https://tv.tvcdnpotok.com/sCoCUF5CldcogJCsCz1kdA/523/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Brazzers TV Europe
+https://tv.tvcdnpotok.com/3ClYCoD1LNqSY2cam9lq7g/46/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Драйв ТВ
+https://tv.tvcdnpotok.com/OuHyJUiV4XVDHjv2KHIuMw/242/1775507311/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Муз ТВ
+https://tv.tvcdnpotok.com/-l8TikSWZmxlmLO8fN6fAg/163/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Dorcel TV
+https://tv.tvcdnpotok.com/HSt_tO9-xOrVFe0lB_JoLw/21/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",RU TV
+https://tv.tvcdnpotok.com/x2Meo6Flv2KGeHqdWHtkXA/596/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Redlight HD
+https://tv.tvcdnpotok.com/u81m-iQhEPSqn9NkvYkIaQ/12/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Россия 24
+https://vgtrksmotrim.cdnvideo.ru/hls/russia24_int/playlist.m3u8?md5=Dy9Zj5TOpKN227pIQZ375Q&e=1775511091
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Hustler HD
+https://tv.tvcdnpotok.com/b1Y6KTHA5hqJpoW0j2pVFQ/10/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Blue Hustler
+https://tv.tvcdnpotok.com/RDluL6qAGVLcGR0DqSd9YQ/19/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",O-la-la
+https://tv.tvcdnpotok.com/nNEAhVPUYsjPo1sQ2NqpAg/17/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Playboy
+https://tv.tvcdnpotok.com/koVE6tGNbIannGTiYNltpg/6/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",FAP TV Anal
+https://tv.tvcdnpotok.com/Irht-IitVexIg4qPaID0kw/35/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Hustler TV
+https://tv.tvcdnpotok.com/RDluL6qAGVLcGR0DqSd9YQ/19/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Barely Legal TV
+https://tv.tvcdnpotok.com/-2I07JvWEo_rmSJCNguo4A/42/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Сила ТВ
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2351
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",FAP TV 4
+https://tv.tvcdnpotok.com/3ASYNBp5adCkstxHnBkK7A/28/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Penthouse Reality
+https://tv.tvcdnpotok.com/-tn2hkXS-zowG0CTFnJAqQ/16/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Babes TV
+https://tv.tvcdnpotok.com/kIK9Je_KFBUoq3frkLN0cQ/14/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",FAP TV 2
+https://tv.tvcdnpotok.com/dRu4ov8zOXsS8K6ZT7QmJw/26/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",FAP TV BBW
+https://tv.tvcdnpotok.com/w7w2RrE6deTnAXkM2D_7tw/38/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Nuart TV
+https://live.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Private TV
+https://tv.tvcdnpotok.com/C9OMGbtq6D1pHrp_keVUuQ/11/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",FAP TV Lesbian
+https://tv.tvcdnpotok.com/AE9JL5S3GZAsBuqWFUKsmg/37/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",FAP TV Teens
+https://tv.tvcdnpotok.com/BBnqSj-43BaBVyab1jjpjQ/36/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",FAP TV Parody
+https://tv.tvcdnpotok.com/m_GAROZyRB3ykl5Mvy_tDQ/32/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",FAP TV 3
+https://tv.tvcdnpotok.com/oeObHJQr3m0Rkha6Q4CZXw/27/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Шалун ТВ
+https://tv.tvcdnpotok.com/fZU1QO30I5DggAhJ262ouA/20/1775507312/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Vivid Red
+https://tv.tvcdnpotok.com/PD66VF6cJVvFLTC1bu2eKA/7/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Erox HD
+https://tv.tvcdnpotok.com/dPt7KR0jkjRGVIXQC6OsNw/47/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",FAP TV Compilation
+https://tv.tvcdnpotok.com/7EsKTay8UIuB1q6RHUxfNA/34/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",ОХ-АХ HD
+https://tv.tvcdnpotok.com/_ySMrGrnX0NELu1Ss3iiLw/1/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Extasy HD
+https://tv.tvcdnpotok.com/LcB4phmoyQOLXWFqXKjdYA/29/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Brazzers
+https://tv.tvcdnpotok.com/yCLr5c03Gicheh2nwVn0XQ/46/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Мир сериала
+https://tv.tvcdnpotok.com/8yyQzrmCdxMFs_8WjVffEQ/589/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Penthouse Gold
+https://tv.tvcdnpotok.com/vccASu4V4pEXJhH-7QNJ5A/39/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",ТВ Центр
+https://tv.tvcdnpotok.com/5BDwT1p-4QiAmP886lH5xw/548/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Красная линия
+https://tv.tvcdnpotok.com/ouxXfoXUyqyawAWO1F9njA/239/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Red Lips
+https://tv.tvcdnpotok.com/WGb4AxUeySlNOUhpYCbhuQ/3/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",French Lover
+https://tv.tvcdnpotok.com/gNDMwr1L6OfEgY08l3UK1w/48/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",KinoXXX
+https://tv.tvcdnpotok.com/DUhmaxMqPUVgeuV_e0Xx_g/49/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",XY Max
+https://tv.tvcdnpotok.com/ubnlhuOLe5W55dMA8xXqmQ/43/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",BackusTV Original
+http://11.troya.info:34000/new_stub/subex.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Дом кино Премиум
+https://tv.tvcdnpotok.com/NQ4RkJYQDn_fTCzjgOUJqQ/187/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",XY Mix
+https://tv.tvcdnpotok.com/oPW79JxnGKhD-JLGrNyN9g/55/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Иллюзион+
+https://tv.tvcdnpotok.com/LwrVRblEnk88aM8aZ3YTkg/130/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",EXXXotica
+https://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Еврокино
+https://tv.tvcdnpotok.com/lYKEe2kgC07WHyZhQklUdw/126/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Русский иллюзион
+https://tv.tvcdnpotok.com/ClxP6FgWPTOJGIyaOb9VzA/131/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Black
+https://tv.tvcdnpotok.com/mnC4qFYc6rKPodTF9xqT3A/577/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Sci-Fi
+https://tv.tvcdnpotok.com/iTjHZsxKnMPvlqIoyjGpgw/145/1775507313/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",BackusTV Dark
+http://11.troya.info:34000/new_stub/subex.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Hollywood
+https://tv.tvcdnpotok.com/fi0V-8iZpe1lGt3eJRIOXg/507/1775507314/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",History
+https://tv.tvcdnpotok.com/qYtW9mkCAeitGrOu7pn85w/114/1775507314/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",ТНТ-Music
+https://tv.tvcdnpotok.com/Czh26nvCbsC6bCXBVSOt8w/159/1775507314/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Discovery
+https://tv.tvcdnpotok.com/cjobxpGEcyQDL_z06LYVrw/520/1775507314/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Bridge TV
+https://tv.tvcdnpotok.com/Sg9RxfI9CwFU9vU5kO81oA/160/1775507314/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Music Box Russia
+https://tv.tvcdnpotok.com/6x83u30vanpTMYmaMOMqyA/168/1775507314/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",СТС Love
+http://11.troya.info:34000/new_stub/subex.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Нано ТВ
+https://s1.tv-nano.com/Nano_rec/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",XY Plus
+https://tv.tvcdnpotok.com/My0cA6QUTMiWlJeFCaWFOw/50/1775507314/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",AdultTV Hardcore
+https://live.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sweet-TV",Первый Крымский
+https://cdn.1tvcrimea.ru/1tvcrimea.m3u8?hls_ctx=gv5u06iv
 
