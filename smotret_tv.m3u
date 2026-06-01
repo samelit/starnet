@@ -1,2 +1,269 @@
-#EXTM3U
-####PLAYLISTNAME: Smotret-TV Free IPTV 2026-06-01
+#EXTM3U url-tvg=""
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",ТСВ
+http://tsv.md/stream/hls/tsv-online/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",РЕН ТВ
+https://tv.tvcdnpotok.com/3ToYWwcIbP1xT08jDyuYeA/543/1780315191/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",НТВ
+https://tv.tvcdnpotok.com/s2oOY4U53ZUFdqIhJsy13Q/537/1780315191/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Дом кино
+https://tv.tvcdnpotok.com/VTl8Z_AQcHw11qSmthifog/186/1780315191/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Россия 1
+https://tv.tvcdnpotok.com/0oLIf2_RtirBvw5p9EXNZg/544/1780315191/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Русский роман
+https://tv.tvcdnpotok.com/nLW-CgI1yYZqtd2G-r2I2g/556/1780315191/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Кино ТВ
+https://tv.tvcdnpotok.com/WIlSbdYjhWKCcfIw0fb9Og/504/1780315191/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Discovery Channel
+https://tv.tvcdnpotok.com/dFNEjcdacdXK9fLbWu1CWw/520/1780315191/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Домашний
+https://tv.tvcdnpotok.com/0n-fqE_OmmCxzls8QJcBlg/561/1780315191/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",НСТ
+https://tv.tvcdnpotok.com/pY3rpqgcYbldo9XWWVgMoA/127/1780315191/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",СТС
+https://tv.tvcdnpotok.com/z1M-6S3RF5yYEZAzQiV0hg/591/1780315192/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",360 градусов
+https://tv.tvcdnpotok.com/DiSRHXAT9PitBD4iI3iGeA/523/1780315192/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Bridge TV Hits
+https://tv.tvcdnpotok.com/7uT9EqMrY-i4Wys4YBr6ew/217/1780315192/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Россия-Культура
+https://tv.tvcdnpotok.com/I263oLiyCUz5ABnnuL8bpA/579/1780315192/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",1HD
+https://tv.tvcdnpotok.com/4tPAEUg7Nx_mKB0bJa4CSw/2091/1780315193/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Galaxy TV
+https://tv.tvcdnpotok.com/HbERGkKaraso_53QUNKdAg/205/1780315193/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Карусель
+https://tv.tvcdnpotok.com/3i8PlZTVr2Hpzuh0fGK7PA/157/1780315193/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",В мире животных
+https://tv.tvcdnpotok.com/SVWBxHitXwqA97NKkvMoBA/221/1780315193/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Комедийное
+https://tv.tvcdnpotok.com/WpP-cj-IG47mHvQWUkDvyw/170/1780315193/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Бобер
+https://tv.tvcdnpotok.com/VijXh-asy3ZXljzd8X-JTw/189/1780315194/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Ani
+https://tv.tvcdnpotok.com/o09yPpM1ovNFoTncvCCNww/190/1780315194/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Hollywood
+https://tv.tvcdnpotok.com/KdWs8iMNY__VHnP0b6Kmhw/507/1780315194/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Зоо ТВ
+http://185.78.112.47:8077/zoo_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Иллюзион+
+https://tv.tvcdnpotok.com/0t1Wqp7b7-RgYID2SNtIUg/130/1780315194/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Cinema
+https://tv.tvcdnpotok.com/XO13A4-IhTXU2oWAWcB0EQ/104/1780315194/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Живая планета
+https://tv.tvcdnpotok.com/pWdy3uxq3b_B7zy_x0cHCw/555/1780315195/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Мама
+https://tv.tvcdnpotok.com/JJut9XWlQGzyMq6rmf8O7w/194/1780315195/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Киноман
+https://tv.tvcdnpotok.com/bpKRJfLeYCVnokcz7bySHw/124/1780315195/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Драйв ТВ
+https://tv.tvcdnpotok.com/o1n5yVFKZ86yTuSBNgArMQ/242/1780315195/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Капитан Фантастика
+https://tv.tvcdnpotok.com/y0OaZVPdKMSk8f_bf-GqyA/2044/1780315195/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Кинопоказ
+https://tv.tvcdnpotok.com/5Jlrzhtwd3WHD_7KEi-6Wg/161/1780315196/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",RTG
+https://tv.tvcdnpotok.com/kB16ZDsv2-trX35xITadRA/545/1780315196/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Наука 2.0
+https://tv.tvcdnpotok.com/gUf4Z2n7vQjOHz7HuTRbSw/115/1780315196/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Music Box Russia
+https://tv.tvcdnpotok.com/vz_YTHmJrfK4Ss8ITjDHdQ/168/1780315196/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Дом кино Премиум
+https://tv.tvcdnpotok.com/8vsecFqhbq6RD8fBbJgssw/187/1780315196/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Остросюжетное HD
+https://tv.tvcdnpotok.com/tD4-EwouBt-clnhVsYIdGg/578/1780315196/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",История
+https://tv.tvcdnpotok.com/ovFz8AiHDHqBtrEcFLHCVg/212/1780315196/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Travel+Adventure
+https://tv.tvcdnpotok.com/qqWZfIldJ494EP1VsW2tRQ/112/1780315196/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",НТВ-Хит
+https://tv.tvcdnpotok.com/TMwam7JLlt_ivNfZm-Jz1g/508/1780315197/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",НТВ Сериал
+https://tv.tvcdnpotok.com/_um5vBzC7fOFFzlDYMy3Yw/509/1780315197/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Русский бестселлер
+https://tv.tvcdnpotok.com/VerRQZ-t9V5doeLD1fuFpg/135/1780315197/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Душевное
+https://tv.tvcdnpotok.com/Kg_91ycMn_tKYUlrlJHC8Q/172/1780315197/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Наше крутое
+https://tv.tvcdnpotok.com/BmoNsuklm-FJ-Dyn3Xeb2A/171/1780315197/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Bridge TV
+https://tv.tvcdnpotok.com/rHfOIiQb3oGqkRGSH_JYgA/160/1780315198/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Сарафан
+https://tv.tvcdnpotok.com/kQAyYBLpNXUj-K2ulxFaxQ/209/1780315198/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Еврокино
+https://tv.tvcdnpotok.com/z2dFgxT8nXdwiTY_7gFz1A/126/1780315198/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Дорама
+https://tv.tvcdnpotok.com/4sWGs2hRmn8i1EWQuWD2pw/562/1780315199/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Радость моя
+https://tv.tvcdnpotok.com/eFhEhVl0Ydb_Lqfdb_Yzjg/158/1780315200/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Мультимузыка
+https://tv.tvcdnpotok.com/AMyzaGPxvNZdR4eh29KaSQ/513/1780315200/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Gulli Girl
+https://tv.tvcdnpotok.com/zDDeS6qOgaELSpcNRfAEGg/180/1780315200/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Моя планета
+https://tv.tvcdnpotok.com/WX3C1L3jZ1hlE-fP6QBL8w/118/1780315201/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Мульт
+https://tv.tvcdnpotok.com/DFnLNdCBD5RO9c8rheavwQ/206/1780315201/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",О!
+https://tv.tvcdnpotok.com/lSpLjREe-DyzaZqHlPmOaw/2047/1780315201/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Страшное HD
+https://tv.tvcdnpotok.com/mUxA5BccenQi2whbvnuIzg/216/1780315201/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Авто24
+https://tv.tvcdnpotok.com/3Joko0ZfhpB3Dgvcs-hxzg/146/1780315202/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Еда Премиум
+https://tv.tvcdnpotok.com/d8AHHKr5rZmeEZWM2Ta3vw/2027/1780315202/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Nat Geo Wild
+https://tv.tvcdnpotok.com/dfujArs1DfjSJxpAmVe0_A/564/1780315202/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Красная линия
+https://tv.tvcdnpotok.com/94oktRp8Lunb9vRScDP-Hw/239/1780315202/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Доктор
+https://tv.tvcdnpotok.com/p9MTbPwXfhgvl6YNzLTtqA/120/1780315203/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",FOX
+https://tv.tvcdnpotok.com/Q1Zd7KiYf540C-CZ04R9BQ/569/1780315203/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Загородная жизнь
+https://tv.tvcdnpotok.com/mY-kvV-SuK6sZvQBJKYprA/195/1780315203/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Техно 24
+https://tv.tvcdnpotok.com/r-ESIPH6u-gVelYmuUpLrg/116/1780315204/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",TV 21
+https://tv.tvcdnpotok.com/c0IfkkA-v2nMYeczzJtydA/133/1780315204/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Travel Channel
+https://tv.tvcdnpotok.com/xKEmsy4urY1qv8v4HEzxdg/113/1780315204/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Совершенно секретно
+https://tv.tvcdnpotok.com/ROwIi6JplBI2tVeXD1-qcw/546/1780315205/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Mezzo Live HD
+https://tv.tvcdnpotok.com/KXTOY2CYcUB7eX-2JBclzg/2092/1780315205/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Охота и рыбалка
+https://tv.tvcdnpotok.com/61YG7ChWh1U75epJmld1vA/538/1780315206/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Детский мир
+https://tv.tvcdnpotok.com/W9oIl00--MoPK__jd6XlQw/241/1780315207/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Nick Jr
+https://tv.tvcdnpotok.com/qxYuaePFDg53vNMYOxL_eg/210/1780315207/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Уникум
+https://tv.tvcdnpotok.com/rEcnKgQNjDmLjfVYORNFlw/102/1780315207/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",9 TV (Израиль)
+https://tv.tvcdnpotok.com/GCNwAtnoB2FWFXYAdXZ8IA/185/1780315208/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",ZooПарк
+https://tv.tvcdnpotok.com/rtW7ivL7_XXZPfpTK71AVA/2022/1780315208/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Sci-Fi
+https://tv.tvcdnpotok.com/GuOtw0W5j2VIjiLZHc2-Jw/145/1780315209/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",History 2
+https://tv.tvcdnpotok.com/zPsqaG4AlR0_Pm59Is6lKQ/224/1780315210/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Первый Крымский
+https://tv.tvcdnpotok.com/AoJErzajJAMB8ExU7TjKiw/533/1780315210/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Mezzo
+https://tv.tvcdnpotok.com/qNW9P4PrhMtOMY1gCyveRA/553/1780315211/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Terra
+https://tv.tvcdnpotok.com/PY_WkgqYbs9VsS0gVrXBgA/2009/1780315213/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Первый Космический
+https://tv.tvcdnpotok.com/yoOmLkZtF5sIVBztuwjRRA/2006/1780315213/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Viasat History
+https://tv.tvcdnpotok.com/FzBrK-KIWxioIyFhxQs02w/111/1780315214/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Вопросы и ответы
+https://tv.tvcdnpotok.com/471Ux0SGm98yo13ltVzM5w/2017/1780315214/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",BackusTV Music
+https://live20.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Big Planet
+https://tv.tvcdnpotok.com/eu6dXmFTkm1OTO4qniphcw/2010/1780315215/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Viasat Nature
+https://tv.tvcdnpotok.com/SR5J4G3rhgNN03it-51xuQ/110/1780315215/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Старт ТВ
+https://tv.tvcdnpotok.com/746r8sWc2csSkRcRymUguA/2031/1780315218/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Москва Доверие
+https://tv.tvcdnpotok.com/VXN4pGWa_MOpamSvk0UZBg/2004/1780315223/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",English Club TV
+https://tv.tvcdnpotok.com/UksMHI83J3O1k8DWqhMdHw/2021/1780315224/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Наша Тема
+https://tv.tvcdnpotok.com/GKeU97y-Kv3PIE9gzldgRw/2030/1780315224/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",Советские мультфильмы
+https://tv.tvcdnpotok.com/9UKWiLWceQCSeOVok0ObUQ/244/1780315227/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Smotret-TV",MCM Top
+https://tv.tvcdnpotok.com/bG2Nh3y1ctiX129YLnoEEw/535/1780315229/index.m3u8
+
