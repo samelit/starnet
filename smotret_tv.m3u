@@ -1,5 +1,17 @@
-#EXTM3U url-tvg=""
+#EXTM3U
+####PLAYLISTNAME: Televizo Free IPTV
 
-#EXTINF:-1 tvg-id="" group-title="Smotret-TV",ТСВ
-http://tsv.md/stream/hls/tsv-online/0_1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",Телепутешествия
+https://cdntelehub.com/3/livetv.php?key=teleputeshestviya.m3u8&amp;skin=1
 
+#EXTINF:-1 tvg-id="" group-title="Televizo",MM Скорость
+https://cdntelehub.com/4/livetv.php?key=mm-skorost.m3u8&amp;skin=1
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",MM Фантастика
+https://cdntelehub.com/4/livetv.php?key=mm-fantastika.m3u8&amp;skin=1
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",KBC-Fantastic
+https://cdntelehub.com/4/livetv.php?key=kbc-fantastic.m3u8&amp;skin=1
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",YOSSO Adrenaline
+https://cdntelehub.com/4/livetv.php?key=ys-adrenaline.m3u8&amp;skin=1
