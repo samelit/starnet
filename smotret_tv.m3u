@@ -1,2 +1,350 @@
 #EXTM3U
 ####PLAYLISTNAME: Televizo Free IPTV
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Восьмой
+https://v4.proofix.ru/8tv-russia/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Нано ТВ
+https://s1.tv-nano.com/Nano_rec/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",RTG
+https://s70378.cdn.ngenix.net/rtg_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Доктор
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Драйв ТВ
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Мир
+https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Музыка Первого
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Моя планета
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",НТВ Мир
+https://streaming.thestream.cyou/live/213.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Охотник и рыболов
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Россия 24
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",РБК
+https://online-video.rbc.ru/online/rbctvhd.m3u8?e=e6&t=EiKMvg
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Спас
+https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Setanta Sports 2
+https://cache1.cinerama.uz/blocked/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Setanta Sports 1
+https://cache1.cinerama.uz/blocked/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Детский мир
+https://s70378.cdn.ngenix.net/detskij_mir/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",РТР-Планета
+https://streaming.thestream.cyou/live/211.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Соловьев Live
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Турецкие сериалы
+https://tv.cdntvtech.com/3/livetv.php?key=dizi.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Твоё ТВ Юмор
+https://tvoetv.space/tvoetv_humor/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",BackusTV Music
+https://lbgo.bozztv.com/07/ushba-t2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Звезда Плюс
+https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",ОСН
+https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Крым 24
+https://streaming.televizor-24-tochka.ru/live/28.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",360 Новости
+https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Радио Спутник
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Univer TV
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Телепутешествия
+https://cdntelehub.com/3/livetv.php?key=teleputeshestviya.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Trace Sport Stars
+https://stream8.cinerama.uz/1274/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Boxing TV
+https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Motor Racing
+https://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",XFC TV Fightworld
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2351
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Tennis Channel
+https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",KroneHit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",MuzzOne
+https://lbgo.bozztv.com/07/ushba-t3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Retro Music TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",World Poker Tour
+https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",QazSport
+https://block.qazcdn.com/block/geoblock.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",SONGTV Россия
+https://songtv.hls.iptvdc.com/web-russia/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",V2Beat
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Магнат ТВ
+https://s1.tv-nano.com/Magnat/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Trace Urban
+https://channels.trace.plus/Traceprod/URBAN_FR/.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Luxury
+https://s1.tv-nano.com/Luxury_rec/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",FreshTV
+https://fl1003.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Ювелирочка
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",7tv
+https://v4.proofix.ru/7tv-live/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Shopping Live
+https://shoppinglive.mediacdn.ru/cdn/shopping/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Витрина ТВ
+https://v4.proofix.ru/vitrina-live/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Trash TV
+https://cdntelestream.com/3/livetv.php?key=trash.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",3FILMAX Мелодрама
+https://tvs.cdntvtech.com/3/livetv.php?key=ys-melodrama.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Е ТВ
+https://live20.bozztv.com/giatvplayout7/ushba44/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",2FILMAX Комедия
+https://tvs.cdntvtech.com/3/livetv.php?key=c-comedy.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",1FILMAX Фантастика
+https://tvs.cdntvtech.com/3/livetv.php?key=next-epic.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Мульт БУМ!
+https://tvs.cdntvtech.com/3/livetv.php?key=next-joy.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Рыжий
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",MM 007
+https://cdntelestream.com/3/livetv.php?key=mm-007.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",MM Приключения
+https://cdntelestream.com/3/livetv.php?key=mm-priklyucheniya.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",MM Скорость
+https://tvs.cdntvtech.com/4/livetv.php?key=mm-skorost.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",MM Боевик
+https://cdntelestream.com/3/livetv.php?key=mm-boevik.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",MM Фантастика
+https://tvs.cdntvtech.com/4/livetv.php?key=mm-fantastika.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",MM Ужастик
+https://cdntelestream.com/3/livetv.php?key=mm-uzhastik.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",KBC-Elite Comedys
+https://cdntelestream.com/3/livetv.php?key=kbc-elite-comedys.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",KBC-Goblin
+https://cdntelestream.com/3/livetv.php?key=kbc-goblin.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",KBC-Fantastic
+https://tvs.cdntvtech.com/4/livetv.php?key=kbc-fantastic.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_1
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_2
+https://vz-995722ed-c12.b-cdn.net/1e9ce351-efeb-4d8b-a7ee-fb39ce0887b4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_3
+https://vz-995722ed-c12.b-cdn.net/d36a3e26-d201-4ec8-bd72-49342a41a809/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_4
+https://vz-995722ed-c12.b-cdn.net/882d30d4-6414-4f5e-930e-645628f6933f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_5
+https://vz-995722ed-c12.b-cdn.net/5713d31b-8243-42c7-baf7-afc09f487b1f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_6
+https://vz-995722ed-c12.b-cdn.net/148c06db-4e1c-4dd7-b442-0ec8ad0d84ae/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_7
+https://vz-995722ed-c12.b-cdn.net/e3272d5e-fcca-4ab2-8a8f-731ca08df3e8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_8
+https://vz-995722ed-c12.b-cdn.net/7c4dfe79-ed02-4d71-b494-f6f23312f6ee/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_9
+https://vz-995722ed-c12.b-cdn.net/1f6f0083-c84a-4c3d-809d-fe6df3f3218b/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_10
+https://vz-995722ed-c12.b-cdn.net/143facc2-f24d-487a-aff7-fd7d2d460cbe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_11
+https://vz-995722ed-c12.b-cdn.net/d8206145-bd9e-40ef-b311-bfe2659550a9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_12
+https://vz-995722ed-c12.b-cdn.net/6af3d304-2c36-4040-a1db-193e98043ab2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_13
+https://vz-995722ed-c12.b-cdn.net/ac50bac7-5d97-442f-abd0-f53d3a7db54d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_14
+https://vz-995722ed-c12.b-cdn.net/e726f3cd-60f2-48a2-a09c-52abafae831b/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_15
+https://vz-995722ed-c12.b-cdn.net/212482d6-15df-44ed-817f-933a6a11f91a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_16
+https://vz-995722ed-c12.b-cdn.net/e075070e-6941-47b2-946a-f472e96b04e4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_17
+https://vz-995722ed-c12.b-cdn.net/d62d2b4b-d39e-4745-9c0e-25aebcf5887f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_18
+https://vz-995722ed-c12.b-cdn.net/e997b410-e622-4f5b-b6ea-1d48db0256a9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_19
+https://vz-995722ed-c12.b-cdn.net/9a59739c-01bf-4975-b844-f8b9e74b2985/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_20
+https://vz-995722ed-c12.b-cdn.net/cc43ac5c-e670-4e56-9496-1f06d435c7ca/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_21
+https://vz-995722ed-c12.b-cdn.net/497f21f9-55a9-4421-8c8f-38bedda5631c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_22
+https://vz-995722ed-c12.b-cdn.net/b5addd3f-b3c3-483d-b23e-6ca997634c54/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_23
+https://vz-995722ed-c12.b-cdn.net/50ae67f3-ca15-47aa-bc59-22b978bbfb25/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_24
+https://vz-995722ed-c12.b-cdn.net/e77d80a1-83a4-4643-9299-7b37d276257c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_25
+https://vz-995722ed-c12.b-cdn.net/ddee0fcc-3004-4ab2-a5fa-52b228e096b9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_26
+https://vz-995722ed-c12.b-cdn.net/d6a5d9d5-f0f3-499e-a2fc-8a1745f2e4b3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_27
+https://vz-995722ed-c12.b-cdn.net/141cde91-7da0-4e23-92f7-17387868d4cb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_28
+https://vz-995722ed-c12.b-cdn.net/c9ed6d6f-b03f-4d15-ba80-f711182dd00f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_29
+https://vz-995722ed-c12.b-cdn.net/3ff2aec6-9e1c-404d-a995-30a2736372a4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_30
+https://vz-995722ed-c12.b-cdn.net/b26aa665-b803-48cc-9978-7838be73084c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",YOSSO Adrenaline
+https://tvs.cdntvtech.com/4/livetv.php?key=ys-adrenaline.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",KBC-Newfilm
+https://cdntelestream.com/3/livetv.php?key=kbc-newfilm.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Гоблин
+https://cdntelehub.com/3/livetv.php?key=vs-goblin.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Комедия
+https://cdntelehub.com/3/livetv.php?key=vs-komediya.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Триллер
+https://cdntelehub.com/3/livetv.php?key=vs-triller.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Premiere
+https://cdntelehub.com/3/livetv.php?key=vs-premiere.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Movie Hits
+https://cdntelehub.com/3/livetv.php?key=vs-moviehits.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",YOSSO Adventure
+https://cdntelehub.com/3/livetv.php?key=ys-adventure.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Страшное
+https://cdntelehub.com/3/livetv.php?key=vs-strashnoe.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",YOSSO Grand
+https://cdntelehub.com/3/livetv.php?key=ys-grand.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",YOSSO Thriller
+https://cdntelehub.com/3/livetv.php?key=ys-thriller.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",YOSSO New Кино
+https://cdntelehub.com/3/livetv.php?key=ys-newkino.m3u8
