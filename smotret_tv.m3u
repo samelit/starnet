@@ -1,314 +1,344 @@
 #EXTM3U
 ####PLAYLISTNAME: Televizo Free IPTV
 
+#EXTINF:-1 tvg-id="" group-title="Televizo",Bridge TV Hits
+https://tvcdnpotok.com/MT2V-jLnv4EWChAeUip-nA/217/1783541105/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Первый
+https://tvcdnpotok.com/540/index.m3u8?wmsAuthSign=c10a27a5729f79426623bb3063d8e472-1783526645-39i91i13i13
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",РЕН ТВ
+https://tvcdnpotok.com/GXhZBK3hZeJzlDYjaHc4-Q/543/1783541106/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Россия 1
+https://tvcdnpotok.com/S10GFDnfQhPZWeMFm5MyXQ/544/1783541106/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Русский роман
+https://tvcdnpotok.com/OYWmGQDdi5KjGlHAF_4rXw/556/1783541106/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Кино ТВ
+https://tvcdnpotok.com/_4Ijt3C7fw10OVewVVs_yQ/504/1783541106/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Discovery Channel
+https://tvcdnpotok.com/72BPKYui8KZjvO3tevIvHQ/520/1783541106/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Домашний
+https://tvcdnpotok.com/YX2BFNvLrTr46w8BbkiLpQ/561/1783541107/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",СТС
+https://tvcdnpotok.com/jlzFs9vL3AFj6P5cS_sBww/591/1783541107/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",НТВ
+https://tvcdnpotok.com/XkqFnWrKy4oPw7P3zXSfQw/537/1783541107/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",1HD
+https://tvcdnpotok.com/qQQDJhI_jGTrm5mZqxgtZQ/122/1783541108/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",НСТ
+https://tvcdnpotok.com/nRgE8BL3N65WN2Ao-Tp3ow/127/1783541108/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",360 градусов
+https://tvcdnpotok.com/OmpvrwJKUpgNUMtGdiK0Mw/523/1783541109/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Televizo",Восьмой
 https://v4.proofix.ru/8tv-russia/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Первый
-https://tvcdnpotok.com/540/index.m3u8?wmsAuthSign=723ca040128ea1b4d8bacb3d7c24a5ba-1783518596-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Bridge TV
+https://tvcdnpotok.com/OP0UXJSSQpsEP4fgINupGw/160/1783541109/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",РЕН ТВ
-https://tvcdnpotok.com/543/index.m3u8?wmsAuthSign=dfdb8c743c96904d364573bcc38c6ac3-1783518596-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Ani
+https://tvcdnpotok.com/9a2WjTPqKXYLSNTOHzMp3g/190/1783541109/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Русский роман
-https://tvcdnpotok.com/556/index.m3u8?wmsAuthSign=51ef112e25465c2a599bab9dc28a87db-1783518597-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Galaxy TV
+https://tvcdnpotok.com/uZx-C9Nc16DkeYjQwUQD4A/205/1783541110/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Россия 1
-https://tvcdnpotok.com/544/index.m3u8?wmsAuthSign=829a3ab4e6fcbf765e334a480bea588d-1783518597-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Cinema
+https://tvcdnpotok.com/2LaINZKOsABEqYkFVgBq9g/104/1783541110/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Домашний
-https://tvcdnpotok.com/561/index.m3u8?wmsAuthSign=4c677597fc9306a4176dc8ff004c07c5-1783518597-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Music Box Russia
+https://tvcdnpotok.com/DknQJ-3PzDz8sbUP0OIJuA/168/1783541110/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",НТВ
-https://tvcdnpotok.com/537/index.m3u8?wmsAuthSign=24792abec4730ff0c1babfd3f2926ca2-1783518597-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Hollywood
+https://tvcdnpotok.com/HGU7_6UxxTakRF4BuynJMg/507/1783541111/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",СТС
-https://tvcdnpotok.com/591/index.m3u8?wmsAuthSign=4395855fd8143afb13e1f26ed5875167-1783518597-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Travel+Adventure
+https://tvcdnpotok.com/nEYuAyADOC7JOeBUbgNGeQ/112/1783541111/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Bridge TV Hits
-https://tvcdnpotok.com/217/index.m3u8?wmsAuthSign=2df8d3840c23d83d2f2a3dc85e3087ed-1783518597-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Discovery Channel
-https://tvcdnpotok.com/520/index.m3u8?wmsAuthSign=ba055a96f148becb5ac802969e643c40-1783518597-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",НСТ
-https://tvcdnpotok.com/127/index.m3u8?wmsAuthSign=742b2494f87912b087b849ca64089e9b-1783518597-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Кино ТВ
-https://tvcdnpotok.com/504/index.m3u8?wmsAuthSign=53688e3b021ef1d4e53636a01f5d0391-1783518597-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",1HD
-https://tvcdnpotok.com/122/index.m3u8?wmsAuthSign=10e5b56b0c01d453e04b5332660e8ca7-1783518598-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",360 градусов
-https://tvcdnpotok.com/523/index.m3u8?wmsAuthSign=796a33cea35e608d529f3b34fceacf4a-1783518598-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Нано ТВ
-https://s1.tv-nano.com/Nano_rec/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",Авто24
+https://tvcdnpotok.com/Gli6tssAKJV72ro8vsdgAQ/146/1783541111/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",RTG
 https://s70378.cdn.ngenix.net/rtg_hd/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Ani
-https://tvcdnpotok.com/190/index.m3u8?wmsAuthSign=cdef5ec8a76bdfe62f2bb4b73c0bb870-1783518600-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Нано ТВ
+https://s1.tv-nano.com/Nano_rec/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Бобер
+https://tvcdnpotok.com/VlcWeuaM00jpOu2aeyrY5w/189/1783541111/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",В мире животных
+https://tvcdnpotok.com/XRA0TW6x6ffyT4Ql_cshDA/221/1783541112/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Дом кино Премиум
+https://tvcdnpotok.com/28Y4hoMudHDvwUBLIcGHFA/187/1783541112/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Доктор
-https://cache1.cinerama.uz/blocked/index.m3u8
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Драйв ТВ
-https://cache1.cinerama.uz/blocked/index.m3u8
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Bridge TV
-https://tvcdnpotok.com/160/index.m3u8?wmsAuthSign=9b3a862a22fb83fd1e60bb4d5e3e224f-1783518601-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Еда Премиум
+https://tvcdnpotok.com/EnbdUKhnlCnepqyR9i9jwA/2027/1783541113/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Загородная жизнь
+https://tvcdnpotok.com/cM9hGIVJI7DXXN1aLQP-3A/195/1783541113/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Иллюзион+
+https://tvcdnpotok.com/MSkvI_mU3TB2O97dAioEmw/130/1783541113/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Живая планета
+https://tvcdnpotok.com/09PF1KWMSH0Prg_q2vHeDA/555/1783541113/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Еврокино
+https://tvcdnpotok.com/jU-Bn8rOQ-v3cuAGn1NOCg/126/1783541113/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Дорама
+https://tvcdnpotok.com/UcbLQv0eA9YTuwGNrg0qCg/562/1783541113/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Карусель
+https://tvcdnpotok.com/_QkNjEO1TSVgqXMZESl6Bg/157/1783541113/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Кинопоказ
+https://tvcdnpotok.com/Mrlf5o98edVKx8d2PT5AGg/161/1783541113/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Капитан Фантастика
+https://tvcdnpotok.com/6N11YG6gx5JGMU6gcXTZVg/2044/1783541113/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Galaxy TV
-https://tvcdnpotok.com/205/index.m3u8?wmsAuthSign=12ac3f1afc395ab461c47fc31750d010-1783518607-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Cinema
-https://tvcdnpotok.com/104/index.m3u8?wmsAuthSign=c69a04485967c57544bbb81f65d6f83a-1783518608-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Music Box Russia
-https://tvcdnpotok.com/168/index.m3u8?wmsAuthSign=0b634ccc6efd7a3e4bdaa9f0af6425d8-1783518608-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Hollywood
-https://tvcdnpotok.com/507/index.m3u8?wmsAuthSign=54fe369775d03e74117f535754e5b677-1783518608-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Авто24
-https://tvcdnpotok.com/146/index.m3u8?wmsAuthSign=dc8bbbf0479ab452023141a020a0f24a-1783518608-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Бобер
-https://tvcdnpotok.com/189/index.m3u8?wmsAuthSign=fa33c1a16ed616f0821e25540e2603de-1783518608-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Travel+Adventure
-https://tvcdnpotok.com/112/index.m3u8?wmsAuthSign=2aabda815b369c0204562b9e1a3e25a7-1783518609-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",В мире животных
-https://tvcdnpotok.com/221/index.m3u8?wmsAuthSign=67216d13d31aeab7e7399f9b3f585ed2-1783518609-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Дом кино Премиум
-https://tvcdnpotok.com/187/index.m3u8?wmsAuthSign=8d7ecbffe677ece1e3fc60e549743408-1783518609-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Дорама
-https://tvcdnpotok.com/562/index.m3u8?wmsAuthSign=d1a5d93ab93481ad832831be427c4051-1783518610-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Еврокино
-https://tvcdnpotok.com/126/index.m3u8?wmsAuthSign=7655d3d8b7c305bdc66a219ea9a7de54-1783518610-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Еда Премиум
-https://tvcdnpotok.com/2027/index.m3u8?wmsAuthSign=72d2a17eedfa0c3b7a06170941b8f815-1783518611-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Живая планета
-https://tvcdnpotok.com/555/index.m3u8?wmsAuthSign=5a01112dca20dc5db693ec0d048230e1-1783518612-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Загородная жизнь
-https://tvcdnpotok.com/195/index.m3u8?wmsAuthSign=08a9fd0e8ad71b1e99df662f484752b2-1783518612-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Мир
-https://cache1.cinerama.uz/blocked/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Моя планета
-https://cache1.cinerama.uz/blocked/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Музыка Первого
-https://cache1.cinerama.uz/blocked/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Иллюзион+
-https://tvcdnpotok.com/130/index.m3u8?wmsAuthSign=33f638e0a676899fa41ab35d92eb8924-1783518618-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Карусель
-https://tvcdnpotok.com/157/index.m3u8?wmsAuthSign=0c2f5cf34e80d657976daa6d1f6c9479-1783518618-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Кинопоказ
-https://tvcdnpotok.com/161/index.m3u8?wmsAuthSign=2adbb308e274665f9f7fc089f2f43c72-1783518619-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Капитан Фантастика
-https://tvcdnpotok.com/2044/index.m3u8?wmsAuthSign=cdeb44c6ff377c9e27cb2f5fd62c1a3b-1783518619-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Киноман
-https://tvcdnpotok.com/124/index.m3u8?wmsAuthSign=e502dedbb792934cbc886088e2840ab6-1783518619-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Комедийное
+https://tvcdnpotok.com/3mtwoYyfhOmnA_zNh5vdOg/170/1783541113/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",История
-https://tvcdnpotok.com/212/index.m3u8?wmsAuthSign=d2de4d896e8161d46389b72c85461487-1783518619-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Комедийное
-https://tvcdnpotok.com/170/index.m3u8?wmsAuthSign=8ae7e5d228978c1869922a09438f2a63-1783518619-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Комедия
-https://tvcdnpotok.com/510/index.m3u8?wmsAuthSign=5d35dc0aa24f866ce20dd0dce097734f-1783518619-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Россия-Культура
-https://tvcdnpotok.com/579/index.m3u8?wmsAuthSign=240b344778d201213ffba4a657fde1cd-1783518620-271i902i91i712
+https://tvcdnpotok.com/wrh6USoBSaROok8WTefxQg/212/1783541113/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Красная линия
-https://tvcdnpotok.com/239/index.m3u8?wmsAuthSign=0e098c954c40c733073752be96930596-1783518620-271i902i91i712
+https://tvcdnpotok.com/swWYxPUOoX6olrGdtXD3rQ/239/1783541113/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Комедия
+https://tvcdnpotok.com/XKD9OQoHME8HbG1atA8MqQ/510/1783541113/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Киноман
+https://tvcdnpotok.com/QdifoCHRoAyirPBHiB_LXw/124/1783541114/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Моя стихия
+https://tvcdnpotok.com/ed0FAJLtpNud5lqEGmKs7w/592/1783541115/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Муз-ТВ
+https://tvcdnpotok.com/dpMFwf839Knj64UMWYpDHg/163/1783541115/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Музыка Первого
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Моя планета
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Мульт
+https://tvcdnpotok.com/u8D49ojVkxTm3WDYZwa1wA/206/1783541116/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Россия-Культура
+https://tvcdnpotok.com/d2EnMDEsjYKgWENvEdlPzw/579/1783541116/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Мультимузыка
+https://tvcdnpotok.com/NzxTA__p-ZBL84PI6yvHLQ/513/1783541116/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Мир
+https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Мама
+https://tvcdnpotok.com/LmfHfA05zq2XkSriddRMSQ/194/1783541117/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Наука 2.0
+https://tvcdnpotok.com/SBwk6TppryJjqP30D5OKGA/115/1783541117/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Любимое кино
+https://tvcdnpotok.com/qtUWGPSQtHt5xj-uDvTiNQ/534/1783541118/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Душевное
+https://tvcdnpotok.com/Pe0_k7UgQ2WMGDumSr1NDg/172/1783541119/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Наше крутое
+https://tvcdnpotok.com/brE-g6saWzjgKuX6awdlVQ/171/1783541119/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",НТВ-Хит
+https://tvcdnpotok.com/0CvPHszCxy4xUmsRTO3YHQ/508/1783541120/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",НТВ Мир
 https://streaming.thestream.cyou/live/213.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Мама
-https://tvcdnpotok.com/194/index.m3u8?wmsAuthSign=f1beb175857a0315fdebdd05b9b1a46b-1783518622-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Моя стихия
-https://tvcdnpotok.com/592/index.m3u8?wmsAuthSign=b3d84826b9e1bdcef10fee4b36a66d25-1783518622-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Охотник и рыболов
-https://cache1.cinerama.uz/blocked/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Муз-ТВ
-https://tvcdnpotok.com/163/index.m3u8?wmsAuthSign=3397a1002da5608eb3959447c43877bc-1783518624-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Мульт
-https://tvcdnpotok.com/206/index.m3u8?wmsAuthSign=260faab71c9789229ef58f4a9511715b-1783518624-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Мультимузыка
-https://tvcdnpotok.com/513/index.m3u8?wmsAuthSign=ca91a61d37ab3a29e7e74cf33f6dd49d-1783518625-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",РБК
-https://online-video.rbc.ru/online/rbctvhd.m3u8?e=e3&t=EiKMvg
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Россия 24
-https://cache1.cinerama.uz/blocked/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Душевное
-https://tvcdnpotok.com/172/index.m3u8?wmsAuthSign=f95c8d9e306a2544edae955aee5013b3-1783518629-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Наука 2.0
-https://tvcdnpotok.com/115/index.m3u8?wmsAuthSign=77589cb8e04c1364cc2abd327b2e6b75-1783518629-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Любимое кино
-https://tvcdnpotok.com/534/index.m3u8?wmsAuthSign=ecffa27aaa0756429309b88fe39e96cb-1783518629-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Пятый
+https://tvcdnpotok.com/7HCDAa1COrAOK5O2gvUbfg/524/1783541120/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",НТВ Сериал
-https://tvcdnpotok.com/509/index.m3u8?wmsAuthSign=526fcd1a12896e40e34077174f12bd61-1783518629-271i902i91i712
+https://tvcdnpotok.com/ngZ2v3EBTMV8GJ--rCyx2g/509/1783541120/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",НТВ-Хит
-https://tvcdnpotok.com/508/index.m3u8?wmsAuthSign=3ccaf736aa011f8cb5d727b6d6c9c485-1783518630-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Охотник и рыболов
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Наше крутое
-https://tvcdnpotok.com/171/index.m3u8?wmsAuthSign=69487ae43d0efbc17d0cdbc20e715af3-1783518630-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Остросюжетное HD
+https://tvcdnpotok.com/zJ12Zwvt7taWudL_QVgU9Q/578/1783541120/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Приключения HD
+https://tvcdnpotok.com/2zQQOQPo_CMtEGNhkbGYmg/542/1783541121/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Охота и рыбалка
+https://tvcdnpotok.com/_Cl_rkKa_x2iuXsb35iD5Q/538/1783541121/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Радость моя
+https://tvcdnpotok.com/ahZzIkYMgNMvRiFp55MEZA/158/1783541121/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Премиальное HD
+https://tvcdnpotok.com/XLV-kCDqzTZhePgVokZAdQ/134/1783541121/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Россия 24
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",РБК
+https://online-video.rbc.ru/online/rbctvhd.m3u8?e=e6&t=EiKMvg
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Сарафан
+https://tvcdnpotok.com/CNoaw2J5x4FNS12o1kSGOQ/209/1783541122/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Сила ТВ
+https://tvcdnpotok.com/232/index.m3u8?wmsAuthSign=48f4eac6eef2724780b3273b071ef26f-1783526663-39i91i13i13
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Русский иллюзион
+https://tvcdnpotok.com/zG8aBPKUCwpUgKclLo0Lqg/131/1783541123/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Русский детектив
+https://tvcdnpotok.com/HlO58yF4eRHKWgiUNa0A_g/136/1783541123/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Русский бестселлер
+https://tvcdnpotok.com/EinjLf2OeU7VFJjMMFTA_w/135/1783541123/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Совершенно секретно
+https://tvcdnpotok.com/KNBqCSLrXo_HY4BMmfeUtw/546/1783541123/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Страшное HD
+https://tvcdnpotok.com/GTQp5f03PHHCMOB_ru1dYg/216/1783541123/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",СТС Love
+https://tvcdnpotok.com/Qb6dyy-Q0IPtz18fO9IxCg/123/1783541123/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Спас
 https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Остросюжетное HD
-https://tvcdnpotok.com/578/index.m3u8?wmsAuthSign=47e60fccfcfe752960cd3efdd5fcf284-1783518631-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Охота и рыбалка
-https://tvcdnpotok.com/538/index.m3u8?wmsAuthSign=ae8e1f8a8672414054293d494b5ed360-1783518632-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Приключения HD
-https://tvcdnpotok.com/542/index.m3u8?wmsAuthSign=aa858fcaf2cea3e377bdc8b1777c719e-1783518633-271i902i91i712
-
 #EXTINF:-1 tvg-id="" group-title="Televizo",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Премиальное HD
-https://tvcdnpotok.com/134/index.m3u8?wmsAuthSign=5d1878ee462b738c97fdc7fda011e3b5-1783518633-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Пятый
-https://tvcdnpotok.com/524/index.m3u8?wmsAuthSign=c9f6f32cf79cfc44bcd20f3c70e5502e-1783518633-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Радость моя
-https://tvcdnpotok.com/158/index.m3u8?wmsAuthSign=cba258b850e898368f937786a28658d8-1783518634-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Русский бестселлер
-https://tvcdnpotok.com/135/index.m3u8?wmsAuthSign=2c819d8554d0e20fe74361fe5564504d-1783518636-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Русский детектив
-https://tvcdnpotok.com/136/index.m3u8?wmsAuthSign=8a72e1d4eabd725e572690b6bd36a364-1783518637-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Русский иллюзион
-https://tvcdnpotok.com/131/index.m3u8?wmsAuthSign=f8181352394941ace750756800de01ad-1783518639-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Сарафан
-https://tvcdnpotok.com/209/index.m3u8?wmsAuthSign=bf04fa08d4cf3eb1350f06a0ec7e8cbe-1783518639-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Сила ТВ
-https://tvcdnpotok.com/232/index.m3u8?wmsAuthSign=833e51d0450ab4339c660a164f2cc9d4-1783518640-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Совершенно секретно
-https://tvcdnpotok.com/546/index.m3u8?wmsAuthSign=c84c1c97bac1667a2180b4743e54adec-1783518640-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Страшное HD
-https://tvcdnpotok.com/216/index.m3u8?wmsAuthSign=eaf81e838e8583a4191123937b7c809f-1783518641-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",СТС Love
-https://tvcdnpotok.com/123/index.m3u8?wmsAuthSign=0f36574dd5b32b01078e0ab16ff6eda2-1783518642-271i902i91i712
-
 #EXTINF:-1 tvg-id="" group-title="Televizo",Техно 24
-https://tvcdnpotok.com/116/index.m3u8?wmsAuthSign=52498ef79bb3287beeceaa606b566292-1783518642-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Шансон ТВ
-https://tvcdnpotok.com/165/index.m3u8?wmsAuthSign=e0ab96d9cef2fd19d6f61f373f7a975e-1783518644-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Шокирующее HD
-https://tvcdnpotok.com/169/index.m3u8?wmsAuthSign=dd378d276c1a2d60b539c526c84143f7-1783518644-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Точка отрыва
-https://tvcdnpotok.com/517/index.m3u8?wmsAuthSign=d996437fd598e2ca61cbe7f55da6afae-1783518644-271i902i91i712
+https://tvcdnpotok.com/Ih7MP9oWYUgOZU7tRVy5lg/116/1783541124/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",9 TV (Израиль)
-https://tvcdnpotok.com/185/index.m3u8?wmsAuthSign=bdb386e944a704426b83c10cb910b983-1783518644-271i902i91i712
+https://tvcdnpotok.com/m8gQEJscxWhkP0imeVtT3w/185/1783541126/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Шансон ТВ
+https://tvcdnpotok.com/flUrNHQgO206_zQ2vualcg/165/1783541126/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Cartoon Network
+https://tvcdnpotok.com/f27L1BnI91h_S1tzQ4Qfgw/2042/1783541126/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Точка отрыва
+https://tvcdnpotok.com/K_bC3Sc5EsfTS8v9U8niwA/517/1783541127/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Уникум
-https://tvcdnpotok.com/102/index.m3u8?wmsAuthSign=27eb6614e29d40aa3d8bfe28a5810b55-1783518644-271i902i91i712
+https://tvcdnpotok.com/kxp961d33APsD1obpod3qg/102/1783541127/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Extreme sports
+https://tvcdnpotok.com/9PkeyMECSW2oARZzZBG7eQ/2032/1783541128/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",FilmBox
+https://tvcdnpotok.com/WIMzhH2e_JBjQlxtx03Oug/214/1783541128/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Gulli Girl
+https://tvcdnpotok.com/uaXIniVZnW1x9mEnwESpAA/180/1783541128/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fox Life
+https://tvcdnpotok.com/r5OgbFtPwmPW7aSsYfUtZg/568/1783541129/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Bollywood HD
+https://tvcdnpotok.com/RLJPkRYcVSRGqsVKqIjaCQ/184/1783541129/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Шокирующее HD
+https://tvcdnpotok.com/68du82l0T7sa6REFypdjIg/169/1783541129/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",History
+https://tvcdnpotok.com/hofmhxwHQYn8k9jnw02wuQ/114/1783541129/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",FOX
+https://tvcdnpotok.com/_1G5abfLB-5Vb9Wg5NVMXQ/569/1783541130/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Mezzo Live HD
+https://tvcdnpotok.com/tKGvjD-5msOKLnG6dbXjug/2092/1783541130/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Mezzo
+https://tvcdnpotok.com/YZcvTlwVmS24VmVQBcrsRw/553/1783541130/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",National Geographic
+https://tvcdnpotok.com/npcYM1Eclr1LLd8fnjtdeg/601/1783541130/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Nick Jr
+https://tvcdnpotok.com/5mltX7QVAxY4hhf1y-mVVg/210/1783541130/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Nat Geo Wild
+https://tvcdnpotok.com/wthRjHRUnuIhy_7AgZHShw/564/1783541130/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Nickelodeon
+https://tvcdnpotok.com/0Mf-aXNW8YwLfw4keziepQ/155/1783541131/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",TiJi
+https://tvcdnpotok.com/fcYAj2dklZHUQv2h-Oa0Og/202/1783541132/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Setanta Sports 1
 https://cache1.cinerama.uz/blocked/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Bollywood HD
-https://tvcdnpotok.com/184/index.m3u8?wmsAuthSign=c076ae88dc69e4cbd3fc693d3fbb8f12-1783518646-271i902i91i712
-
 #EXTINF:-1 tvg-id="" group-title="Televizo",Setanta Sports 2
 https://cache1.cinerama.uz/blocked/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Cartoon Network
-https://tvcdnpotok.com/2042/index.m3u8?wmsAuthSign=714fa9738b997bb72b33d4dd5af1c8bc-1783518647-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Extreme sports
-https://tvcdnpotok.com/2032/index.m3u8?wmsAuthSign=46eda387a1bbc3404a0ffcc7ba97f7e6-1783518647-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Fox Life
-https://tvcdnpotok.com/568/index.m3u8?wmsAuthSign=4ffb8c96bcfa9da6231f16039ba2974a-1783518650-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",FOX
-https://tvcdnpotok.com/569/index.m3u8?wmsAuthSign=81c70e777e5ea6cb3b690541e3ed446f-1783518650-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",FilmBox
-https://tvcdnpotok.com/214/index.m3u8?wmsAuthSign=805bd884d41ce51533efc70e827b4467-1783518651-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Gulli Girl
-https://tvcdnpotok.com/180/index.m3u8?wmsAuthSign=5c3458c85f2f52d7a6c1c297b8f88fa8-1783518651-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",History
-https://tvcdnpotok.com/114/index.m3u8?wmsAuthSign=d8f97e56cfdb11d8e0b104df1489646b-1783518651-271i902i91i712
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Детский мир
 https://s70378.cdn.ngenix.net/detskij_mir/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Mezzo
-https://tvcdnpotok.com/553/index.m3u8?wmsAuthSign=9b878768c3ec98ada0848ccc8d9e104a-1783518652-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Travel Channel
+https://tvcdnpotok.com/5d3ym_fNb790ifWQd_smkg/113/1783541133/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Mezzo Live HD
-https://tvcdnpotok.com/2092/index.m3u8?wmsAuthSign=09221e08fce408ad3f8b3bb91b975186-1783518653-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Black
+https://tvcdnpotok.com/XXtVjNc-9dN_JwfLteFZjQ/577/1783541133/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Sci-Fi
+https://tvcdnpotok.com/3kQOLtvACmvC7e946_pK1A/145/1783541133/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Red
+https://tvcdnpotok.com/lppVyTAvMZf4EZAdrmCD1g/576/1783541133/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Мультиландия
+https://tvcdnpotok.com/6X405hGGWAoY95FJxHgT6A/2045/1783541133/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Романтичное HD
+https://tvcdnpotok.com/3y7M5btwyKZpR2QF6P0_Rg/505/1783541133/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",TV 21
+https://tvcdnpotok.com/LXEEmgxfsE2ehSw7DQcwJQ/133/1783541134/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Первый Крымский
+https://tvcdnpotok.com/XYWNg9FQU1C7ZKERM59YcQ/533/1783541134/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Мир сериала
+https://tvcdnpotok.com/CkHMGL4jW5AyTy-DStMyPQ/589/1783541134/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",РТР-Планета
 https://streaming.thestream.cyou/live/211.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Nat Geo Wild
-https://tvcdnpotok.com/564/index.m3u8?wmsAuthSign=9aa8db7767d8f38bee64442d0b711a17-1783518654-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",National Geographic
-https://tvcdnpotok.com/601/index.m3u8?wmsAuthSign=4db0a18bc41966bd1ad099e6fabfb2d8-1783518655-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Nickelodeon
-https://tvcdnpotok.com/155/index.m3u8?wmsAuthSign=f9dea87fbcf5f2fc3813e325370c16d0-1783518655-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Nick Jr
-https://tvcdnpotok.com/210/index.m3u8?wmsAuthSign=896ff7fbcb46f6ea9e94fdd6e12cfafd-1783518655-271i902i91i712
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Соловьев Live
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
@@ -316,179 +346,155 @@ https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 tvg-id="" group-title="Televizo",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Red
-https://tvcdnpotok.com/576/index.m3u8?wmsAuthSign=095041e945bb67cdeb63291016c1907e-1783518656-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",ТАСС
-https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Televizo",Турецкие сериалы
 https://tv.cdntvtech.com/3/livetv.php?key=dizi.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Твоё ТВ Юмор
 https://tvoetv.space/tvoetv_humor/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",BackusTV Music
-https://lbgo.bozztv.com/07/ushba-t2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Sci-Fi
-https://tvcdnpotok.com/145/index.m3u8?wmsAuthSign=86e183ccddbc36c871daf202169b127d-1783518657-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Black
-https://tvcdnpotok.com/577/index.m3u8?wmsAuthSign=b8d82901dafee142609bfcd3228519c8-1783518658-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Звезда Плюс
 https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",TiJi
-https://tvcdnpotok.com/202/index.m3u8?wmsAuthSign=dd44ab92fd20785da785ed9323193d6c-1783518658-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",BackusTV Music
+https://lbgo.bozztv.com/07/ushba-t2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Союз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",360 Новости
-https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",Хит HD
+https://tvcdnpotok.com/xm1s6sZhpeM4r4CkWt91Gg/219/1783541138/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Фантастика HD
+https://tvcdnpotok.com/taAppww99VCDyr66GXaNwA/2066/1783541138/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",ОСН
 https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Беларусь 24
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",360 Новости
+https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Крым 24
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Televizo",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Televizo",Радио Спутник
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Travel Channel
-https://tvcdnpotok.com/113/index.m3u8?wmsAuthSign=1d1829f981b9ed6328ad07151bc96435-1783518661-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Первый Космический
+https://tvcdnpotok.com/wNLU8iHpUy4ZJH3fzVedQw/2006/1783541144/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Мир сериала
-https://tvcdnpotok.com/589/index.m3u8?wmsAuthSign=90978d4ddde18febd8b54ba56e2c004e-1783518662-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",ZooПарк
+https://tvcdnpotok.com/jfEH5u_8-xSTquGRSV4HNg/2022/1783541144/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Мультиландия
-https://tvcdnpotok.com/2045/index.m3u8?wmsAuthSign=0d4e995068f05257cf078357d165122c-1783518662-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Animal Planet
+https://tvcdnpotok.com/NurifApvCQwwAk_QQPVAWQ/600/1783541144/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Романтичное HD
-https://tvcdnpotok.com/505/index.m3u8?wmsAuthSign=00f306d92b29349b96ef448e464cb44e-1783518662-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",History 2
+https://tvcdnpotok.com/LhFRBzTCxiPXH6k5j8Splg/224/1783541145/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",TV 21
-https://tvcdnpotok.com/133/index.m3u8?wmsAuthSign=0cf7f3c2145b10dd76233ea7f78f94e0-1783518663-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Здоровое ТВ
+https://tvcdnpotok.com/Ih4PV_tcxOU7WJpty62tVQ/2015/1783541145/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Первый Крымский
-https://tvcdnpotok.com/533/index.m3u8?wmsAuthSign=6a6b28ca6e8f5ce7ca4c7c734f83e2b4-1783518664-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Океан HD
+https://tvcdnpotok.com/l4gFtLH0PV0fV7QuT5E3pw/2020/1783541144/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Фантастика HD
-https://tvcdnpotok.com/2066/index.m3u8?wmsAuthSign=022b112414d50ee1bfc7b6ccf7554197-1783518667-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Диалоги о рыбалке
+https://tvcdnpotok.com/maZvMcE5AANNze37qLpOzQ/2012/1783541145/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Хит HD
-https://tvcdnpotok.com/219/index.m3u8?wmsAuthSign=0ea89fa29ac7f22bfdfa52866c1221eb-1783518668-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Terra
+https://tvcdnpotok.com/RGv93EqowD0xNKm600Kcfw/2009/1783541145/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Univer TV
-https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",Поехали!
+https://tvcdnpotok.com/BxEsGAkMDqejRntB3FsFsQ/2001/1783541145/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Живая природа
+https://tvcdnpotok.com/IyG2fc4fE3tav0cBHbSq5Q/2025/1783541145/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Глазами туриста
+https://tvcdnpotok.com/cx-2vxGuklV-1hfNSuGfWQ/2026/1783541145/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",НТВ Право
+https://tvcdnpotok.com/GV_aBRCccGhIVFAfW0WkwA/2028/1783541147/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",English Club TV
+https://tvcdnpotok.com/SxOwRIUNqJ338tV9oihRrA/2021/1783541147/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Телепутешествия
 https://cdntelehub.com/3/livetv.php?key=teleputeshestviya.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",History 2
-https://tvcdnpotok.com/224/index.m3u8?wmsAuthSign=4899f97168e7008b129fc78b9e06b692-1783518671-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",ID: Investigation Discovery
+https://tvcdnpotok.com/7_ilw56ZLXuAHi9gSuxEww/570/1783541149/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Animal Planet
-https://tvcdnpotok.com/600/index.m3u8?wmsAuthSign=2e341a3d7e2ce0f273a8dc08325db358-1783518672-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",ZooПарк
-https://tvcdnpotok.com/2022/index.m3u8?wmsAuthSign=1332c965aa2b9801ad2456b4ce7692bf-1783518672-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Диалоги о рыбалке
-https://tvcdnpotok.com/2012/index.m3u8?wmsAuthSign=c02502366ae7bc59584b5727cb8c626a-1783518672-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Океан HD
-https://tvcdnpotok.com/2020/index.m3u8?wmsAuthSign=bf17bb3f63b6786755b4d93d4d8c72ce-1783518673-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Первый Космический
-https://tvcdnpotok.com/2006/index.m3u8?wmsAuthSign=99b08f2eb3497ae71c7fd0926d1a20bb-1783518673-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Здоровое ТВ
-https://tvcdnpotok.com/2015/index.m3u8?wmsAuthSign=df7422d34f611c82d4e527a87cd20465-1783518674-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Поехали!
-https://tvcdnpotok.com/2001/index.m3u8?wmsAuthSign=1f8347e84bddcd9c8cc955a55b41e3a5-1783518674-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Глазами туриста
-https://tvcdnpotok.com/2026/index.m3u8?wmsAuthSign=914be4b853d20b1a26961d6a00352556-1783518674-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Terra
-https://tvcdnpotok.com/2009/index.m3u8?wmsAuthSign=91e0902a4b1f45fee548d40b1f8f1a93-1783518674-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Живая природа
-https://tvcdnpotok.com/2025/index.m3u8?wmsAuthSign=306e91485ae9e7d4ea36f0edb58a35da-1783518675-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",НТВ Право
-https://tvcdnpotok.com/2028/index.m3u8?wmsAuthSign=e28332433602d0b2d59a4cbfa0c2b4f4-1783518675-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",English Club TV
-https://tvcdnpotok.com/2021/index.m3u8?wmsAuthSign=93ac24c7e94de04f9cd7199076a5ccf4-1783518676-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Домашние животные
-https://tvcdnpotok.com/2007/index.m3u8?wmsAuthSign=895481cf8294b8af4267cde12d016191-1783518681-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Психология 21
-https://tvcdnpotok.com/2016/index.m3u8?wmsAuthSign=5f9e04a95712acf3d90e796093d6c55d-1783518681-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Tennis Channel
-https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Вопросы и ответы
-https://tvcdnpotok.com/2017/index.m3u8?wmsAuthSign=428daa0f8c60cea19afbd551c76df6d1-1783518682-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Univer TV
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Успех
-https://tvcdnpotok.com/2003/index.m3u8?wmsAuthSign=6e8dadcba5ef533a1604c600fb167b6a-1783518683-271i902i91i712
+https://tvcdnpotok.com/9vxbJGHbOE1O8H0qRCDUQA/2003/1783541149/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Наша Тема
+https://tvcdnpotok.com/nduONxJ4dnwSGVHSc4OrBA/2030/1783541149/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Психология 21
+https://tvcdnpotok.com/NTWB064tOXySB2mYoZGmdA/2016/1783541149/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Пес и Ко
-https://tvcdnpotok.com/2076/index.m3u8?wmsAuthSign=4d953a0b90baefaa18b9d8decf817dbd-1783518683-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",КтоКуда
-https://tvcdnpotok.com/2005/index.m3u8?wmsAuthSign=413bbbc976a2fc15e27c93154ab04e1e-1783518684-271i902i91i712
+https://tvcdnpotok.com/Iu557K7PxFTRpC2mIVjaNg/2076/1783541149/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Первый Вегетарианский
-https://tvcdnpotok.com/2019/index.m3u8?wmsAuthSign=fe3244a1e8101c625d10158a6a001f56-1783518684-271i902i91i712
+https://tvcdnpotok.com/PdNktQH1aLsMniVAkFdkIQ/2019/1783541149/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",КтоКуда
+https://tvcdnpotok.com/C9rYHp5290qCWiQfL9aSkQ/2005/1783541149/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Вопросы и ответы
+https://tvcdnpotok.com/Yw7ofiA8gsDhfMiTP3j7AQ/2017/1783541149/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Домашние животные
+https://tvcdnpotok.com/q6cdgw_DrUcae5FQN-CyuQ/2007/1783541149/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Big Planet
+https://tvcdnpotok.com/aXXqUvTTklTF_jQoWFR-7Q/2010/1783541150/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Viasat Explore
+https://tvcdnpotok.com/FLlSFqzLTpACeYo1wLE5mg/109/1783541150/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Viasat History
+https://tvcdnpotok.com/bNGyQCCTgcYjDilkju5PMw/111/1783541150/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Viasat Nature
+https://tvcdnpotok.com/oSjdS5FGc7nwWGblab_k2g/110/1783541150/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Дикая охота
+https://tvcdnpotok.com/9HcCO2AXE1p92N4u8VnUOQ/2014/1783541150/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Boxing TV
 https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",ID: Investigation Discovery
-https://tvcdnpotok.com/570/index.m3u8?wmsAuthSign=5e116f33b5b1ff2f5ce840858766f40b-1783518684-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Большая Азия
+https://tvcdnpotok.com/WWCULcpMztWEyR8NxQLGKA/2002/1783541152/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Наша Тема
-https://tvcdnpotok.com/2030/index.m3u8?wmsAuthSign=3b925208e72dcb9d7c5bc23ae28460dd-1783518685-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Дикая рыбалка
+https://tvcdnpotok.com/TrO8DHCekN-z4pCgqeTOYg/2013/1783541153/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Big Planet
-https://tvcdnpotok.com/2010/index.m3u8?wmsAuthSign=37f3a4265e1fc2d65020db15a58eaa7f-1783518685-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Старт ТВ
+https://tvcdnpotok.com/YRXeAHJpwY6QNR7gw0v8sg/2031/1783541155/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Trace Sport Stars
+https://stream8.cinerama.uz/1274/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Motor Racing
 https://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Viasat Explore
-https://tvcdnpotok.com/109/index.m3u8?wmsAuthSign=626630a95305a7e5bd7d7f473a812e33-1783518685-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Viasat History
-https://tvcdnpotok.com/111/index.m3u8?wmsAuthSign=ae5cd08863edb8a29fc822e4122449ef-1783518685-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",QazSport
-https://block.qazcdn.com/block/geoblock.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Trace Sport Stars
-https://cache1.cinerama.uz/blocked/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",KroneHit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
@@ -496,29 +502,32 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
 #EXTINF:-1 tvg-id="" group-title="Televizo",Retro Music TV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Viasat Nature
-https://tvcdnpotok.com/110/index.m3u8?wmsAuthSign=cfc59f01d3e6a7b5bb86af130d3605d4-1783518686-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",MCM Top
+https://tvcdnpotok.com/d3CNjQ-NK0ZFBr3-C37idw/535/1783541155/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",MuzzOne
+https://lbgo.bozztv.com/07/ushba-t3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",QazSport
+https://block.qazcdn.com/block/geoblock.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",XFC TV Fightworld
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2351
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Дикая охота
-https://tvcdnpotok.com/2014/index.m3u8?wmsAuthSign=52805d6ac107856832fab70809d636ea-1783518686-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Дикая рыбалка
-https://tvcdnpotok.com/2013/index.m3u8?wmsAuthSign=24fa3361648b06d914beb2f8a31ef904-1783518686-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",V2Beat
-https://abr.de1se01.v2beat.live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Televizo",World Poker Tour
 https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Rock TV
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",Tennis Channel
+https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",MuzzOne
-https://lbgo.bozztv.com/07/ushba-t3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",TLC
+https://tvcdnpotok.com/3-pavs2Fyb-qE55s8GEUjQ/229/1783541156/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Москва Доверие
+https://tvcdnpotok.com/QpmaoV1z7yvUIqD81S1oSA/2004/1783541156/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",FreshTV
 https://fl1003.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
@@ -526,11 +535,23 @@ https://fl1003.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="Televizo",SONGTV Россия
 https://songtv.hls.iptvdc.com/web-russia/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Магнат ТВ
-https://s1.tv-nano.com/Magnat/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",Телекафе
+https://tvcdnpotok.com/MtO4yZTfItD7eFis4uhW6Q/2018/1783541157/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Trace Urban
 https://channels.trace.plus/Traceprod/URBAN_FR/.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",НТВ Стиль
+https://tvcdnpotok.com/RCTAULLwKWecfgSQ4_jSEg/2029/1783541157/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Магнат ТВ
+https://s1.tv-nano.com/Magnat/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",V2Beat
+https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Е ТВ
 https://live20.bozztv.com/giatvplayout7/ushba44/index.m3u8
@@ -538,35 +559,62 @@ https://live20.bozztv.com/giatvplayout7/ushba44/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Televizo",Luxury
 https://s1.tv-nano.com/Luxury_rec/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Televizo",Trash TV
+https://cdntelestream.com/3/livetv.php?key=trash.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Televizo",Ювелирочка
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Shopping Live
-https://shoppinglive.mediacdn.ru/cdn/shopping/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",Том и Джерри
+https://tvcdnpotok.com/Yd8foK6bA4ej6cNazaKYzQ/156/1783541159/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",7tv
-https://v4.proofix.ru/7tv-live/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",Советские мультфильмы
+https://tvcdnpotok.com/Bj4hYKxfhP-qL8UUDaqyFQ/244/1783541159/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Витрина ТВ
 https://v4.proofix.ru/vitrina-live/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Trash TV
-https://cdntelestream.com/3/livetv.php?key=trash.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",Любимое HD
+https://tvcdnpotok.com/7kdtibQ755jbhsREqNXnxw/236/1783541159/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",1FILMAX Фантастика
-https://tvs.cdntvtech.com/3/livetv.php?key=next-epic.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",7tv
+https://v4.proofix.ru/7tv-live/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",2FILMAX Комедия
-https://tvs.cdntvtech.com/3/livetv.php?key=c-comedy.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",Shopping Live
+https://shoppinglive.mediacdn.ru/cdn/shopping/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",3FILMAX Мелодрама
-https://tvs.cdntvtech.com/3/livetv.php?key=ys-melodrama.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",Мосфильм. Золотая коллекция
+https://tvcdnpotok.com/_okmGVX2kdmNcERfWB5nkg/235/1783541160/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Большая Азия
-https://tvcdnpotok.com/2002/index.m3u8?wmsAuthSign=d4c79db9d0ffb65c45f0aac9bd187430-1783518692-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Блокбастер HD
+https://tvcdnpotok.com/FWQ0xdiv2xIYfQPMj9xgtA/249/1783541160/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Старт ТВ
-https://tvcdnpotok.com/2031/index.m3u8?wmsAuthSign=698d74736f3a8e84429f12606a524ac5-1783518694-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Советское кино
+https://tvcdnpotok.com/SI2i28az5Tk5AUTr_oyLkg/243/1783541160/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Победа
+https://tvcdnpotok.com/667x4rSyckG9islXxQTJ3Q/218/1783541160/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Кино 1 International
+https://tvcdnpotok.com/WdMdd8YTtfQ-ac1EUz9p7w/516/1783541160/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Кинеко
+https://tvcdnpotok.com/brB_03uNgc9VPotAsXWZcg/2037/1783541161/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Cartoonito
+https://tvcdnpotok.com/LaRyxybOo32nKni5EBZdtQ/2043/1783541162/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",СТС Kids
+https://tvcdnpotok.com/Pq_-JRNf2GE2sVrMRaK-KQ/2046/1783541164/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",KinoJam 1
+https://tvcdnpotok.com/N15RJV6v1hg5bUOHDm_o_Q/2039/1783541164/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Рыжий
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",В гостях у сказки
+https://tvcdnpotok.com/fwp4CYjaGW5EzOuv8y1OCQ/550/1783541165/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_1
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
@@ -658,68 +706,38 @@ https://vz-995722ed-c12.b-cdn.net/3ff2aec6-9e1c-404d-a995-30a2736372a4/playlist.
 #EXTINF:-1 tvg-id="" group-title="Televizo",Fashion TV_30
 https://vz-995722ed-c12.b-cdn.net/b26aa665-b803-48cc-9978-7838be73084c/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",MCM Top
-https://tvcdnpotok.com/535/index.m3u8?wmsAuthSign=d9e2506f37f6c70045c519344e3d7f5d-1783518697-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Телекафе
-https://tvcdnpotok.com/2018/index.m3u8?wmsAuthSign=4c54d586b463010fdf9e300c1f9c6ab6-1783518697-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",TLC
-https://tvcdnpotok.com/229/index.m3u8?wmsAuthSign=3867c167d0704e0d323525e253395098-1783518697-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Москва Доверие
-https://tvcdnpotok.com/2004/index.m3u8?wmsAuthSign=0e2b2d9f1f5557cd4929837d93521075-1783518698-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",НТВ Стиль
-https://tvcdnpotok.com/2029/index.m3u8?wmsAuthSign=59ccf67850a260329fdfa8977470d242-1783518699-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Мульт БУМ!
-https://tvs.cdntvtech.com/3/livetv.php?key=next-joy.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Советские мультфильмы
-https://tvcdnpotok.com/244/index.m3u8?wmsAuthSign=1c1e1a05434a0854e6bd08e798917cb6-1783518701-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Том и Джерри
-https://tvcdnpotok.com/156/index.m3u8?wmsAuthSign=5ecb9e29984776545f7531313340cc8d-1783518701-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Рыжий
-https://cache1.cinerama.uz/blocked/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Любимое HD
-https://tvcdnpotok.com/236/index.m3u8?wmsAuthSign=709915fb9e08f58e532b85ad5d3f7e2a-1783518701-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Мосфильм. Золотая коллекция
-https://tvcdnpotok.com/235/index.m3u8?wmsAuthSign=018043ab4498fa20aeb91c02be653ce9-1783518702-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Блокбастер HD
-https://tvcdnpotok.com/249/index.m3u8?wmsAuthSign=31fe1a3bf0f5d994f45da868cc8357b9-1783518703-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Советское кино
-https://tvcdnpotok.com/243/index.m3u8?wmsAuthSign=3ac978d02e48024d63048cc49a93343c-1783518703-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Победа
-https://tvcdnpotok.com/218/index.m3u8?wmsAuthSign=fc1ed0125bd1fab874684013226b5879-1783518704-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Кинеко
-https://tvcdnpotok.com/2037/index.m3u8?wmsAuthSign=cf54116a63ea5e33cf7146391af30381-1783518705-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Кино 1 International
-https://tvcdnpotok.com/516/index.m3u8?wmsAuthSign=49c8372de11b5b8a49b02b0d95647763-1783518705-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",KinoJam 1
-https://tvcdnpotok.com/2039/index.m3u8?wmsAuthSign=7abfa97b00a3261a2f23ad33f1705bb6-1783518709-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Cartoonito
-https://tvcdnpotok.com/2043/index.m3u8?wmsAuthSign=afddd51f2a5b25b6dfe30d7c50dec312-1783518710-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",СТС Kids
-https://tvcdnpotok.com/2046/index.m3u8?wmsAuthSign=75167cc267e8b9bd47489626668a3add-1783518710-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",В гостях у сказки
-https://tvcdnpotok.com/550/index.m3u8?wmsAuthSign=1894343a9c760a3258a3cdb79fb4c1b2-1783518710-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Da Vinci
+https://tvcdnpotok.com/c5PsCpj64PVIpBgU-6NeFw/2008/1783541166/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",СоюзМультфильм
-https://tvcdnpotok.com/511/index.m3u8?wmsAuthSign=a10ebf6179b714a39d3ac883fa421d97-1783518710-271i902i91i712
+https://tvcdnpotok.com/FOTObebJUBcOpoB3rRsCUA/511/1783541166/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Eurosport 2
+https://tvcdnpotok.com/595/index.m3u8?wmsAuthSign=d372235edb0c1d3146fb7eff57052650-1783526706-39i91i13i13
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Action
+https://tvcdnpotok.com/FpDBE8iEnfv9QyNnlWwgOQ/2051/1783541167/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan
+https://tvcdnpotok.com/5Qh2waK7Zwdypz-1JVATtw/2049/1783541167/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Eurosport 1
+https://tvcdnpotok.com/594/index.m3u8?wmsAuthSign=00f4009e8e97526876205faef1fc9316-1783526707-39i91i13i13
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Катастрофы
+https://tvcdnpotok.com/heevgmh8MuCZby6VO9QYyg/2055/1783541167/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Комедия
+https://tvcdnpotok.com/mMctr92Ca6wR4d6rvpW-gw/2057/1783541167/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Melodrama
+https://tvcdnpotok.com/UugR72vcFPrTdWkFZJWZWQ/2053/1783541168/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Marvel
+https://tvcdnpotok.com/apasJznd87NypnyWsBfCCw/2050/1783541168/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Top
+https://tvcdnpotok.com/Ct8nWvKDqCGmLOYqxe8f2Q/2054/1783541168/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",MM Боевик
 https://cdntelestream.com/3/livetv.php?key=mm-boevik.m3u8
@@ -727,59 +745,29 @@ https://cdntelestream.com/3/livetv.php?key=mm-boevik.m3u8
 #EXTINF:-1 tvg-id="" group-title="Televizo",MM 007
 https://cdntelestream.com/3/livetv.php?key=mm-007.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Da Vinci
-https://tvcdnpotok.com/2008/index.m3u8?wmsAuthSign=b38dd6795aefbb7f2e478b98c98e4d89-1783518711-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Thriller
+https://tvcdnpotok.com/OvTJyQC57f1VJGJgBDBshQ/2052/1783541168/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",MM Фантастика
-https://tvs.cdntvtech.com/4/livetv.php?key=mm-fantastika.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan VHS
+https://tvcdnpotok.com/sfHKdGuvCZ81j5I21tYCzQ/2058/1783541168/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",MM Приключения
 https://cdntelestream.com/3/livetv.php?key=mm-priklyucheniya.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Eurosport 1
-https://tvcdnpotok.com/594/index.m3u8?wmsAuthSign=c1a04b9669db7895e04bfcfd1ad9839b-1783518712-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Eurosport 2
-https://tvcdnpotok.com/595/index.m3u8?wmsAuthSign=a75d2e62b6d0c5f7bdb711d87289adba-1783518712-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",MM Скорость
-https://tvs.cdntvtech.com/4/livetv.php?key=mm-skorost.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Ужасы
+https://tvcdnpotok.com/41Qur5L9VQa7pXizc7og4A/2056/1783541168/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",KBC-Elite Comedys
 https://cdntelestream.com/3/livetv.php?key=kbc-elite-comedys.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan
-https://tvcdnpotok.com/2049/index.m3u8?wmsAuthSign=0a4f7adfa3b6c8a75a8a7e5ceae20db3-1783518713-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",MM Ужастик
-https://cdntelestream.com/3/livetv.php?key=mm-uzhastik.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Action
-https://tvcdnpotok.com/2051/index.m3u8?wmsAuthSign=aeae33b52baa7d7b7a930b8be9ef4b99-1783518713-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Комедия
-https://tvcdnpotok.com/2057/index.m3u8?wmsAuthSign=f016c0744ff6473ee3f282088a1b3bdc-1783518713-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",KBC-Fantastic
-https://tvs.cdntvtech.com/4/livetv.php?key=kbc-fantastic.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",KBC-Newfilm
+https://cdntelestream.com/3/livetv.php?key=kbc-newfilm.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",KBC-Goblin
 https://cdntelestream.com/3/livetv.php?key=kbc-goblin.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Катастрофы
-https://tvcdnpotok.com/2055/index.m3u8?wmsAuthSign=4653bd8e9164dc2db394be9d125f0b09-1783518714-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Marvel
-https://tvcdnpotok.com/2050/index.m3u8?wmsAuthSign=ad5bbf62d80bdb46ba7b5595ae4c041b-1783518714-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",KBC-Newfilm
-https://cdntelestream.com/3/livetv.php?key=kbc-newfilm.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Movie Hits
-https://cdntelehub.com/3/livetv.php?key=vs-moviehits.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Premiere
-https://cdntelehub.com/3/livetv.php?key=vs-premiere.m3u8
+#EXTINF:-1 tvg-id="" group-title="Televizo",MM Ужастик
+https://cdntelestream.com/3/livetv.php?key=mm-uzhastik.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Комедия
 https://cdntelehub.com/3/livetv.php?key=vs-komediya.m3u8
@@ -787,74 +775,62 @@ https://cdntelehub.com/3/livetv.php?key=vs-komediya.m3u8
 #EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Гоблин
 https://cdntelehub.com/3/livetv.php?key=vs-goblin.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Premiere
+https://cdntelehub.com/3/livetv.php?key=vs-premiere.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Movie Hits
+https://cdntelehub.com/3/livetv.php?key=vs-moviehits.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Страшное
 https://cdntelehub.com/3/livetv.php?key=vs-strashnoe.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",YOSSO Adventure
-https://cdntelehub.com/3/livetv.php?key=ys-adventure.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Триллер
-https://cdntelehub.com/3/livetv.php?key=vs-triller.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",YOSSO Adrenaline
-https://tvs.cdntvtech.com/4/livetv.php?key=ys-adrenaline.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",YOSSO Grand
-https://cdntelehub.com/3/livetv.php?key=ys-grand.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",YOSSO New Кино
-https://cdntelehub.com/3/livetv.php?key=ys-newkino.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Melodrama
-https://tvcdnpotok.com/2053/index.m3u8?wmsAuthSign=2198a4269a0393822c7b986eac090636-1783518716-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Thriller
-https://tvcdnpotok.com/2052/index.m3u8?wmsAuthSign=10905c46d517f57a1c5d66825b98db7b-1783518716-271i902i91i712
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",YOSSO Thriller
 https://cdntelehub.com/3/livetv.php?key=ys-thriller.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Top
-https://tvcdnpotok.com/2054/index.m3u8?wmsAuthSign=29333dae3f4b201bdea10b30b51a5588-1783518720-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",YOSSO New Кино
+https://cdntelehub.com/3/livetv.php?key=ys-newkino.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan Ужасы
-https://tvcdnpotok.com/2056/index.m3u8?wmsAuthSign=f7e3d13fdc2ae3cfc95bdbd1acb2e8ab-1783518720-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",VeleS Триллер
+https://cdntelehub.com/3/livetv.php?key=vs-triller.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",CineMan VHS
-https://tvcdnpotok.com/2058/index.m3u8?wmsAuthSign=9547b9db08f77d929780748d93542243-1783518721-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",YOSSO Adventure
+https://cdntelehub.com/3/livetv.php?key=ys-adventure.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Adventure
-https://tvcdnpotok.com/2068/index.m3u8?wmsAuthSign=2862e088adfc25b3c597d6f366aa0d9a-1783518727-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Family
-https://tvcdnpotok.com/2063/index.m3u8?wmsAuthSign=55127c0d8ee498429d790faf6beb745b-1783518727-271i902i91i712
-
-#EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Fantastic
-https://tvcdnpotok.com/2066/index.m3u8?wmsAuthSign=866d4d1740ff5603ea1def7ba85e39fd-1783518727-271i902i91i712
+https://tvcdnpotok.com/BkGj6v4PQUnj6N5_om27Mg/2068/1783541172/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Cinema
-https://tvcdnpotok.com/2060/index.m3u8?wmsAuthSign=8baa93cac20c21476b8fb4371b1ac575-1783518727-271i902i91i712
+https://tvcdnpotok.com/hFYgc5XlPR4khsAdypEpYg/2060/1783541173/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Horror
-https://tvcdnpotok.com/2067/index.m3u8?wmsAuthSign=5bebbb5c2463dd2a68e94b30d63c0663-1783518728-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",YOSSO Grand
+https://cdntelehub.com/3/livetv.php?key=ys-grand.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Comedy
-https://tvcdnpotok.com/2061/index.m3u8?wmsAuthSign=23eb5ce8b0af239092a2e8593a31404b-1783518728-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Family
+https://tvcdnpotok.com/lszrWJfPuY3gq09BqxQrAw/2063/1783541173/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Premiere
-https://tvcdnpotok.com/2062/index.m3u8?wmsAuthSign=1c39fb398314390a5669b93323d3b764-1783518728-271i902i91i712
+https://tvcdnpotok.com/Ryu9PvndwWqggLMvFW2klQ/2062/1783541173/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Rating
-https://tvcdnpotok.com/2064/index.m3u8?wmsAuthSign=1e50df996329aa1f3e47061fc44e1b72-1783518728-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Fantastic
+https://tvcdnpotok.com/5Mz9-ozPNV5O205hBjw86A/2066/1783541173/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Horror
+https://tvcdnpotok.com/FulxJlcRxBjzm3il4K9Zmg/2067/1783541174/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Comedy
+https://tvcdnpotok.com/DblRX_HfQJh7Os4G26aRFg/2061/1783541173/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Romantic
-https://tvcdnpotok.com/2069/index.m3u8?wmsAuthSign=00e69df289b1938163dfd9870cd18cad-1783518728-271i902i91i712
+https://tvcdnpotok.com/W78njrCJRH7_a8bTIMirZA/2069/1783541174/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Thriller
-https://tvcdnpotok.com/2070/index.m3u8?wmsAuthSign=86eda3c12893b3d054c52e83b3f3dce5-1783518728-271i902i91i712
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Rating
+https://tvcdnpotok.com/PujvZvufBpvT8_JtalGgtg/2064/1783541174/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Soviet
-https://tvcdnpotok.com/2071/index.m3u8?wmsAuthSign=5c30ed01d82a1802876d5dae3a050651-1783518728-271i902i91i712
+https://tvcdnpotok.com/HhOS1tNr5f7ZD-ivFPA9yg/2071/1783541174/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Televizo",Fresh Thriller
+https://tvcdnpotok.com/x7Kr9WwxJDmhGtxkOm8iLg/2070/1783541174/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Televizo",Fresh VHS
-https://tvcdnpotok.com/2065/index.m3u8?wmsAuthSign=82e0b9e368f64bf1e55471b8e80f7c3f-1783518729-271i902i91i712
+https://tvcdnpotok.com/6zC_zYSiWbhzlqFBvHUS7w/2065/1783541174/index.m3u8
